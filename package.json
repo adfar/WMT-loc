@@ -1,0 +1,24 @@
+{
+  "name": "wmt-loc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adfar/WMT-loc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adfar/WMT-loc/issues"
+  },
+  "homepage": "https://github.com/adfar/WMT-loc#readme",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}

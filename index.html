@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walmart Store Locator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Walmart Store Locator</h1>
+            <p class="subtitle">Enter a store number to find location and contact information</p>
+        </header>
+
+        <main>
+            <div class="search-section">
+                <div class="search-box">
+                    <input
+                        type="text"
+                        id="storeNumber"
+                        placeholder="Enter store number (e.g., 2242)"
+                        autocomplete="off"
+                    >
+                    <button id="searchBtn" type="button">Search</button>
+                </div>
+            </div>
+
+            <div id="results" class="results-section hidden">
+                <div class="store-card">
+                    <div class="store-header">
+                        <h2 id="storeName"></h2>
+                        <span id="storeType" class="store-type"></span>
+                    </div>
+                    <div class="store-details">
+                        <div class="detail-row">
+                            <span class="label">Store #:</span>
+                            <span id="storeNum"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">Address:</span>
+                            <span id="storeAddress"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">Phone:</span>
+                            <a id="storePhone" href=""></a>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">City:</span>
+                            <span id="storeCity"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="label">State:</span>
+                            <span id="storeState"></span>
+                        </div>
+                    </div>
+                    <div class="store-actions">
+                        <a id="directionsLink" href="" target="_blank" class="action-btn">Get Directions</a>
+                        <a id="walmartLink" href="" target="_blank" class="action-btn secondary">View on Walmart.com</a>
+                    </div>
+                </div>
+            </div>
+
+            <div id="error" class="error-section hidden">
+                <p id="errorMessage"></p>
+            </div>
+
+            <div id="loading" class="loading-section hidden">
+                <div class="spinner"></div>
+                <p>Searching...</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Data collected from <a href="https://www.walmart.com/store-directory" target="_blank">Walmart Store Directory</a></p>
+            <p id="storeCount"></p>
+        </footer>
+    </div>
+
+    <script src="stores.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

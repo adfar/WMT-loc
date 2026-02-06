@@ -1,0 +1,32 @@
+===========================================
+  Walmart Store Data Collector
+===========================================
+
+Resuming collection...
+States completed: 0/51
+Stores already collected: 39
+
+Progress saved: 39 stores collected
+
+=== Collecting Alaska (AK) ===
+Found 7 cities in Alaska
+  anchorage: 0 stores
+  eagle river: 0 stores
+  fairbanks: 0 stores
+  kenai: 0 stores
+  Error processing city: page.evaluate: Target page, context or browser has been closed
+  Error processing city: page.goto: Target page, context or browser has been closed
+  Error processing city: page.goto: Target page, context or browser has been closed
+Total stores collected in Alaska: 0
+Progress saved: 39 stores collected
+
+Alaska completed!
+Total progress: 1/51 states
+Total stores: 39
+Progress saved: 39 stores collected
+
+=== Collecting Alabama (AL) ===
+Fatal error: page.goto: Target page, context or browser has been closed
+    at collectState (/Users/aidanfarnum/code/WMT-loc/auto-collect.js:133:16)
+    at main (/Users/aidanfarnum/code/WMT-loc/auto-collect.js:287:19)
+Progress saved: 39 stores collected
