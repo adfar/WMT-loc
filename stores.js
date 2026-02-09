@@ -1,5 +1,5 @@
 // Walmart Store Data
-// Auto-generated from CSV: 2026-01-12T05:45:18.822Z
+// Auto-generated: 2026-02-08T23:56:17.520Z
 // Total stores: 5209
 
 const STORES = {
@@ -8,7 +8,7 @@ const STORES = {
         "name": "Rogers Supercenter",
         "type": "Supercenter",
         "address": "2110 W WALNUT ST, Rogers, AR 72756-3246",
-        "phone": "",
+        "phone": "479-636-3222",
         "city": "Rogers",
         "state": "AR"
     },
@@ -17,7 +17,7 @@ const STORES = {
         "name": "Harrison Supercenter",
         "type": "Supercenter",
         "address": "161 N WALMART DR, Harrison, AR 72601-1960",
-        "phone": "",
+        "phone": "870-365-8400",
         "city": "Harrison",
         "state": "AR"
     },
@@ -35,7 +35,7 @@ const STORES = {
         "name": "Siloam Springs Supercenter",
         "type": "Supercenter",
         "address": "2901 HIGHWAY 412 E, Siloam Springs, AR 72761-8673",
-        "phone": "",
+        "phone": "479-524-5101",
         "city": "Siloam Springs",
         "state": "AR"
     },
@@ -44,7 +44,7 @@ const STORES = {
         "name": "Conway Supercenter",
         "type": "Supercenter",
         "address": "1155 HWY 65 NORTH, Conway, AR 72032-2857",
-        "phone": "",
+        "phone": "501-329-0023",
         "city": "Conway",
         "state": "AR"
     },
@@ -53,7 +53,7 @@ const STORES = {
         "name": "Sherwood Supercenter",
         "type": "Supercenter",
         "address": "9053 HIGHWAY 107, Sherwood, AR 72120-2933",
-        "phone": "",
+        "phone": "501-833-0972",
         "city": "Sherwood",
         "state": "AR"
     },
@@ -62,7 +62,7 @@ const STORES = {
         "name": "Morrilton Supercenter",
         "type": "Supercenter",
         "address": "1621 NORTH BUSINESS 9, Morrilton, AR 72110-4505",
-        "phone": "",
+        "phone": "501-354-0290",
         "city": "Morrilton",
         "state": "AR"
     },
@@ -89,7 +89,7 @@ const STORES = {
         "name": "Mountain Home Supercenter",
         "type": "Supercenter",
         "address": "65 WALMART DR, Mountain Home, AR 72653-6784",
-        "phone": "",
+        "phone": "870-492-9299",
         "city": "Mountain Home",
         "state": "AR"
     },
@@ -134,7 +134,7 @@ const STORES = {
         "name": "Van Buren Supercenter",
         "type": "Supercenter",
         "address": "2214 FAYETTEVILLE RD, Van Buren, AR 72956-6508",
-        "phone": "",
+        "phone": "479-474-2314",
         "city": "Van Buren",
         "state": "AR"
     },
@@ -152,7 +152,7 @@ const STORES = {
         "name": "Newport Supercenter",
         "type": "Supercenter",
         "address": "1211 HIGHWAY 367 N, Newport, AR 72112-2513",
-        "phone": "",
+        "phone": "870-523-2500",
         "city": "Newport",
         "state": "AR"
     },
@@ -206,7 +206,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "2000 JOHN HARDEN DR, Jacksonville, AR 72076-2730",
-        "phone": "",
+        "phone": "501-985-8731",
         "city": "Jacksonville",
         "state": "AR"
     },
@@ -287,7 +287,7 @@ const STORES = {
         "name": "Nashville Supercenter",
         "type": "Supercenter",
         "address": "1710 S 4TH ST, Nashville, AR 71852-3413",
-        "phone": "",
+        "phone": "870-845-1881",
         "city": "Nashville",
         "state": "AR"
     },
@@ -314,7 +314,7 @@ const STORES = {
         "name": "Paragould Supercenter",
         "type": "Supercenter",
         "address": "2802 W KINGSHIGHWAY, Paragould, AR 72450-2617",
-        "phone": "",
+        "phone": "870-236-9707",
         "city": "Paragould",
         "state": "AR"
     },
@@ -395,7 +395,7 @@ const STORES = {
         "name": "Jonesboro Supercenter",
         "type": "Supercenter",
         "address": "1815 E HIGHLAND DR, Jonesboro, AR 72401-6118",
-        "phone": "",
+        "phone": "870-931-5001",
         "city": "Jonesboro",
         "state": "AR"
     },
@@ -458,7 +458,7 @@ const STORES = {
         "name": "Hot Springs Supercenter",
         "type": "Supercenter",
         "address": "1601 ALBERT PIKE RD, Hot Springs, AR 71913-4020",
-        "phone": "",
+        "phone": "501-624-2498",
         "city": "Hot Springs",
         "state": "AR"
     },
@@ -467,7 +467,7 @@ const STORES = {
         "name": "Springdale Supercenter",
         "type": "Supercenter",
         "address": "2004 S PLEASANT ST, Springdale, AR 72764-6204",
-        "phone": "",
+        "phone": "479-751-4817",
         "city": "Springdale",
         "state": "AR"
     },
@@ -476,7 +476,7 @@ const STORES = {
         "name": "Booneville Supercenter",
         "type": "Supercenter",
         "address": "1400 EAST MAIN ST, Booneville, AR 72927-4921",
-        "phone": "",
+        "phone": "479-675-3688",
         "city": "Booneville",
         "state": "AR"
     },
@@ -494,7 +494,7 @@ const STORES = {
         "name": "Walnut Ridge Supercenter",
         "type": "Supercenter",
         "address": "1600 W MAIN ST, Walnut Ridge, AR 72476-9401",
-        "phone": "",
+        "phone": "870-886-6605",
         "city": "Walnut Ridge",
         "state": "AR"
     },
@@ -503,7 +503,7 @@ const STORES = {
         "name": "Russellville Supercenter",
         "type": "Supercenter",
         "address": "2409 E MAIN ST, Russellville, AR 72802-9619",
-        "phone": "",
+        "phone": "479-967-9777",
         "city": "Russellville",
         "state": "AR"
     },
@@ -539,7 +539,7 @@ const STORES = {
         "name": "Blytheville Supercenter",
         "type": "Supercenter",
         "address": "3700 E HIGHWAY 18, Blytheville, AR 72315-6881",
-        "phone": "",
+        "phone": "870-763-0440",
         "city": "Blytheville",
         "state": "AR"
     },
@@ -575,7 +575,7 @@ const STORES = {
         "name": "Clarksville Supercenter",
         "type": "Supercenter",
         "address": "230 MARKET ST., Clarksville, AR 72830-9069",
-        "phone": "",
+        "phone": "479-754-2046",
         "city": "Clarksville",
         "state": "AR"
     },
@@ -584,7 +584,7 @@ const STORES = {
         "name": "Mena Supercenter",
         "type": "Supercenter",
         "address": "600 HIGHWAY 71 N, Mena, AR 71953-4392",
-        "phone": "",
+        "phone": "479-394-0025",
         "city": "Mena",
         "state": "AR"
     },
@@ -593,7 +593,7 @@ const STORES = {
         "name": "Wynne Supercenter",
         "type": "Supercenter",
         "address": "800 HIGHWAY 64 E, Wynne, AR 72396-7414",
-        "phone": "",
+        "phone": "870-238-8129",
         "city": "Wynne",
         "state": "AR"
     },
@@ -611,7 +611,7 @@ const STORES = {
         "name": "West Memphis Supercenter",
         "type": "Supercenter",
         "address": "798 W SERVICE RD, West Memphis, AR 72301-1727",
-        "phone": "",
+        "phone": "870-732-0175",
         "city": "West Memphis",
         "state": "AR"
     },
@@ -620,7 +620,7 @@ const STORES = {
         "name": "Pocahontas Supercenter",
         "type": "Supercenter",
         "address": "1415 HIGHWAY 67 S, Pocahontas, AR 72455-4000",
-        "phone": "",
+        "phone": "870-892-7703",
         "city": "Pocahontas",
         "state": "AR"
     },
@@ -647,7 +647,7 @@ const STORES = {
         "name": "Osceola Supercenter",
         "type": "Supercenter",
         "address": "2720 W KEISER AVE, Osceola, AR 72370-3443",
-        "phone": "",
+        "phone": "870-563-3251",
         "city": "Osceola",
         "state": "AR"
     },
@@ -665,7 +665,7 @@ const STORES = {
         "name": "Berryville Supercenter",
         "type": "Supercenter",
         "address": "1000 W TRIMBLE AVE, Berryville, AR 72616-4603",
-        "phone": "",
+        "phone": "870-423-4636",
         "city": "Berryville",
         "state": "AR"
     },
@@ -728,7 +728,7 @@ const STORES = {
         "name": "Magnolia Supercenter",
         "type": "Supercenter",
         "address": "60 HIGHWAY 79 N, Magnolia, AR 71753-3265",
-        "phone": "",
+        "phone": "870-234-7800",
         "city": "Magnolia",
         "state": "AR"
     },
@@ -737,7 +737,7 @@ const STORES = {
         "name": "Benton Supercenter",
         "type": "Supercenter",
         "address": "17309 INTERSTATE 30 S, Benton, AR 72015-2927",
-        "phone": "",
+        "phone": "501-860-6135",
         "city": "Benton",
         "state": "AR"
     },
@@ -791,7 +791,7 @@ const STORES = {
         "name": "Forrest City Supercenter",
         "type": "Supercenter",
         "address": "205 DEADRICK RD, Forrest City, AR 72335-1838",
-        "phone": "",
+        "phone": "870-633-0021",
         "city": "Forrest City",
         "state": "AR"
     },
@@ -872,7 +872,7 @@ const STORES = {
         "name": "Bentonville Supercenter",
         "type": "Supercenter",
         "address": "406 S WALTON BLVD, Bentonville, AR 72712-5705",
-        "phone": "",
+        "phone": "479-273-0060",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -890,7 +890,7 @@ const STORES = {
         "name": "Stuttgart Supercenter",
         "type": "Supercenter",
         "address": "406 E 22ND ST, Stuttgart, AR 72160-9006",
-        "phone": "",
+        "phone": "870-673-3349",
         "city": "Stuttgart",
         "state": "AR"
     },
@@ -1043,7 +1043,7 @@ const STORES = {
         "name": "Batesville Supercenter",
         "type": "Supercenter",
         "address": "3150 HARRISON ST, Batesville, AR 72501-7515",
-        "phone": "",
+        "phone": "870-793-9004",
         "city": "Batesville",
         "state": "AR"
     },
@@ -1088,7 +1088,7 @@ const STORES = {
         "name": "Little Rock Supercenter",
         "type": "Supercenter",
         "address": "8801 BASELINE RD, Little Rock, AR 72209-5901",
-        "phone": "",
+        "phone": "501-565-0274",
         "city": "Little Rock",
         "state": "AR"
     },
@@ -1097,7 +1097,7 @@ const STORES = {
         "name": "Fort Smith Supercenter",
         "type": "Supercenter",
         "address": "2425 S ZERO ST, Fort Smith, AR 72901-8663",
-        "phone": "",
+        "phone": "479-646-6382",
         "city": "Fort Smith",
         "state": "AR"
     },
@@ -1106,7 +1106,7 @@ const STORES = {
         "name": "Little Rock Supercenter",
         "type": "Supercenter",
         "address": "2700 S SHACKLEFORD RD, Little Rock, AR 72205-6918",
-        "phone": "",
+        "phone": "501-223-0604",
         "city": "Little Rock",
         "state": "AR"
     },
@@ -1115,7 +1115,7 @@ const STORES = {
         "name": "Malvern Supercenter",
         "type": "Supercenter",
         "address": "1910 MARTIN LUTHER KING BLVD, Malvern, AR 72104-2203",
-        "phone": "",
+        "phone": "501-337-9485",
         "city": "Malvern",
         "state": "AR"
     },
@@ -1124,7 +1124,7 @@ const STORES = {
         "name": "Jonesboro Supercenter",
         "type": "Supercenter",
         "address": "1911 W PARKER RD, Jonesboro, AR 72404-8465",
-        "phone": "",
+        "phone": "870-972-6350",
         "city": "Jonesboro",
         "state": "AR"
     },
@@ -1169,7 +1169,7 @@ const STORES = {
         "name": "Ashdown Supercenter",
         "type": "Supercenter",
         "address": "297 HWY 32 BY-PASS E, Ashdown, AR 71822-8972",
-        "phone": "",
+        "phone": "870-898-5126",
         "city": "Ashdown",
         "state": "AR"
     },
@@ -1241,7 +1241,7 @@ const STORES = {
         "name": "Fort Smith Supercenter",
         "type": "Supercenter",
         "address": "8301 ROGERS AVE, Fort Smith, AR 72903-5236",
-        "phone": "",
+        "phone": "479-484-5205",
         "city": "Fort Smith",
         "state": "AR"
     },
@@ -1259,7 +1259,7 @@ const STORES = {
         "name": "Fayetteville Supercenter",
         "type": "Supercenter",
         "address": "2875 W MARTIN LUTHER KING BLVD, Fayetteville, AR 72704-7625",
-        "phone": "",
+        "phone": "479-582-0428",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -1367,7 +1367,7 @@ const STORES = {
         "name": "Searcy Supercenter",
         "type": "Supercenter",
         "address": "3509 E RACE AVE, Searcy, AR 72143-6202",
-        "phone": "",
+        "phone": "501-268-2207",
         "city": "Searcy",
         "state": "AR"
     },
@@ -1394,7 +1394,7 @@ const STORES = {
         "name": "Ash Flat Supercenter",
         "type": "Supercenter",
         "address": "219 HIGHWAY 412, Ash Flat, AR 72513-9593",
-        "phone": "",
+        "phone": "870-994-7520",
         "city": "Ash Flat",
         "state": "AR"
     },
@@ -1457,7 +1457,7 @@ const STORES = {
         "name": "Crossett Supercenter",
         "type": "Supercenter",
         "address": "910 UNITY RD, Crossett, AR 71635-9424",
-        "phone": "",
+        "phone": "870-364-2165",
         "city": "Crossett",
         "state": "AR"
     },
@@ -1475,7 +1475,7 @@ const STORES = {
         "name": "Lonoke Supercenter",
         "type": "Supercenter",
         "address": "322 BROWNSVILLE LOOP, Lonoke, AR 72086-9348",
-        "phone": "",
+        "phone": "501-676-3191",
         "city": "Lonoke",
         "state": "AR"
     },
@@ -1493,7 +1493,7 @@ const STORES = {
         "name": "Camden Supercenter",
         "type": "Supercenter",
         "address": "950 CALIFORNIA AVE SW, Camden, AR 71701-5308",
-        "phone": "",
+        "phone": "870-836-8000",
         "city": "Camden",
         "state": "AR"
     },
@@ -1520,7 +1520,7 @@ const STORES = {
         "name": "Cocoa Supercenter",
         "type": "Supercenter",
         "address": "2700 CLEARLAKE RD, Cocoa, FL 32922-5716",
-        "phone": "",
+        "phone": "321-639-1610",
         "city": "Cocoa",
         "state": "FL"
     },
@@ -1799,7 +1799,7 @@ const STORES = {
         "name": "Ozark Supercenter",
         "type": "Supercenter",
         "address": "1516 N 18TH ST, Ozark, AR 72949-3611",
-        "phone": "",
+        "phone": "479-667-2143",
         "city": "Ozark",
         "state": "AR"
     },
@@ -1961,7 +1961,7 @@ const STORES = {
         "name": "Trumann Supercenter",
         "type": "Supercenter",
         "address": "512 INDUSTRIAL PARK DR, Trumann, AR 72472-9602",
-        "phone": "",
+        "phone": "870-483-1971",
         "city": "Trumann",
         "state": "AR"
     },
@@ -1970,7 +1970,7 @@ const STORES = {
         "name": "Paris Supercenter",
         "type": "Supercenter",
         "address": "1501 E WALNUT ST, Paris, AR 72855-4235",
-        "phone": "",
+        "phone": "479-963-2152",
         "city": "Paris",
         "state": "AR"
     },
@@ -2213,7 +2213,7 @@ const STORES = {
         "name": "Hot Springs Supercenter",
         "type": "Supercenter",
         "address": "4019 CENTRAL AVE, Hot Springs, AR 71913-7208",
-        "phone": "",
+        "phone": "501-623-7605",
         "city": "Hot Springs",
         "state": "AR"
     },
@@ -2357,7 +2357,7 @@ const STORES = {
         "name": "De Queen Supercenter",
         "type": "Supercenter",
         "address": "926 E COLLIN RAYE DR, De Queen, AR 71832-9400",
-        "phone": "",
+        "phone": "870-642-2794",
         "city": "De Queen",
         "state": "AR"
     },
@@ -2375,7 +2375,7 @@ const STORES = {
         "name": "Heber Spgs Supercenter",
         "type": "Supercenter",
         "address": "1500 HWY 25B, Heber Spgs, AR 72543-1701",
-        "phone": "",
+        "phone": "501-362-8188",
         "city": "Heber Spgs",
         "state": "AR"
     },
@@ -2447,7 +2447,7 @@ const STORES = {
         "name": "Mcgehee Supercenter",
         "type": "Supercenter",
         "address": "1001 HIGHWAY 65 S, Mcgehee, AR 71654-9417",
-        "phone": "",
+        "phone": "870-222-4184",
         "city": "Mcgehee",
         "state": "AR"
     },
@@ -2501,7 +2501,7 @@ const STORES = {
         "name": "Dardanelle Supercenter",
         "type": "Supercenter",
         "address": "1172 N STATE HIGHWAY 7, Dardanelle, AR 72834-6000",
-        "phone": "",
+        "phone": "479-229-2502",
         "city": "Dardanelle",
         "state": "AR"
     },
@@ -2699,7 +2699,7 @@ const STORES = {
         "name": "Arkadelphia Supercenter",
         "type": "Supercenter",
         "address": "109 WP MALONE DR, Arkadelphia, AR 71923-8111",
-        "phone": "",
+        "phone": "870-246-2459",
         "city": "Arkadelphia",
         "state": "AR"
     },
@@ -2852,7 +2852,7 @@ const STORES = {
         "name": "Sheridan Supercenter",
         "type": "Supercenter",
         "address": "1308 S ROCK ST, Sheridan, AR 72150-7160",
-        "phone": "",
+        "phone": "870-942-7171",
         "city": "Sheridan",
         "state": "AR"
     },
@@ -2879,7 +2879,7 @@ const STORES = {
         "name": "Fordyce Supercenter",
         "type": "Supercenter",
         "address": "1123 HIGHWAY 79 167 BYP, Fordyce, AR 71742-1810",
-        "phone": "",
+        "phone": "870-352-5167",
         "city": "Fordyce",
         "state": "AR"
     },
@@ -2960,7 +2960,7 @@ const STORES = {
         "name": "Monticello Supercenter",
         "type": "Supercenter",
         "address": "427 HIGHWAY 425 N, Monticello, AR 71655-4015",
-        "phone": "",
+        "phone": "870-367-0409",
         "city": "Monticello",
         "state": "AR"
     },
@@ -3041,7 +3041,7 @@ const STORES = {
         "name": "Alma Supercenter",
         "type": "Supercenter",
         "address": "367 W CHERRY ST, Alma, AR 72921-3408",
-        "phone": "",
+        "phone": "479-632-4585",
         "city": "Alma",
         "state": "AR"
     },
@@ -3050,7 +3050,7 @@ const STORES = {
         "name": "Fayetteville Supercenter",
         "type": "Supercenter",
         "address": "3919 NO. MALL AVE, Fayetteville, AR 72703-4906",
-        "phone": "",
+        "phone": "479-443-7679",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -3167,7 +3167,7 @@ const STORES = {
         "name": "Huntsville Supercenter",
         "type": "Supercenter",
         "address": "157 GARY HATFIELD WAY, Huntsville, AR 72740-3730",
-        "phone": "",
+        "phone": "479-738-2001",
         "city": "Huntsville",
         "state": "AR"
     },
@@ -3293,7 +3293,7 @@ const STORES = {
         "name": "Fort Smith Supercenter",
         "type": "Supercenter",
         "address": "2100 N 62ND ST, Fort Smith, AR 72904-5163",
-        "phone": "",
+        "phone": "479-785-5964",
         "city": "Fort Smith",
         "state": "AR"
     },
@@ -3977,7 +3977,7 @@ const STORES = {
         "name": "Texarkana Supercenter",
         "type": "Supercenter",
         "address": "133 ARKANSAS BLVD, Texarkana, AR 71854-1963",
-        "phone": "",
+        "phone": "870-772-1501",
         "city": "Texarkana",
         "state": "AR"
     },
@@ -4139,7 +4139,7 @@ const STORES = {
         "name": "Quincy Supercenter",
         "type": "Supercenter",
         "address": "1940 PAT THOMAS PKWY, Quincy, FL 32351-8785",
-        "phone": "",
+        "phone": "850-875-1661",
         "city": "Quincy",
         "state": "FL"
     },
@@ -4463,7 +4463,7 @@ const STORES = {
         "name": "Lake Mary Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "825 CASA VERDE BLVD, Lake Mary, FL 32746-0000",
-        "phone": "",
+        "phone": "407-562-4470",
         "city": "Lake Mary",
         "state": "FL"
     },
@@ -4508,7 +4508,7 @@ const STORES = {
         "name": "El Dorado Supercenter",
         "type": "Supercenter",
         "address": "2730 N WEST AVE, El Dorado, AR 71730-3124",
-        "phone": "",
+        "phone": "870-862-2128",
         "city": "El Dorado",
         "state": "AR"
     },
@@ -4571,7 +4571,7 @@ const STORES = {
         "name": "Gainesville Supercenter",
         "type": "Supercenter",
         "address": "5700 NW 23RD ST, Gainesville, FL 32653-2016",
-        "phone": "",
+        "phone": "352-378-0619",
         "city": "Gainesville",
         "state": "FL"
     },
@@ -4652,7 +4652,7 @@ const STORES = {
         "name": "Plant City Supercenter",
         "type": "Supercenter",
         "address": "2602 JAMES L REDMAN PKWY, Plant City, FL 33566-9460",
-        "phone": "",
+        "phone": "813-752-1188",
         "city": "Plant City",
         "state": "FL"
     },
@@ -4688,7 +4688,7 @@ const STORES = {
         "name": "Palatka Supercenter",
         "type": "Supercenter",
         "address": "1024 S STATE ROAD 19, Palatka, FL 32177-9000",
-        "phone": "",
+        "phone": "386-328-6733",
         "city": "Palatka",
         "state": "FL"
     },
@@ -4796,7 +4796,7 @@ const STORES = {
         "name": "Orange City Supercenter",
         "type": "Supercenter",
         "address": "2400 VETERANS MEMORIAL PKWY, Orange City, FL 32763-1700",
-        "phone": "",
+        "phone": "386-775-1500",
         "city": "Orange City",
         "state": "FL"
     },
@@ -4940,7 +4940,7 @@ const STORES = {
         "name": "Bartow Supercenter",
         "type": "Supercenter",
         "address": "1050 E VAN FLEET DR, Bartow, FL 33830-7618",
-        "phone": "",
+        "phone": "863-533-5400",
         "city": "Bartow",
         "state": "FL"
     },
@@ -4958,7 +4958,7 @@ const STORES = {
         "name": "Port Orange Supercenter",
         "type": "Supercenter",
         "address": "1590 DUNLAWTON AVE, Port Orange, FL 32127-4752",
-        "phone": "",
+        "phone": "386-756-2711",
         "city": "Port Orange",
         "state": "FL"
     },
@@ -5228,7 +5228,7 @@ const STORES = {
         "name": "Ormond Beach Supercenter",
         "type": "Supercenter",
         "address": "1521 W GRANADA BLVD, Ormond Beach, FL 32174-5920",
-        "phone": "",
+        "phone": "386-672-2104",
         "city": "Ormond Beach",
         "state": "FL"
     },
@@ -5318,7 +5318,7 @@ const STORES = {
         "name": "North Fort Myers Supercenter",
         "type": "Supercenter",
         "address": "545 PINE ISLAND RD, North Fort Myers, FL 33903-3764",
-        "phone": "",
+        "phone": "239-997-9991",
         "city": "North Fort Myers",
         "state": "FL"
     },
@@ -5957,7 +5957,7 @@ const STORES = {
         "name": "Ocala Supercenter",
         "type": "Supercenter",
         "address": "2600 SW 19TH AVENUE RD, Ocala, FL 34471-1393",
-        "phone": "",
+        "phone": "352-237-7155",
         "city": "Ocala",
         "state": "FL"
     },
@@ -6020,7 +6020,7 @@ const STORES = {
         "name": "Mount Dora Supercenter",
         "type": "Supercenter",
         "address": "17030 US HIGHWAY 441, Mount Dora, FL 32757-6733",
-        "phone": "",
+        "phone": "352-735-3000",
         "city": "Mount Dora",
         "state": "FL"
     },
@@ -6092,7 +6092,7 @@ const STORES = {
         "name": "Dade City Supercenter",
         "type": "Supercenter",
         "address": "12650 US HIGHWAY 301, Dade City, FL 33525-6058",
-        "phone": "",
+        "phone": "352-567-1551",
         "city": "Dade City",
         "state": "FL"
     },
@@ -6101,7 +6101,7 @@ const STORES = {
         "name": "Helena-west Helena Supercenter",
         "type": "Supercenter",
         "address": "602 SHELIA STREET, Helena-west Helena, AR 72390-1823",
-        "phone": "",
+        "phone": "870-572-2442",
         "city": "Helena-west Helena",
         "state": "AR"
     },
@@ -6128,7 +6128,7 @@ const STORES = {
         "name": "Auburndale Supercenter",
         "type": "Supercenter",
         "address": "2120 US HIGHWAY 92 W, Auburndale, FL 33823-3923",
-        "phone": "",
+        "phone": "863-967-1164",
         "city": "Auburndale",
         "state": "FL"
     },
@@ -6155,7 +6155,7 @@ const STORES = {
         "name": "Port Charlotte Supercenter",
         "type": "Supercenter",
         "address": "19100 MURDOCK CIR, Port Charlotte, FL 33948-1022",
-        "phone": "",
+        "phone": "941-625-2399",
         "city": "Port Charlotte",
         "state": "FL"
     },
@@ -6191,7 +6191,7 @@ const STORES = {
         "name": "Haines City Supercenter",
         "type": "Supercenter",
         "address": "36205 US HIGHWAY 27, Haines City, FL 33844-3744",
-        "phone": "",
+        "phone": "863-422-7537",
         "city": "Haines City",
         "state": "FL"
     },
@@ -6542,7 +6542,7 @@ const STORES = {
         "name": "Lake City Supercenter",
         "type": "Supercenter",
         "address": "2767 W US HIGHWAY 90, Lake City, FL 32055-4755",
-        "phone": "",
+        "phone": "386-755-2427",
         "city": "Lake City",
         "state": "FL"
     },
@@ -6578,7 +6578,7 @@ const STORES = {
         "name": "Merritt Island Supercenter",
         "type": "Supercenter",
         "address": "1500 E MERRITT ISLAND CSWY, Merritt Island, FL 32952-2612",
-        "phone": "",
+        "phone": "321-452-6058",
         "city": "Merritt Island",
         "state": "FL"
     },
@@ -6641,7 +6641,7 @@ const STORES = {
         "name": "Punta Gorda Supercenter",
         "type": "Supercenter",
         "address": "5001 TAYLOR RD, Punta Gorda, FL 33950-4722",
-        "phone": "",
+        "phone": "941-637-3800",
         "city": "Punta Gorda",
         "state": "FL"
     },
@@ -6650,7 +6650,7 @@ const STORES = {
         "name": "Lakeland Supercenter",
         "type": "Supercenter",
         "address": "3501 S FLORIDA AVE, Lakeland, FL 33803-4860",
-        "phone": "",
+        "phone": "863-644-5676",
         "city": "Lakeland",
         "state": "FL"
     },
@@ -6731,7 +6731,7 @@ const STORES = {
         "name": "Clinton Supercenter",
         "type": "Supercenter",
         "address": "1966 HIGHWAY 65 S, Clinton, AR 72031-6796",
-        "phone": "",
+        "phone": "501-745-2498",
         "city": "Clinton",
         "state": "AR"
     },
@@ -6839,7 +6839,7 @@ const STORES = {
         "name": "Leesburg Supercenter",
         "type": "Supercenter",
         "address": "2501 CITRUS BLVD, Leesburg, FL 34748-7204",
-        "phone": "",
+        "phone": "352-326-3900",
         "city": "Leesburg",
         "state": "FL"
     },
@@ -6938,7 +6938,7 @@ const STORES = {
         "name": "Arcadia Supercenter",
         "type": "Supercenter",
         "address": "2725 SE HIGHWAY 70, Arcadia, FL 34266-5665",
-        "phone": "",
+        "phone": "863-993-1677",
         "city": "Arcadia",
         "state": "FL"
     },
@@ -6965,7 +6965,7 @@ const STORES = {
         "name": "Okeechobee Supercenter",
         "type": "Supercenter",
         "address": "2101 S PARROTT AVE, Okeechobee, FL 34974-6160",
-        "phone": "",
+        "phone": "863-763-7070",
         "city": "Okeechobee",
         "state": "FL"
     },
@@ -6992,7 +6992,7 @@ const STORES = {
         "name": "Kissimmee Supercenter",
         "type": "Supercenter",
         "address": "4444 W VINE ST, Kissimmee, FL 34746-5315",
-        "phone": "",
+        "phone": "407-397-7000",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -7001,7 +7001,7 @@ const STORES = {
         "name": "Panama City Beach Supercenter",
         "type": "Supercenter",
         "address": "10270 FRONT BEACH RD, Panama City Beach, FL 32407-3808",
-        "phone": "",
+        "phone": "850-234-1989",
         "city": "Panama City Beach",
         "state": "FL"
     },
@@ -7010,7 +7010,7 @@ const STORES = {
         "name": "Cape Coral Supercenter",
         "type": "Supercenter",
         "address": "1619 DEL PRADO BLVD S, Cape Coral, FL 33990-3713",
-        "phone": "",
+        "phone": "239-772-9220",
         "city": "Cape Coral",
         "state": "FL"
     },
@@ -7199,7 +7199,7 @@ const STORES = {
         "name": "Pueblo Supercenter",
         "type": "Supercenter",
         "address": "4200 DILLON DR, Pueblo, CO 81008-2113",
-        "phone": "",
+        "phone": "719-545-6404",
         "city": "Pueblo",
         "state": "CO"
     },
@@ -7334,7 +7334,7 @@ const STORES = {
         "name": "Sanford Supercenter",
         "type": "Supercenter",
         "address": "3653 S ORLANDO DR, Sanford, FL 32773-5611",
-        "phone": "",
+        "phone": "407-321-1371",
         "city": "Sanford",
         "state": "FL"
     },
@@ -7352,7 +7352,7 @@ const STORES = {
         "name": "Lake Wales Supercenter",
         "type": "Supercenter",
         "address": "2000 STATE ROAD 60 E, Lake Wales, FL 33898-5182",
-        "phone": "",
+        "phone": "863-676-9425",
         "city": "Lake Wales",
         "state": "FL"
     },
@@ -7361,7 +7361,7 @@ const STORES = {
         "name": "Deland Supercenter",
         "type": "Supercenter",
         "address": "1699 N WOODLAND BLVD, Deland, FL 32720-1803",
-        "phone": "",
+        "phone": "386-734-4420",
         "city": "Deland",
         "state": "FL"
     },
@@ -7442,7 +7442,7 @@ const STORES = {
         "name": "Alamosa Supercenter",
         "type": "Supercenter",
         "address": "3333 CLARK ST, Alamosa, CO 81101-2050",
-        "phone": "",
+        "phone": "719-589-9071",
         "city": "Alamosa",
         "state": "CO"
     },
@@ -7622,7 +7622,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "11250 E COLONIAL DR, Orlando, FL 32817-4537",
-        "phone": "",
+        "phone": "407-281-8941",
         "city": "Orlando",
         "state": "FL"
     },
@@ -7757,7 +7757,7 @@ const STORES = {
         "name": "Longmont Supercenter",
         "type": "Supercenter",
         "address": "2285 E KEN PRATT BLVD, Longmont, CO 80504-5223",
-        "phone": "",
+        "phone": "303-678-0803",
         "city": "Longmont",
         "state": "CO"
     },
@@ -7784,7 +7784,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "8101 S JOHN YOUNG PKWY, Orlando, FL 32819-9021",
-        "phone": "",
+        "phone": "407-354-5665",
         "city": "Orlando",
         "state": "FL"
     },
@@ -7883,7 +7883,7 @@ const STORES = {
         "name": "Fort Walton Beach Supercenter",
         "type": "Supercenter",
         "address": "748 BEAL PKWY NW, Fort Walton Beach, FL 32547-3002",
-        "phone": "",
+        "phone": "850-862-0700",
         "city": "Fort Walton Beach",
         "state": "FL"
     },
@@ -7901,7 +7901,7 @@ const STORES = {
         "name": "Salida Supercenter",
         "type": "Supercenter",
         "address": "7865 W US HIGHWAY 50, Salida, CO 81201-9345",
-        "phone": "",
+        "phone": "719-539-3566",
         "city": "Salida",
         "state": "CO"
     },
@@ -7928,7 +7928,7 @@ const STORES = {
         "name": "Sterling Supercenter",
         "type": "Supercenter",
         "address": "1510 W MAIN ST, Sterling, CO 80751-9095",
-        "phone": "",
+        "phone": "970-522-0600",
         "city": "Sterling",
         "state": "CO"
     },
@@ -7964,7 +7964,7 @@ const STORES = {
         "name": "Port Saint Lucie Supercenter",
         "type": "Supercenter",
         "address": "10855 S US HIGHWAY 1, Port Saint Lucie, FL 34952-6410",
-        "phone": "",
+        "phone": "772-335-5359",
         "city": "Port Saint Lucie",
         "state": "FL"
     },
@@ -8081,7 +8081,7 @@ const STORES = {
         "name": "Ocoee Supercenter",
         "type": "Supercenter",
         "address": "10500 W COLONIAL DR, Ocoee, FL 34761-2946",
-        "phone": "",
+        "phone": "407-877-6900",
         "city": "Ocoee",
         "state": "FL"
     },
@@ -8090,7 +8090,7 @@ const STORES = {
         "name": "Casselberry Supercenter",
         "type": "Supercenter",
         "address": "1239 STATE ROAD 436 STE 101, Casselberry, FL 32707-6447",
-        "phone": "",
+        "phone": "407-679-0377",
         "city": "Casselberry",
         "state": "FL"
     },
@@ -8099,7 +8099,7 @@ const STORES = {
         "name": "Crestview Supercenter",
         "type": "Supercenter",
         "address": "3351 S FERDON BLVD, Crestview, FL 32536-8484",
-        "phone": "",
+        "phone": "850-682-8001",
         "city": "Crestview",
         "state": "FL"
     },
@@ -8162,7 +8162,7 @@ const STORES = {
         "name": "Loveland Supercenter",
         "type": "Supercenter",
         "address": "1325 DENVER AVE, Loveland, CO 80537-5120",
-        "phone": "",
+        "phone": "970-669-4579",
         "city": "Loveland",
         "state": "CO"
     },
@@ -8180,7 +8180,7 @@ const STORES = {
         "name": "Apopka Supercenter",
         "type": "Supercenter",
         "address": "1700 S ORANGE BLOSSOM TRAIL, Apopka, FL 32703-7745",
-        "phone": "",
+        "phone": "407-889-8668",
         "city": "Apopka",
         "state": "FL"
     },
@@ -8189,7 +8189,7 @@ const STORES = {
         "name": "Melbourne Supercenter",
         "type": "Supercenter",
         "address": "1001 E EAU GALLIE BLVD, Melbourne, FL 32937-4907",
-        "phone": "",
+        "phone": "321-777-5504",
         "city": "Melbourne",
         "state": "FL"
     },
@@ -8216,7 +8216,7 @@ const STORES = {
         "name": "Bushnell Supercenter",
         "type": "Supercenter",
         "address": "2163 W C 48, Bushnell, FL 33513-8999",
-        "phone": "",
+        "phone": "352-793-1300",
         "city": "Bushnell",
         "state": "FL"
     },
@@ -8225,7 +8225,7 @@ const STORES = {
         "name": "Dunnellon Supercenter",
         "type": "Supercenter",
         "address": "11012 NO. WILLIAMS ST, Dunnellon, FL 34432-8310",
-        "phone": "",
+        "phone": "352-489-4210",
         "city": "Dunnellon",
         "state": "FL"
     },
@@ -8243,7 +8243,7 @@ const STORES = {
         "name": "Trinidad Supercenter",
         "type": "Supercenter",
         "address": "2921 TOUPAL DR, Trinidad, CO 81082-8740",
-        "phone": "",
+        "phone": "719-846-4477",
         "city": "Trinidad",
         "state": "CO"
     },
@@ -8279,7 +8279,7 @@ const STORES = {
         "name": "Cortez Supercenter",
         "type": "Supercenter",
         "address": "1835 E MAIN ST, Cortez, CO 81321-3037",
-        "phone": "",
+        "phone": "970-565-6138",
         "city": "Cortez",
         "state": "CO"
     },
@@ -8342,7 +8342,7 @@ const STORES = {
         "name": "Fort Pierce Supercenter",
         "type": "Supercenter",
         "address": "5100 OKEECHOBEE RD, Fort Pierce, FL 34947-5428",
-        "phone": "",
+        "phone": "772-468-0880",
         "city": "Fort Pierce",
         "state": "FL"
     },
@@ -8378,7 +8378,7 @@ const STORES = {
         "name": "Fernandina Beach Supercenter",
         "type": "Supercenter",
         "address": "1385 AMELIA PLZ, Fernandina Beach, FL 32034-1998",
-        "phone": "",
+        "phone": "904-261-5306",
         "city": "Fernandina Beach",
         "state": "FL"
     },
@@ -8405,7 +8405,7 @@ const STORES = {
         "name": "Greeley Supercenter",
         "type": "Supercenter",
         "address": "3103 S 23RD AVE, Greeley, CO 80631-8702",
-        "phone": "",
+        "phone": "970-330-1452",
         "city": "Greeley",
         "state": "CO"
     },
@@ -8432,7 +8432,7 @@ const STORES = {
         "name": "Castle Rock Supercenter",
         "type": "Supercenter",
         "address": "133 SAM WALTON LANE, Castle Rock, CO 80104-7933",
-        "phone": "",
+        "phone": "303-688-8200",
         "city": "Castle Rock",
         "state": "CO"
     },
@@ -8450,7 +8450,7 @@ const STORES = {
         "name": "Frisco Supercenter",
         "type": "Supercenter",
         "address": "840 SUMMIT BLVD, Frisco, CO 80443-5882",
-        "phone": "",
+        "phone": "970-668-3959",
         "city": "Frisco",
         "state": "CO"
     },
@@ -8459,7 +8459,7 @@ const STORES = {
         "name": "Fort Myers Supercenter",
         "type": "Supercenter",
         "address": "14821 BEN C PRATT/6 MILE CYPRESS PKWY, Fort Myers, FL 33912-4467",
-        "phone": "",
+        "phone": "239-437-1880",
         "city": "Fort Myers",
         "state": "FL"
     },
@@ -8468,7 +8468,7 @@ const STORES = {
         "name": "Lutz Supercenter",
         "type": "Supercenter",
         "address": "1575 LAND O LAKES BLVD, Lutz, FL 33549-2930",
-        "phone": "",
+        "phone": "813-949-4238",
         "city": "Lutz",
         "state": "FL"
     },
@@ -8486,7 +8486,7 @@ const STORES = {
         "name": "Milton Supercenter",
         "type": "Supercenter",
         "address": "4965 HIGHWAY 90, Milton, FL 32571-1408",
-        "phone": "",
+        "phone": "850-995-0542",
         "city": "Milton",
         "state": "FL"
     },
@@ -8522,7 +8522,7 @@ const STORES = {
         "name": "New Port Richey Supercenter",
         "type": "Supercenter",
         "address": "8745 STATE ROAD 54, New Port Richey, FL 34655-3006",
-        "phone": "",
+        "phone": "727-376-3811",
         "city": "New Port Richey",
         "state": "FL"
     },
@@ -8576,7 +8576,7 @@ const STORES = {
         "name": "Pueblo Supercenter",
         "type": "Supercenter",
         "address": "4080 W NORTHERN AVE, Pueblo, CO 81005-3503",
-        "phone": "",
+        "phone": "719-561-8495",
         "city": "Pueblo",
         "state": "CO"
     },
@@ -8603,7 +8603,7 @@ const STORES = {
         "name": "Bradenton Supercenter",
         "type": "Supercenter",
         "address": "5315 CORTEZ RD W, Bradenton, FL 34210-2814",
-        "phone": "",
+        "phone": "941-798-9341",
         "city": "Bradenton",
         "state": "FL"
     },
@@ -8639,7 +8639,7 @@ const STORES = {
         "name": "Loveland Supercenter",
         "type": "Supercenter",
         "address": "250 W 65TH ST, Loveland, CO 80538-4668",
-        "phone": "",
+        "phone": "970-667-3331",
         "city": "Loveland",
         "state": "CO"
     },
@@ -8738,7 +8738,7 @@ const STORES = {
         "name": "Canon City Supercenter",
         "type": "Supercenter",
         "address": "3105 E US HIGHWAY 50, Canon City, CO 81212-2797",
-        "phone": "",
+        "phone": "719-275-2375",
         "city": "Canon City",
         "state": "CO"
     },
@@ -8828,7 +8828,7 @@ const STORES = {
         "name": "Homosassa Supercenter",
         "type": "Supercenter",
         "address": "6885 S SUNCOAST BLVD, Homosassa, FL 34446-3404",
-        "phone": "",
+        "phone": "352-628-4161",
         "city": "Homosassa",
         "state": "FL"
     },
@@ -8846,7 +8846,7 @@ const STORES = {
         "name": "Lynn Haven Supercenter",
         "type": "Supercenter",
         "address": "2101 S HIGHWAY 77, Lynn Haven, FL 32444-4631",
-        "phone": "",
+        "phone": "850-265-2626",
         "city": "Lynn Haven",
         "state": "FL"
     },
@@ -8963,7 +8963,7 @@ const STORES = {
         "name": "Lafayette Supercenter",
         "type": "Supercenter",
         "address": "745 US HIGHWAY 287, Lafayette, CO 80026-8955",
-        "phone": "",
+        "phone": "303-666-0340",
         "city": "Lafayette",
         "state": "CO"
     },
@@ -9062,7 +9062,7 @@ const STORES = {
         "name": "Montrose Supercenter",
         "type": "Supercenter",
         "address": "16750 S TOWNSEND AVE, Montrose, CO 81401-5410",
-        "phone": "",
+        "phone": "970-249-7544",
         "city": "Montrose",
         "state": "CO"
     },
@@ -9125,7 +9125,7 @@ const STORES = {
         "name": "Hope Supercenter",
         "type": "Supercenter",
         "address": "2400 N HERVEY ST, Hope, AR 71801-8418",
-        "phone": "",
+        "phone": "870-777-5500",
         "city": "Hope",
         "state": "AR"
     },
@@ -9152,7 +9152,7 @@ const STORES = {
         "name": "Sebastian Supercenter",
         "type": "Supercenter",
         "address": "2001 US HIGHWAY 1, Sebastian, FL 32958-1615",
-        "phone": "",
+        "phone": "772-589-8528",
         "city": "Sebastian",
         "state": "FL"
     },
@@ -9251,7 +9251,7 @@ const STORES = {
         "name": "New Smyrna Beach Supercenter",
         "type": "Supercenter",
         "address": "3155 STATE RD 44, New Smyrna Beach, FL 32168-8880",
-        "phone": "",
+        "phone": "386-427-5767",
         "city": "New Smyrna Beach",
         "state": "FL"
     },
@@ -9269,7 +9269,7 @@ const STORES = {
         "name": "Gainesville Supercenter",
         "type": "Supercenter",
         "address": "2900 SW 42ND ST, Gainesville, FL 32608-2379",
-        "phone": "",
+        "phone": "352-371-3171",
         "city": "Gainesville",
         "state": "FL"
     },
@@ -9278,7 +9278,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "10991 SAN JOSE BLVD STE 1, Jacksonville, FL 32223-6600",
-        "phone": "",
+        "phone": "904-260-4402",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -9287,7 +9287,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "6830 NORMANDY BLVD, Jacksonville, FL 32205-1902",
-        "phone": "",
+        "phone": "904-786-0390",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -9296,7 +9296,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "3838 S SEMORAN BLVD, Orlando, FL 32822-4006",
-        "phone": "",
+        "phone": "407-277-4314",
         "city": "Orlando",
         "state": "FL"
     },
@@ -9305,7 +9305,7 @@ const STORES = {
         "name": "Port Richey Supercenter",
         "type": "Supercenter",
         "address": "8701 US HIGHWAY 19, Port Richey, FL 34668-5349",
-        "phone": "",
+        "phone": "727-846-9504",
         "city": "Port Richey",
         "state": "FL"
     },
@@ -9314,7 +9314,7 @@ const STORES = {
         "name": "Saint Cloud Supercenter",
         "type": "Supercenter",
         "address": "4400 13TH ST, Saint Cloud, FL 34769-6763",
-        "phone": "",
+        "phone": "407-957-1300",
         "city": "Saint Cloud",
         "state": "FL"
     },
@@ -9350,7 +9350,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "6767 103RD ST, Jacksonville, FL 32210-7135",
-        "phone": "",
+        "phone": "904-772-0011",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -9386,7 +9386,7 @@ const STORES = {
         "name": "Glenwood Springs Supercenter",
         "type": "Supercenter",
         "address": "3010 BLAKE AVE, Glenwood Springs, CO 81601-4400",
-        "phone": "",
+        "phone": "970-945-5336",
         "city": "Glenwood Springs",
         "state": "CO"
     },
@@ -9467,7 +9467,7 @@ const STORES = {
         "name": "Inverness Supercenter",
         "type": "Supercenter",
         "address": "2461 E GULF TO LAKE HWY, Inverness, FL 34453-3232",
-        "phone": "",
+        "phone": "352-637-2300",
         "city": "Inverness",
         "state": "FL"
     },
@@ -9476,7 +9476,7 @@ const STORES = {
         "name": "North Little Rock Supercenter",
         "type": "Supercenter",
         "address": "4450 E MCCAIN BLVD, North Little Rock, AR 72117-2519",
-        "phone": "",
+        "phone": "501-945-2700",
         "city": "North Little Rock",
         "state": "AR"
     },
@@ -9557,7 +9557,7 @@ const STORES = {
         "name": "Mountain View Supercenter",
         "type": "Supercenter",
         "address": "409 SYLAMORE AVE, Mountain View, AR 72560-8607",
-        "phone": "",
+        "phone": "870-269-4395",
         "city": "Mountain View",
         "state": "AR"
     },
@@ -9602,7 +9602,7 @@ const STORES = {
         "name": "Naples Supercenter",
         "type": "Supercenter",
         "address": "3451 TAMIAMI TRL E, Naples, FL 34112-4942",
-        "phone": "",
+        "phone": "239-793-5517",
         "city": "Naples",
         "state": "FL"
     },
@@ -9728,7 +9728,7 @@ const STORES = {
         "name": "Defuniak Springs Supercenter",
         "type": "Supercenter",
         "address": "1226 FREEPORT HWY S, Defuniak Springs, FL 32435-3396",
-        "phone": "",
+        "phone": "850-892-3138",
         "city": "Defuniak Springs",
         "state": "FL"
     },
@@ -9836,7 +9836,7 @@ const STORES = {
         "name": "Flippin Supercenter",
         "type": "Supercenter",
         "address": "168 WALMART DR, Flippin, AR 72634-8660",
-        "phone": "",
+        "phone": "870-453-2211",
         "city": "Flippin",
         "state": "AR"
     },
@@ -9854,7 +9854,7 @@ const STORES = {
         "name": "Safford Supercenter",
         "type": "Supercenter",
         "address": "755 S 20TH AVE, Safford, AZ 85546-3322",
-        "phone": "",
+        "phone": "928-428-7990",
         "city": "Safford",
         "state": "AZ"
     },
@@ -10052,7 +10052,7 @@ const STORES = {
         "name": "Sarasota Supercenter",
         "type": "Supercenter",
         "address": "8320 LOCKWOOD RIDGE RD, Sarasota, FL 34243-2902",
-        "phone": "",
+        "phone": "941-351-6969",
         "city": "Sarasota",
         "state": "FL"
     },
@@ -10061,7 +10061,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "13490 BEACH BLVD, Jacksonville, FL 32224-0290",
-        "phone": "",
+        "phone": "904-223-0772",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -10070,7 +10070,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "8808 BEACH BLVD, Jacksonville, FL 32216-4621",
-        "phone": "",
+        "phone": "904-642-4999",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -10088,7 +10088,7 @@ const STORES = {
         "name": "Flagstaff Supercenter",
         "type": "Supercenter",
         "address": "2750 S WOODLANDS VILLAGE BLVD, Flagstaff, AZ 86001-7128",
-        "phone": "",
+        "phone": "928-773-1117",
         "city": "Flagstaff",
         "state": "AZ"
     },
@@ -10151,7 +10151,7 @@ const STORES = {
         "name": "Palm Coast Supercenter",
         "type": "Supercenter",
         "address": "174 CYPRESS POINT PKWY, Palm Coast, FL 32164-7438",
-        "phone": "",
+        "phone": "386-446-8486",
         "city": "Palm Coast",
         "state": "FL"
     },
@@ -10304,7 +10304,7 @@ const STORES = {
         "name": "Avon Supercenter",
         "type": "Supercenter",
         "address": "171 YODER AVE, Avon, CO 81620-0000",
-        "phone": "",
+        "phone": "970-949-6442",
         "city": "Avon",
         "state": "CO"
     },
@@ -10313,7 +10313,7 @@ const STORES = {
         "name": "Colorado Springs Supercenter",
         "type": "Supercenter",
         "address": "3201 E PLATTE AVE, Colorado Springs, CO 80909-6408",
-        "phone": "",
+        "phone": "719-578-9164",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -10358,7 +10358,7 @@ const STORES = {
         "name": "Macclenny Supercenter",
         "type": "Supercenter",
         "address": "9218 S STATE ROAD 228, Macclenny, FL 32063-4738",
-        "phone": "",
+        "phone": "904-259-4760",
         "city": "Macclenny",
         "state": "FL"
     },
@@ -10376,7 +10376,7 @@ const STORES = {
         "name": "Callaway Supercenter",
         "type": "Supercenter",
         "address": "725 N TYNDALL PKWY, Callaway, FL 32404-3219",
-        "phone": "",
+        "phone": "850-785-6011",
         "city": "Callaway",
         "state": "FL"
     },
@@ -10421,7 +10421,7 @@ const STORES = {
         "name": "Brooksville Supercenter",
         "type": "Supercenter",
         "address": "13300 CORTEZ BLVD, Brooksville, FL 34613-4887",
-        "phone": "",
+        "phone": "352-597-3807",
         "city": "Brooksville",
         "state": "FL"
     },
@@ -10466,7 +10466,7 @@ const STORES = {
         "name": "Casa Grande Supercenter",
         "type": "Supercenter",
         "address": "1741 E FLORENCE BLVD, Casa Grande, AZ 85122-4763",
-        "phone": "",
+        "phone": "520-421-1200",
         "city": "Casa Grande",
         "state": "AZ"
     },
@@ -10475,7 +10475,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "12100 LEM TURNER RD, Jacksonville, FL 32218-2304",
-        "phone": "",
+        "phone": "904-764-2855",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -10484,7 +10484,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "2500 S KIRKMAN RD, Orlando, FL 32811-2345",
-        "phone": "",
+        "phone": "407-290-6977",
         "city": "Orlando",
         "state": "FL"
     },
@@ -10502,7 +10502,7 @@ const STORES = {
         "name": "Pensacola Supercenter",
         "type": "Supercenter",
         "address": "8970 PENSACOLA BLVD, Pensacola, FL 32534-1927",
-        "phone": "",
+        "phone": "850-484-3771",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -10520,7 +10520,7 @@ const STORES = {
         "name": "Pensacola Supercenter",
         "type": "Supercenter",
         "address": "2650 CREIGHTON RD, Pensacola, FL 32504-7382",
-        "phone": "",
+        "phone": "850-479-2101",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -10529,7 +10529,7 @@ const STORES = {
         "name": "Orange Park Supercenter",
         "type": "Supercenter",
         "address": "899 BLANDING BLVD, Orange Park, FL 32065-8917",
-        "phone": "",
+        "phone": "904-272-0036",
         "city": "Orange Park",
         "state": "FL"
     },
@@ -10574,7 +10574,7 @@ const STORES = {
         "name": "Show Low Supercenter",
         "type": "Supercenter",
         "address": "5401 S WHITE MOUNTAIN RD, Show Low, AZ 85901-7849",
-        "phone": "",
+        "phone": "928-537-3141",
         "city": "Show Low",
         "state": "AZ"
     },
@@ -10583,7 +10583,7 @@ const STORES = {
         "name": "Thornton Supercenter",
         "type": "Supercenter",
         "address": "9901 GRANT ST, Thornton, CO 80229-2157",
-        "phone": "",
+        "phone": "303-451-1003",
         "city": "Thornton",
         "state": "CO"
     },
@@ -10664,7 +10664,7 @@ const STORES = {
         "name": "Sierra Vista Supercenter",
         "type": "Supercenter",
         "address": "500 N HIGHWAY 90 BYP, Sierra Vista, AZ 85635-2204",
-        "phone": "",
+        "phone": "520-458-8790",
         "city": "Sierra Vista",
         "state": "AZ"
     },
@@ -10709,7 +10709,7 @@ const STORES = {
         "name": "Lakeland Supercenter",
         "type": "Supercenter",
         "address": "5800 US HIGHWAY 98 N, Lakeland, FL 33809-3110",
-        "phone": "",
+        "phone": "863-859-3626",
         "city": "Lakeland",
         "state": "FL"
     },
@@ -10745,7 +10745,7 @@ const STORES = {
         "name": "Highlands Ranch Supercenter",
         "type": "Supercenter",
         "address": "6675 BUSINESS CENTER DR, Highlands Ranch, CO 80130-3603",
-        "phone": "",
+        "phone": "303-683-3641",
         "city": "Highlands Ranch",
         "state": "CO"
     },
@@ -10907,7 +10907,7 @@ const STORES = {
         "name": "Fountain Supercenter",
         "type": "Supercenter",
         "address": "6310 S US HIGHWAY 85-87, Fountain, CO 80817-1006",
-        "phone": "",
+        "phone": "719-391-1700",
         "city": "Fountain",
         "state": "CO"
     },
@@ -10961,7 +10961,7 @@ const STORES = {
         "name": "Grand Junction Supercenter",
         "type": "Supercenter",
         "address": "2881 NORTH AVE, Grand Junction, CO 81501-5064",
-        "phone": "",
+        "phone": "970-241-6061",
         "city": "Grand Junction",
         "state": "CO"
     },
@@ -11060,7 +11060,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "7150 E SPEEDWAY BLVD, Tucson, AZ 85710-1318",
-        "phone": "",
+        "phone": "520-751-1882",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -11114,7 +11114,7 @@ const STORES = {
         "name": "Chiefland Supercenter",
         "type": "Supercenter",
         "address": "2201 N YOUNG BLVD, Chiefland, FL 32626-1957",
-        "phone": "",
+        "phone": "352-493-0758",
         "city": "Chiefland",
         "state": "FL"
     },
@@ -11132,7 +11132,7 @@ const STORES = {
         "name": "Cottonwood Supercenter",
         "type": "Supercenter",
         "address": "2003 E RODEO DR, Cottonwood, AZ 86326-5999",
-        "phone": "",
+        "phone": "928-634-0444",
         "city": "Cottonwood",
         "state": "AZ"
     },
@@ -11213,7 +11213,7 @@ const STORES = {
         "name": "Littleton Supercenter",
         "type": "Supercenter",
         "address": "7700 W QUINCY AVE, Littleton, CO 80123-2404",
-        "phone": "",
+        "phone": "303-971-0321",
         "city": "Littleton",
         "state": "CO"
     },
@@ -11357,7 +11357,7 @@ const STORES = {
         "name": "Nogales Supercenter",
         "type": "Supercenter",
         "address": "100 W WHITE PARK DR, Nogales, AZ 85621-1021",
-        "phone": "",
+        "phone": "520-281-4974",
         "city": "Nogales",
         "state": "AZ"
     },
@@ -11366,7 +11366,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "455 E WETMORE RD, Tucson, AZ 85705-1743",
-        "phone": "",
+        "phone": "520-292-2992",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -11393,7 +11393,7 @@ const STORES = {
         "name": "Winslow Supercenter",
         "type": "Supercenter",
         "address": "700 MIKES PIKE ST, Winslow, AZ 86047-2400",
-        "phone": "",
+        "phone": "928-289-4641",
         "city": "Winslow",
         "state": "AZ"
     },
@@ -11447,7 +11447,7 @@ const STORES = {
         "name": "Claypool Supercenter",
         "type": "Supercenter",
         "address": "100 SOUTH RAGUS RD, Claypool, AZ 85532-0000",
-        "phone": "",
+        "phone": "928-425-7171",
         "city": "Claypool",
         "state": "AZ"
     },
@@ -11690,7 +11690,7 @@ const STORES = {
         "name": "Destin Supercenter",
         "type": "Supercenter",
         "address": "15017 EMERALD COAST PKWY, Destin, FL 32541-3358",
-        "phone": "",
+        "phone": "850-650-0341",
         "city": "Destin",
         "state": "FL"
     },
@@ -11708,7 +11708,7 @@ const STORES = {
         "name": "Lake Havasu City Supercenter",
         "type": "Supercenter",
         "address": "5695 HIGHWAY 95 N, Lake Havasu City, AZ 86404-9646",
-        "phone": "",
+        "phone": "928-764-3700",
         "city": "Lake Havasu City",
         "state": "AZ"
     },
@@ -11753,7 +11753,7 @@ const STORES = {
         "name": "Payson Supercenter",
         "type": "Supercenter",
         "address": "300 N BEELINE HWY, Payson, AZ 85541-4305",
-        "phone": "",
+        "phone": "928-474-0029",
         "city": "Payson",
         "state": "AZ"
     },
@@ -11762,7 +11762,7 @@ const STORES = {
         "name": "Bullhead City Supercenter",
         "type": "Supercenter",
         "address": "2840 HIGHWAY 95, Bullhead City, AZ 86442-7792",
-        "phone": "",
+        "phone": "928-758-7222",
         "city": "Bullhead City",
         "state": "AZ"
     },
@@ -11798,7 +11798,7 @@ const STORES = {
         "name": "Altamonte Springs Supercenter",
         "type": "Supercenter",
         "address": "200 S STATE ROAD 434, Altamonte Springs, FL 32714-3858",
-        "phone": "",
+        "phone": "407-774-9966",
         "city": "Altamonte Springs",
         "state": "FL"
     },
@@ -11807,7 +11807,7 @@ const STORES = {
         "name": "Marianna Supercenter",
         "type": "Supercenter",
         "address": "2255 HIGHWAY 71, Marianna, FL 32448-2541",
-        "phone": "",
+        "phone": "850-526-5744",
         "city": "Marianna",
         "state": "FL"
     },
@@ -11861,7 +11861,7 @@ const STORES = {
         "name": "Apache Junction Supercenter",
         "type": "Supercenter",
         "address": "2555 W APACHE TRL, Apache Junction, AZ 85120-5204",
-        "phone": "",
+        "phone": "480-380-3800",
         "city": "Apache Junction",
         "state": "AZ"
     },
@@ -11888,7 +11888,7 @@ const STORES = {
         "name": "La Junta Supercenter",
         "type": "Supercenter",
         "address": "6 CONLEY RD, La Junta, CO 81050-9640",
-        "phone": "",
+        "phone": "719-384-5951",
         "city": "La Junta",
         "state": "CO"
     },
@@ -11915,7 +11915,7 @@ const STORES = {
         "name": "Coral Springs Supercenter",
         "type": "Supercenter",
         "address": "3801 TURTLE CREEK DR, Coral Springs, FL 33067-4282",
-        "phone": "",
+        "phone": "954-341-4505",
         "city": "Coral Springs",
         "state": "FL"
     },
@@ -11942,7 +11942,7 @@ const STORES = {
         "name": "Pinellas Park Supercenter",
         "type": "Supercenter",
         "address": "8001 US HIGHWAY 19 N, Pinellas Park, FL 33781-1744",
-        "phone": "",
+        "phone": "727-576-1770",
         "city": "Pinellas Park",
         "state": "FL"
     },
@@ -11951,7 +11951,7 @@ const STORES = {
         "name": "Daytona Beach Supercenter",
         "type": "Supercenter",
         "address": "1101 BEVILLE RD, Daytona Beach, FL 32119-1604",
-        "phone": "",
+        "phone": "386-760-7880",
         "city": "Daytona Beach",
         "state": "FL"
     },
@@ -12014,7 +12014,7 @@ const STORES = {
         "name": "Lake Worth Supercenter",
         "type": "Supercenter",
         "address": "4545 HYPOLUXO RD, Lake Worth, FL 33463-7508",
-        "phone": "",
+        "phone": "561-642-6005",
         "city": "Lake Worth",
         "state": "FL"
     },
@@ -12122,7 +12122,7 @@ const STORES = {
         "name": "Green Valley Supercenter",
         "type": "Supercenter",
         "address": "18680 S NOGALES HWY, Green Valley, AZ 85614-5284",
-        "phone": "",
+        "phone": "520-625-3808",
         "city": "Green Valley",
         "state": "AZ"
     },
@@ -12176,7 +12176,7 @@ const STORES = {
         "name": "Prescott Supercenter",
         "type": "Supercenter",
         "address": "3050 E STATE ROUTE 69, Prescott, AZ 86301-6743",
-        "phone": "",
+        "phone": "928-445-1113",
         "city": "Prescott",
         "state": "AZ"
     },
@@ -12329,7 +12329,7 @@ const STORES = {
         "name": "Colorado Springs Supercenter",
         "type": "Supercenter",
         "address": "707 S 8TH ST, Colorado Springs, CO 80905-1811",
-        "phone": "",
+        "phone": "719-633-0736",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -12347,7 +12347,7 @@ const STORES = {
         "name": "Greenacres Supercenter",
         "type": "Supercenter",
         "address": "6294 FOREST HILL BLVD, Greenacres, FL 33415-6109",
-        "phone": "",
+        "phone": "561-966-3101",
         "city": "Greenacres",
         "state": "FL"
     },
@@ -12401,7 +12401,7 @@ const STORES = {
         "name": "Page Supercenter",
         "type": "Supercenter",
         "address": "1017 WEST HAUL ROAD, Page, AZ 86040-0000",
-        "phone": "",
+        "phone": "928-645-2622",
         "city": "Page",
         "state": "AZ"
     },
@@ -12419,7 +12419,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "9890 HUTCHINSON PARK DR, Jacksonville, FL 32225-7205",
-        "phone": "",
+        "phone": "904-721-4941",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -12689,7 +12689,7 @@ const STORES = {
         "name": "Yuma Supercenter",
         "type": "Supercenter",
         "address": "2900 S PACIFIC AVE, Yuma, AZ 85365-3500",
-        "phone": "",
+        "phone": "928-344-0992",
         "city": "Yuma",
         "state": "AZ"
     },
@@ -12842,7 +12842,7 @@ const STORES = {
         "name": "Aurora Supercenter",
         "type": "Supercenter",
         "address": "14000 E EXPOSITION AVE, Aurora, CO 80012-2538",
-        "phone": "",
+        "phone": "303-368-1115",
         "city": "Aurora",
         "state": "CO"
     },
@@ -13013,7 +13013,7 @@ const STORES = {
         "name": "Miramar Supercenter",
         "type": "Supercenter",
         "address": "1800 SOUTH UNIVERSITY DRIVE, Miramar, FL 33025-2231",
-        "phone": "",
+        "phone": "954-433-9300",
         "city": "Miramar",
         "state": "FL"
     },
@@ -13022,7 +13022,7 @@ const STORES = {
         "name": "Chandler Supercenter",
         "type": "Supercenter",
         "address": "800 W WARNER RD, Chandler, AZ 85225-2939",
-        "phone": "",
+        "phone": "480-786-0062",
         "city": "Chandler",
         "state": "AZ"
     },
@@ -13031,7 +13031,7 @@ const STORES = {
         "name": "Palm Harbor Supercenter",
         "type": "Supercenter",
         "address": "35404 US HIGHWAY 19 N, Palm Harbor, FL 34684-1738",
-        "phone": "",
+        "phone": "727-784-8797",
         "city": "Palm Harbor",
         "state": "FL"
     },
@@ -13067,7 +13067,7 @@ const STORES = {
         "name": "Pompano Beach Supercenter",
         "type": "Supercenter",
         "address": "5001 N FEDERAL HIGHWAY, Pompano Beach, FL 33064-7056",
-        "phone": "",
+        "phone": "954-784-0220",
         "city": "Pompano Beach",
         "state": "FL"
     },
@@ -13202,7 +13202,7 @@ const STORES = {
         "name": "Glendale Supercenter",
         "type": "Supercenter",
         "address": "5845 W BELL RD, Glendale, AZ 85308-3871",
-        "phone": "",
+        "phone": "602-978-8205",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -13211,7 +13211,7 @@ const STORES = {
         "name": "Peoria Supercenter",
         "type": "Supercenter",
         "address": "7975 W PEORIA AVE, Peoria, AZ 85345-5941",
-        "phone": "",
+        "phone": "623-878-9907",
         "city": "Peoria",
         "state": "AZ"
     },
@@ -13355,7 +13355,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "2020 N 75TH AVE, Phoenix, AZ 85035-3200",
-        "phone": "",
+        "phone": "623-849-1030",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -13364,7 +13364,7 @@ const STORES = {
         "name": "Gunnison Supercenter",
         "type": "Supercenter",
         "address": "900 N MAIN ST, Gunnison, CO 81230-2416",
-        "phone": "",
+        "phone": "970-641-1733",
         "city": "Gunnison",
         "state": "CO"
     },
@@ -13400,7 +13400,7 @@ const STORES = {
         "name": "Stockton Supercenter",
         "type": "Supercenter",
         "address": "3223 E HAMMER LN, Stockton, CA 95212-2815",
-        "phone": "",
+        "phone": "209-473-2796",
         "city": "Stockton",
         "state": "CA"
     },
@@ -13409,7 +13409,7 @@ const STORES = {
         "name": "El Centro Supercenter",
         "type": "Supercenter",
         "address": "2150 N WATERMAN AVE, El Centro, CA 92243-1605",
-        "phone": "",
+        "phone": "760-337-1600",
         "city": "El Centro",
         "state": "CA"
     },
@@ -13481,7 +13481,7 @@ const STORES = {
         "name": "Lancaster Supercenter",
         "type": "Supercenter",
         "address": "44665 VALLEY CENTRAL WAY, Lancaster, CA 93536-6500",
-        "phone": "",
+        "phone": "661-940-8744",
         "city": "Lancaster",
         "state": "CA"
     },
@@ -13580,7 +13580,7 @@ const STORES = {
         "name": "Bakersfield Supercenter",
         "type": "Supercenter",
         "address": "6225 COLONY ST, Bakersfield, CA 93307-6538",
-        "phone": "",
+        "phone": "661-398-7297",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -13589,7 +13589,7 @@ const STORES = {
         "name": "Oroville Supercenter",
         "type": "Supercenter",
         "address": "465 CAL OAK RD, Oroville, CA 95965-9621",
-        "phone": "",
+        "phone": "530-534-1082",
         "city": "Oroville",
         "state": "CA"
     },
@@ -13652,7 +13652,7 @@ const STORES = {
         "name": "Madera Supercenter",
         "type": "Supercenter",
         "address": "1977 W CLEVELAND AVE, Madera, CA 93637-8705",
-        "phone": "",
+        "phone": "559-675-9212",
         "city": "Madera",
         "state": "CA"
     },
@@ -13688,7 +13688,7 @@ const STORES = {
         "name": "Modesto Supercenter",
         "type": "Supercenter",
         "address": "2225 PLAZA PKWY, Modesto, CA 95350-6215",
-        "phone": "",
+        "phone": "209-524-4733",
         "city": "Modesto",
         "state": "CA"
     },
@@ -13697,7 +13697,7 @@ const STORES = {
         "name": "Victorville Supercenter",
         "type": "Supercenter",
         "address": "11896 AMARGOSA RD, Victorville, CA 92392-8133",
-        "phone": "",
+        "phone": "760-951-5005",
         "city": "Victorville",
         "state": "CA"
     },
@@ -13706,7 +13706,7 @@ const STORES = {
         "name": "Delray Beach Supercenter",
         "type": "Supercenter",
         "address": "16205 S MILITARY TRL, Delray Beach, FL 33484-6503",
-        "phone": "",
+        "phone": "561-495-8127",
         "city": "Delray Beach",
         "state": "FL"
     },
@@ -13715,7 +13715,7 @@ const STORES = {
         "name": "Hialeah Supercenter",
         "type": "Supercenter",
         "address": "5851 NW 177TH ST, Hialeah, FL 33015-5127",
-        "phone": "",
+        "phone": "305-558-6069",
         "city": "Hialeah",
         "state": "FL"
     },
@@ -13787,7 +13787,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "4617 E BELL RD, Phoenix, AZ 85032-2305",
-        "phone": "",
+        "phone": "602-482-7575",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -13805,7 +13805,7 @@ const STORES = {
         "name": "Ridgecrest Supercenter",
         "type": "Supercenter",
         "address": "201 E BOWMAN RD, Ridgecrest, CA 93555-8243",
-        "phone": "",
+        "phone": "760-371-4974",
         "city": "Ridgecrest",
         "state": "CA"
     },
@@ -13850,7 +13850,7 @@ const STORES = {
         "name": "Pensacola Supercenter",
         "type": "Supercenter",
         "address": "4600 MOBILE HWY STE 122, Pensacola, FL 32506-3500",
-        "phone": "",
+        "phone": "850-455-4320",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -13877,7 +13877,7 @@ const STORES = {
         "name": "Red Bluff Supercenter",
         "type": "Supercenter",
         "address": "608 LUTHER ROAD, Red Bluff, CA 96080-4360",
-        "phone": "",
+        "phone": "530-529-5540",
         "city": "Red Bluff",
         "state": "CA"
     },
@@ -13913,7 +13913,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "1650 W VALENCIA RD, Tucson, AZ 85746-6021",
-        "phone": "",
+        "phone": "520-573-3777",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -13940,7 +13940,7 @@ const STORES = {
         "name": "Pittsburg Supercenter",
         "type": "Supercenter",
         "address": "2203 LOVERIDGE RD, Pittsburg, CA 94565-5021",
-        "phone": "",
+        "phone": "925-427-2022",
         "city": "Pittsburg",
         "state": "CA"
     },
@@ -13949,7 +13949,7 @@ const STORES = {
         "name": "Susanville Supercenter",
         "type": "Supercenter",
         "address": "2900 MAIN ST, Susanville, CA 96130-4730",
-        "phone": "",
+        "phone": "530-251-2000",
         "city": "Susanville",
         "state": "CA"
     },
@@ -14021,7 +14021,7 @@ const STORES = {
         "name": "Bakersfield Supercenter",
         "type": "Supercenter",
         "address": "2601 FASHION PLACE, Bakersfield, CA 93306-3027",
-        "phone": "",
+        "phone": "661-873-7120",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -14075,7 +14075,7 @@ const STORES = {
         "name": "Yreka Supercenter",
         "type": "Supercenter",
         "address": "1906 FORT JONES RD, Yreka, CA 96097-9530",
-        "phone": "",
+        "phone": "530-842-7330",
         "city": "Yreka",
         "state": "CA"
     },
@@ -14210,7 +14210,7 @@ const STORES = {
         "name": "Hanford Supercenter",
         "type": "Supercenter",
         "address": "250 S 12TH AVE, Hanford, CA 93230-6176",
-        "phone": "",
+        "phone": "559-583-6292",
         "city": "Hanford",
         "state": "CA"
     },
@@ -14219,7 +14219,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "6131 E SOUTHERN AVE, Mesa, AZ 85206-3734",
-        "phone": "",
+        "phone": "480-830-3919",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -14264,7 +14264,7 @@ const STORES = {
         "name": "American Canyon Supercenter",
         "type": "Supercenter",
         "address": "7011 MAIN ST, American Canyon, CA 94503-1169",
-        "phone": "",
+        "phone": "707-557-4393",
         "city": "American Canyon",
         "state": "CA"
     },
@@ -14336,7 +14336,7 @@ const STORES = {
         "name": "Brighton Supercenter",
         "type": "Supercenter",
         "address": "60 W BROMLEY LN, Brighton, CO 80601-3026",
-        "phone": "",
+        "phone": "303-659-1560",
         "city": "Brighton",
         "state": "CO"
     },
@@ -14345,7 +14345,7 @@ const STORES = {
         "name": "Palmdale Supercenter",
         "type": "Supercenter",
         "address": "40130 10TH ST W, Palmdale, CA 93551-3005",
-        "phone": "",
+        "phone": "661-267-6496",
         "city": "Palmdale",
         "state": "CA"
     },
@@ -14525,7 +14525,7 @@ const STORES = {
         "name": "Kendall Supercenter",
         "type": "Supercenter",
         "address": "15885 SW 88TH ST, Kendall, FL 33196-1003",
-        "phone": "",
+        "phone": "305-383-3611",
         "city": "Kendall",
         "state": "FL"
     },
@@ -14606,7 +14606,7 @@ const STORES = {
         "name": "Aurora Supercenter",
         "type": "Supercenter",
         "address": "5650 S CHAMBERS RD, Aurora, CO 80015-1132",
-        "phone": "",
+        "phone": "303-690-6322",
         "city": "Aurora",
         "state": "CO"
     },
@@ -14633,7 +14633,7 @@ const STORES = {
         "name": "Colton Supercenter",
         "type": "Supercenter",
         "address": "1120 S MOUNT VERNON AVE, Colton, CA 92324-4220",
-        "phone": "",
+        "phone": "909-783-0497",
         "city": "Colton",
         "state": "CA"
     },
@@ -14642,7 +14642,7 @@ const STORES = {
         "name": "Redlands Supercenter",
         "type": "Supercenter",
         "address": "2050 W REDLANDS BLVD, Redlands, CA 92373-6228",
-        "phone": "",
+        "phone": "909-798-9114",
         "city": "Redlands",
         "state": "CA"
     },
@@ -14678,7 +14678,7 @@ const STORES = {
         "name": "Elk Grove Supercenter",
         "type": "Supercenter",
         "address": "8465 ELK GROVE BLVD, Elk Grove, CA 95758-9573",
-        "phone": "",
+        "phone": "916-684-7100",
         "city": "Elk Grove",
         "state": "CA"
     },
@@ -14705,7 +14705,7 @@ const STORES = {
         "name": "Poway Supercenter",
         "type": "Supercenter",
         "address": "13425 COMMUNITY RD, Poway, CA 92064-4723",
-        "phone": "",
+        "phone": "858-486-1882",
         "city": "Poway",
         "state": "CA"
     },
@@ -14723,7 +14723,7 @@ const STORES = {
         "name": "Melbourne Supercenter",
         "type": "Supercenter",
         "address": "1000 N WICKHAM RD, Melbourne, FL 32935-8937",
-        "phone": "",
+        "phone": "321-242-1601",
         "city": "Melbourne",
         "state": "FL"
     },
@@ -14741,7 +14741,7 @@ const STORES = {
         "name": "Vacaville Supercenter",
         "type": "Supercenter",
         "address": "1501 HELEN POWER DR, Vacaville, CA 95687-3351",
-        "phone": "",
+        "phone": "707-451-0166",
         "city": "Vacaville",
         "state": "CA"
     },
@@ -14804,7 +14804,7 @@ const STORES = {
         "name": "Largo Supercenter",
         "type": "Supercenter",
         "address": "990 MISSOURI AVE N, Largo, FL 33770-1812",
-        "phone": "",
+        "phone": "727-587-7822",
         "city": "Largo",
         "state": "FL"
     },
@@ -15011,7 +15011,7 @@ const STORES = {
         "name": "Dover Supercenter",
         "type": "Supercenter",
         "address": "36 JEROME DR, Dover, DE 19901-2300",
-        "phone": "",
+        "phone": "302-674-2159",
         "city": "Dover",
         "state": "DE"
     },
@@ -15056,7 +15056,7 @@ const STORES = {
         "name": "Milford Supercenter",
         "type": "Supercenter",
         "address": "939 N DUPONT BLVD, Milford, DE 19963-1072",
-        "phone": "",
+        "phone": "302-422-2854",
         "city": "Milford",
         "state": "DE"
     },
@@ -15101,7 +15101,7 @@ const STORES = {
         "name": "Tempe Supercenter",
         "type": "Supercenter",
         "address": "1380 W ELLIOT RD, Tempe, AZ 85284-1102",
-        "phone": "",
+        "phone": "480-345-8686",
         "city": "Tempe",
         "state": "AZ"
     },
@@ -15110,7 +15110,7 @@ const STORES = {
         "name": "Perris Supercenter",
         "type": "Supercenter",
         "address": "1800 N PERRIS BLVD, Perris, CA 92571-2701",
-        "phone": "",
+        "phone": "951-940-0440",
         "city": "Perris",
         "state": "CA"
     },
@@ -15182,7 +15182,7 @@ const STORES = {
         "name": "Rohnert Park Supercenter",
         "type": "Supercenter",
         "address": "4625 REDWOOD DR, Rohnert Park, CA 94928-7941",
-        "phone": "",
+        "phone": "707-586-3717",
         "city": "Rohnert Park",
         "state": "CA"
     },
@@ -15191,7 +15191,7 @@ const STORES = {
         "name": "Fontana Supercenter",
         "type": "Supercenter",
         "address": "17251 FOOTHILL BLVD, Fontana, CA 92335-9044",
-        "phone": "",
+        "phone": "909-355-6922",
         "city": "Fontana",
         "state": "CA"
     },
@@ -15227,7 +15227,7 @@ const STORES = {
         "name": "Folsom Supercenter",
         "type": "Supercenter",
         "address": "1018 RILEY ST, Folsom, CA 95630-3268",
-        "phone": "",
+        "phone": "916-983-1090",
         "city": "Folsom",
         "state": "CA"
     },
@@ -15488,7 +15488,7 @@ const STORES = {
         "name": "Lodi Supercenter",
         "type": "Supercenter",
         "address": "1601 S LOWER SACRAMENTO RD, Lodi, CA 95242-9762",
-        "phone": "",
+        "phone": "209-368-6696",
         "city": "Lodi",
         "state": "CA"
     },
@@ -15632,7 +15632,7 @@ const STORES = {
         "name": "La Quinta Supercenter",
         "type": "Supercenter",
         "address": "79295 US HWY 111, La Quinta, CA 92253-2060",
-        "phone": "",
+        "phone": "760-564-3313",
         "city": "La Quinta",
         "state": "CA"
     },
@@ -15659,7 +15659,7 @@ const STORES = {
         "name": "Steamboat Springs Supercenter",
         "type": "Supercenter",
         "address": "1805 CENTRAL PARK DRIVE, Steamboat Springs, CO 80487-8884",
-        "phone": "",
+        "phone": "970-879-8115",
         "city": "Steamboat Springs",
         "state": "CO"
     },
@@ -15722,7 +15722,7 @@ const STORES = {
         "name": "Fresno Supercenter",
         "type": "Supercenter",
         "address": "4080 W SHAW AVE, Fresno, CA 93722-6220",
-        "phone": "",
+        "phone": "559-277-8191",
         "city": "Fresno",
         "state": "CA"
     },
@@ -15803,7 +15803,7 @@ const STORES = {
         "name": "Visalia Supercenter",
         "type": "Supercenter",
         "address": "1819 E NOBLE AVE, Visalia, CA 93292-1519",
-        "phone": "",
+        "phone": "559-636-2302",
         "city": "Visalia",
         "state": "CA"
     },
@@ -15857,7 +15857,7 @@ const STORES = {
         "name": "Palm Springs Supercenter",
         "type": "Supercenter",
         "address": "5601 E RAMON RD, Palm Springs, CA 92264-3605",
-        "phone": "",
+        "phone": "760-322-3906",
         "city": "Palm Springs",
         "state": "CA"
     },
@@ -15929,7 +15929,7 @@ const STORES = {
         "name": "Manteca Supercenter",
         "type": "Supercenter",
         "address": "1205 S MAIN ST, Manteca, CA 95337-5748",
-        "phone": "",
+        "phone": "209-824-2000",
         "city": "Manteca",
         "state": "CA"
     },
@@ -15974,7 +15974,7 @@ const STORES = {
         "name": "Cooper City Supercenter",
         "type": "Supercenter",
         "address": "4700 S FLAMINGO RD, Cooper City, FL 33330-2300",
-        "phone": "",
+        "phone": "954-680-7810",
         "city": "Cooper City",
         "state": "FL"
     },
@@ -15983,7 +15983,7 @@ const STORES = {
         "name": "Douglas Supercenter",
         "type": "Supercenter",
         "address": "199 W 5TH ST, Douglas, AZ 85607-2853",
-        "phone": "",
+        "phone": "520-364-1281",
         "city": "Douglas",
         "state": "AZ"
     },
@@ -15992,7 +15992,7 @@ const STORES = {
         "name": "Ocala Supercenter",
         "type": "Supercenter",
         "address": "4980 E SILVER SPRINGS BLVD, Ocala, FL 34470-3268",
-        "phone": "",
+        "phone": "352-236-1188",
         "city": "Ocala",
         "state": "FL"
     },
@@ -16028,7 +16028,7 @@ const STORES = {
         "name": "North Lauderdale Supercenter",
         "type": "Supercenter",
         "address": "7900 W MCNAB RD, North Lauderdale, FL 33068-4303",
-        "phone": "",
+        "phone": "954-726-3388",
         "city": "North Lauderdale",
         "state": "FL"
     },
@@ -16046,7 +16046,7 @@ const STORES = {
         "name": "Hemet Supercenter",
         "type": "Supercenter",
         "address": "1231 S SANDERSON AVE, Hemet, CA 92545-9046",
-        "phone": "",
+        "phone": "951-766-1164",
         "city": "Hemet",
         "state": "CA"
     },
@@ -16100,7 +16100,7 @@ const STORES = {
         "name": "Calexico Supercenter",
         "type": "Supercenter",
         "address": "2540 ROCKWOOD AVE, Calexico, CA 92231-4406",
-        "phone": "",
+        "phone": "760-768-5013",
         "city": "Calexico",
         "state": "CA"
     },
@@ -16127,7 +16127,7 @@ const STORES = {
         "name": "Rialto Supercenter",
         "type": "Supercenter",
         "address": "1366 S RIVERSIDE AVE, Rialto, CA 92376-7608",
-        "phone": "",
+        "phone": "909-820-9912",
         "city": "Rialto",
         "state": "CA"
     },
@@ -16235,7 +16235,7 @@ const STORES = {
         "name": "Englewood Supercenter",
         "type": "Supercenter",
         "address": "2931 S MCCALL RD, Englewood, FL 34224-8607",
-        "phone": "",
+        "phone": "941-475-9220",
         "city": "Englewood",
         "state": "FL"
     },
@@ -16262,7 +16262,7 @@ const STORES = {
         "name": "Porterville Supercenter",
         "type": "Supercenter",
         "address": "1250 W HENDERSON AVE, Porterville, CA 93257-1455",
-        "phone": "",
+        "phone": "559-783-8195",
         "city": "Porterville",
         "state": "CA"
     },
@@ -16280,7 +16280,7 @@ const STORES = {
         "name": "Barstow Supercenter",
         "type": "Supercenter",
         "address": "301 MONTARA RD, Barstow, CA 92311-5708",
-        "phone": "",
+        "phone": "760-252-5000",
         "city": "Barstow",
         "state": "CA"
     },
@@ -16298,7 +16298,7 @@ const STORES = {
         "name": "Antelope Supercenter",
         "type": "Supercenter",
         "address": "7901 WATT AVE, Antelope, CA 95843-2025",
-        "phone": "",
+        "phone": "916-332-3173",
         "city": "Antelope",
         "state": "CA"
     },
@@ -16307,7 +16307,7 @@ const STORES = {
         "name": "Selma Supercenter",
         "type": "Supercenter",
         "address": "3400 FLORAL AVE, Selma, CA 93662-9036",
-        "phone": "",
+        "phone": "559-891-7190",
         "city": "Selma",
         "state": "CA"
     },
@@ -16388,7 +16388,7 @@ const STORES = {
         "name": "Manchester Supercenter",
         "type": "Supercenter",
         "address": "420 BUCKLAND HILLS DR, Manchester, CT 06042-8755",
-        "phone": "",
+        "phone": "860-644-5100",
         "city": "Manchester",
         "state": "CT"
     },
@@ -16433,7 +16433,7 @@ const STORES = {
         "name": "Colorado Springs Supercenter",
         "type": "Supercenter",
         "address": "8250 RAZORBACK RD, Colorado Springs, CO 80920-3950",
-        "phone": "",
+        "phone": "719-593-2300",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -16460,7 +16460,7 @@ const STORES = {
         "name": "Riverside Supercenter",
         "type": "Supercenter",
         "address": "6250 VALLEY SPRINGS PKWY, Riverside, CA 92507-0911",
-        "phone": "",
+        "phone": "951-653-4849",
         "city": "Riverside",
         "state": "CA"
     },
@@ -16496,7 +16496,7 @@ const STORES = {
         "name": "Yuba City Supercenter",
         "type": "Supercenter",
         "address": "1150 HARTER RD, Yuba City, CA 95993-2642",
-        "phone": "",
+        "phone": "530-751-0130",
         "city": "Yuba City",
         "state": "CA"
     },
@@ -16559,7 +16559,7 @@ const STORES = {
         "name": "Crescent City Supercenter",
         "type": "Supercenter",
         "address": "900 E WASHINGTON BLVD, Crescent City, CA 95531-8118",
-        "phone": "",
+        "phone": "707-464-1198",
         "city": "Crescent City",
         "state": "CA"
     },
@@ -16577,7 +16577,7 @@ const STORES = {
         "name": "Corona Supercenter",
         "type": "Supercenter",
         "address": "479 N MCKINLEY ST, Corona, CA 92879-1205",
-        "phone": "",
+        "phone": "951-270-0707",
         "city": "Corona",
         "state": "CA"
     },
@@ -16595,7 +16595,7 @@ const STORES = {
         "name": "Highland Supercenter",
         "type": "Supercenter",
         "address": "4210 HIGHLAND AVE, Highland, CA 92346-2742",
-        "phone": "",
+        "phone": "909-425-8846",
         "city": "Highland",
         "state": "CA"
     },
@@ -16604,7 +16604,7 @@ const STORES = {
         "name": "Yucca Valley Supercenter",
         "type": "Supercenter",
         "address": "58501 29 PALMS HWY, Yucca Valley, CA 92284-5765",
-        "phone": "",
+        "phone": "760-365-7750",
         "city": "Yucca Valley",
         "state": "CA"
     },
@@ -16613,7 +16613,7 @@ const STORES = {
         "name": "Coconut Creek Supercenter",
         "type": "Supercenter",
         "address": "5571 W HILLSBORO BLVD, Coconut Creek, FL 33073-4376",
-        "phone": "",
+        "phone": "954-426-6101",
         "city": "Coconut Creek",
         "state": "FL"
     },
@@ -16622,7 +16622,7 @@ const STORES = {
         "name": "Santee Supercenter",
         "type": "Supercenter",
         "address": "170 TOWN CENTER PARKWAY, Santee, CA 92071-5801",
-        "phone": "",
+        "phone": "619-449-7900",
         "city": "Santee",
         "state": "CA"
     },
@@ -16667,7 +16667,7 @@ const STORES = {
         "name": "Rancho Cucamonga Supercenter",
         "type": "Supercenter",
         "address": "12549 FOOTHILL BLVD, Rancho Cucamonga, CA 91739-9317",
-        "phone": "",
+        "phone": "909-899-1441",
         "city": "Rancho Cucamonga",
         "state": "CA"
     },
@@ -16838,7 +16838,7 @@ const STORES = {
         "name": "Glendora Supercenter",
         "type": "Supercenter",
         "address": "1950 AUTO CENTER DRIVE, Glendora, CA 91740-6700",
-        "phone": "",
+        "phone": "909-592-4866",
         "city": "Glendora",
         "state": "CA"
     },
@@ -16973,7 +16973,7 @@ const STORES = {
         "name": "Naples Supercenter",
         "type": "Supercenter",
         "address": "11225 TAMIAMI TRL N, Naples, FL 34110-1639",
-        "phone": "",
+        "phone": "239-591-4311",
         "city": "Naples",
         "state": "FL"
     },
@@ -17027,7 +17027,7 @@ const STORES = {
         "name": "Turlock Supercenter",
         "type": "Supercenter",
         "address": "2111 FULKERTH RD, Turlock, CA 95380-9515",
-        "phone": "",
+        "phone": "209-634-8543",
         "city": "Turlock",
         "state": "CA"
     },
@@ -17108,7 +17108,7 @@ const STORES = {
         "name": "Livermore Supercenter",
         "type": "Supercenter",
         "address": "2700 LAS POSITAS RD, Livermore, CA 94551-9619",
-        "phone": "",
+        "phone": "925-455-0215",
         "city": "Livermore",
         "state": "CA"
     },
@@ -17171,7 +17171,7 @@ const STORES = {
         "name": "Clearlake Supercenter",
         "type": "Supercenter",
         "address": "15960 DAM RD, Clearlake, CA 95422-7906",
-        "phone": "",
+        "phone": "707-994-6881",
         "city": "Clearlake",
         "state": "CA"
     },
@@ -17180,7 +17180,7 @@ const STORES = {
         "name": "Putnam Supercenter",
         "type": "Supercenter",
         "address": "625 SCHOOL ST, Putnam, CT 06260-2424",
-        "phone": "",
+        "phone": "860-928-3999",
         "city": "Putnam",
         "state": "CT"
     },
@@ -17207,7 +17207,7 @@ const STORES = {
         "name": "Ceres Supercenter",
         "type": "Supercenter",
         "address": "3960 MITCHELL RD, Ceres, CA 95307-9420",
-        "phone": "",
+        "phone": "209-541-0253",
         "city": "Ceres",
         "state": "CA"
     },
@@ -17252,7 +17252,7 @@ const STORES = {
         "name": "Roseville Supercenter",
         "type": "Supercenter",
         "address": "900 PLEASANT GROVE BLVD, Roseville, CA 95678-6197",
-        "phone": "",
+        "phone": "916-786-6768",
         "city": "Roseville",
         "state": "CA"
     },
@@ -17261,7 +17261,7 @@ const STORES = {
         "name": "Lompoc Supercenter",
         "type": "Supercenter",
         "address": "701 W CENTRAL AVE, Lompoc, CA 93436-2829",
-        "phone": "",
+        "phone": "805-735-9088",
         "city": "Lompoc",
         "state": "CA"
     },
@@ -17288,7 +17288,7 @@ const STORES = {
         "name": "Upland Supercenter",
         "type": "Supercenter",
         "address": "1540 W FOOTHILL BLVD, Upland, CA 91786-3653",
-        "phone": "",
+        "phone": "909-920-4021",
         "city": "Upland",
         "state": "CA"
     },
@@ -17324,7 +17324,7 @@ const STORES = {
         "name": "Hallandale Beach Supercenter",
         "type": "Supercenter",
         "address": "2551 E HALLANDALE BEACH BLVD, Hallandale Beach, FL 33009-4818",
-        "phone": "",
+        "phone": "954-455-4700",
         "city": "Hallandale Beach",
         "state": "FL"
     },
@@ -17369,7 +17369,7 @@ const STORES = {
         "name": "Fresno Supercenter",
         "type": "Supercenter",
         "address": "5111 E CESAR CHAVEZ BLVD, Fresno, CA 93727-3937",
-        "phone": "",
+        "phone": "559-252-9457",
         "city": "Fresno",
         "state": "CA"
     },
@@ -17378,7 +17378,7 @@ const STORES = {
         "name": "Gilroy Supercenter",
         "type": "Supercenter",
         "address": "7150 CAMINO ARROYO, Gilroy, CA 95020-7347",
-        "phone": "",
+        "phone": "408-848-8161",
         "city": "Gilroy",
         "state": "CA"
     },
@@ -17531,7 +17531,7 @@ const STORES = {
         "name": "North Windham Supercenter",
         "type": "Supercenter",
         "address": "474 BOSTON POST RD, North Windham, CT 06256-1052",
-        "phone": "",
+        "phone": "860-456-4399",
         "city": "North Windham",
         "state": "CT"
     },
@@ -17558,7 +17558,7 @@ const STORES = {
         "name": "Tracy Supercenter",
         "type": "Supercenter",
         "address": "3010 W GRANT LINE RD, Tracy, CA 95304-9402",
-        "phone": "",
+        "phone": "209-836-5786",
         "city": "Tracy",
         "state": "CA"
     },
@@ -17585,7 +17585,7 @@ const STORES = {
         "name": "Riverside Supercenter",
         "type": "Supercenter",
         "address": "5200 VAN BUREN BLVD, Riverside, CA 92503-2544",
-        "phone": "",
+        "phone": "951-689-4595",
         "city": "Riverside",
         "state": "CA"
     },
@@ -17594,7 +17594,7 @@ const STORES = {
         "name": "Sonora Supercenter",
         "type": "Supercenter",
         "address": "1101 SANGUINETTI ROAD, Sonora, CA 95370-6214",
-        "phone": "",
+        "phone": "209-533-2617",
         "city": "Sonora",
         "state": "CA"
     },
@@ -17603,7 +17603,7 @@ const STORES = {
         "name": "Union City Supercenter",
         "type": "Supercenter",
         "address": "30600 DYER ST, Union City, CA 94587-1717",
-        "phone": "",
+        "phone": "510-475-5915",
         "city": "Union City",
         "state": "CA"
     },
@@ -17612,7 +17612,7 @@ const STORES = {
         "name": "Oxnard Supercenter",
         "type": "Supercenter",
         "address": "2001 N ROSE AVE, Oxnard, CA 93036-2681",
-        "phone": "",
+        "phone": "805-981-4884",
         "city": "Oxnard",
         "state": "CA"
     },
@@ -17666,7 +17666,7 @@ const STORES = {
         "name": "Merced Supercenter",
         "type": "Supercenter",
         "address": "3055 LOUGHBOROUGH DR, Merced, CA 95348-1119",
-        "phone": "",
+        "phone": "209-384-1275",
         "city": "Merced",
         "state": "CA"
     },
@@ -17702,7 +17702,7 @@ const STORES = {
         "name": "Chico Supercenter",
         "type": "Supercenter",
         "address": "2044 FOREST AVE, Chico, CA 95928-7619",
-        "phone": "",
+        "phone": "530-899-8760",
         "city": "Chico",
         "state": "CA"
     },
@@ -17738,7 +17738,7 @@ const STORES = {
         "name": "Fairfield Supercenter",
         "type": "Supercenter",
         "address": "2701 N TEXAS ST, Fairfield, CA 94533-1204",
-        "phone": "",
+        "phone": "707-428-4792",
         "city": "Fairfield",
         "state": "CA"
     },
@@ -17765,7 +17765,7 @@ const STORES = {
         "name": "Kingman Supercenter",
         "type": "Supercenter",
         "address": "3396 STOCKTON HILL RD, Kingman, AZ 86409-3648",
-        "phone": "",
+        "phone": "928-692-0555",
         "city": "Kingman",
         "state": "AZ"
     },
@@ -17774,7 +17774,7 @@ const STORES = {
         "name": "Ukiah Supercenter",
         "type": "Supercenter",
         "address": "1155 AIRPORT PARK BLVD, Ukiah, CA 95482-5998",
-        "phone": "",
+        "phone": "707-468-0258",
         "city": "Ukiah",
         "state": "CA"
     },
@@ -17783,7 +17783,7 @@ const STORES = {
         "name": "Willows Supercenter",
         "type": "Supercenter",
         "address": "470 N AIRPORT RD, Willows, CA 95988-9701",
-        "phone": "",
+        "phone": "530-934-2054",
         "city": "Willows",
         "state": "CA"
     },
@@ -17792,7 +17792,7 @@ const STORES = {
         "name": "Jackson Supercenter",
         "type": "Supercenter",
         "address": "10355 WICKLOW WAY, Jackson, CA 95642-9324",
-        "phone": "",
+        "phone": "209-223-5384",
         "city": "Jackson",
         "state": "CA"
     },
@@ -17981,7 +17981,7 @@ const STORES = {
         "name": "Lake Elsinore Supercenter",
         "type": "Supercenter",
         "address": "29260 CENTRAL AVE, Lake Elsinore, CA 92532-2232",
-        "phone": "",
+        "phone": "951-245-5990",
         "city": "Lake Elsinore",
         "state": "CA"
     },
@@ -18017,7 +18017,7 @@ const STORES = {
         "name": "Clearwater Supercenter",
         "type": "Supercenter",
         "address": "23106 US HIGHWAY 19 N, Clearwater, FL 33765-1849",
-        "phone": "",
+        "phone": "727-724-7777",
         "city": "Clearwater",
         "state": "FL"
     },
@@ -18026,7 +18026,7 @@ const STORES = {
         "name": "Cerritos Supercenter",
         "type": "Supercenter",
         "address": "12701 TOWNE CENTER DR, Cerritos, CA 90703-8545",
-        "phone": "",
+        "phone": "562-924-1468",
         "city": "Cerritos",
         "state": "CA"
     },
@@ -18107,7 +18107,7 @@ const STORES = {
         "name": "Doral Supercenter",
         "type": "Supercenter",
         "address": "8651 NW 13TH TER, Doral, FL 33126-1512",
-        "phone": "",
+        "phone": "305-470-4510",
         "city": "Doral",
         "state": "FL"
     },
@@ -18134,7 +18134,7 @@ const STORES = {
         "name": "Vista Supercenter",
         "type": "Supercenter",
         "address": "1800 UNIVERSITY DR, Vista, CA 92083-7700",
-        "phone": "",
+        "phone": "760-945-7995",
         "city": "Vista",
         "state": "CA"
     },
@@ -18179,7 +18179,7 @@ const STORES = {
         "name": "Paso Robles Supercenter",
         "type": "Supercenter",
         "address": "180 NIBLICK RD, Paso Robles, CA 93446-4842",
-        "phone": "",
+        "phone": "805-238-1212",
         "city": "Paso Robles",
         "state": "CA"
     },
@@ -18278,7 +18278,7 @@ const STORES = {
         "name": "Paramount Supercenter",
         "type": "Supercenter",
         "address": "14501 LAKEWOOD BLVD, Paramount, CA 90723-3601",
-        "phone": "",
+        "phone": "562-531-8240",
         "city": "Paramount",
         "state": "CA"
     },
@@ -18296,7 +18296,7 @@ const STORES = {
         "name": "Scottsdale Supercenter",
         "type": "Supercenter",
         "address": "4915 N PIMA RD, Scottsdale, AZ 85251-1872",
-        "phone": "",
+        "phone": "480-941-0333",
         "city": "Scottsdale",
         "state": "AZ"
     },
@@ -18305,7 +18305,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "1607 W BETHANY HOME RD, Phoenix, AZ 85015-2507",
-        "phone": "",
+        "phone": "602-246-1700",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -18314,7 +18314,7 @@ const STORES = {
         "name": "Chipley Supercenter",
         "type": "Supercenter",
         "address": "1621 MAIN ST, Chipley, FL 32428-5992",
-        "phone": "",
+        "phone": "850-638-2243",
         "city": "Chipley",
         "state": "FL"
     },
@@ -18341,7 +18341,7 @@ const STORES = {
         "name": "Los Banos Supercenter",
         "type": "Supercenter",
         "address": "1575 WEST PACHECO BLVD, Los Banos, CA 93635-8505",
-        "phone": "",
+        "phone": "209-826-9655",
         "city": "Los Banos",
         "state": "CA"
     },
@@ -18359,7 +18359,7 @@ const STORES = {
         "name": "Milpitas Supercenter",
         "type": "Supercenter",
         "address": "301 RANCH DR, Milpitas, CA 95035-5100",
-        "phone": "",
+        "phone": "408-934-0304",
         "city": "Milpitas",
         "state": "CA"
     },
@@ -18395,7 +18395,7 @@ const STORES = {
         "name": "Texarkana Supercenter",
         "type": "Supercenter",
         "address": "4000 NEW BOSTON RD, Texarkana, TX 75501-2819",
-        "phone": "",
+        "phone": "903-838-4007",
         "city": "Texarkana",
         "state": "TX"
     },
@@ -18413,7 +18413,7 @@ const STORES = {
         "name": "Lakewood Supercenter",
         "type": "Supercenter",
         "address": "7455 W COLFAX AVE, Lakewood, CO 80214-5400",
-        "phone": "",
+        "phone": "303-274-5211",
         "city": "Lakewood",
         "state": "CO"
     },
@@ -18584,7 +18584,7 @@ const STORES = {
         "name": "Torrington Supercenter",
         "type": "Supercenter",
         "address": "970 TORRINGFORD ST, Torrington, CT 06790-3542",
-        "phone": "",
+        "phone": "860-496-8653",
         "city": "Torrington",
         "state": "CT"
     },
@@ -18629,7 +18629,7 @@ const STORES = {
         "name": "San Diego Supercenter",
         "type": "Supercenter",
         "address": "710 DENNERY ROAD, San Diego, CA 92154-8400",
-        "phone": "",
+        "phone": "619-428-4000",
         "city": "San Diego",
         "state": "CA"
     },
@@ -18728,7 +18728,7 @@ const STORES = {
         "name": "Pleasanton Supercenter",
         "type": "Supercenter",
         "address": "4501 ROSEWOOD DR, Pleasanton, CA 94588-3079",
-        "phone": "",
+        "phone": "925-734-8744",
         "city": "Pleasanton",
         "state": "CA"
     },
@@ -18737,7 +18737,7 @@ const STORES = {
         "name": "Shelton Supercenter",
         "type": "Supercenter",
         "address": "465 BRIDGEPORT AVE, Shelton, CT 06484-4751",
-        "phone": "",
+        "phone": "203-929-1110",
         "city": "Shelton",
         "state": "CT"
     },
@@ -18782,7 +18782,7 @@ const STORES = {
         "name": "Norwich Supercenter",
         "type": "Supercenter",
         "address": "220 SALEM TPKE, Norwich, CT 06360-6455",
-        "phone": "",
+        "phone": "860-889-7745",
         "city": "Norwich",
         "state": "CT"
     },
@@ -18809,7 +18809,7 @@ const STORES = {
         "name": "Jupiter Supercenter",
         "type": "Supercenter",
         "address": "2144 W INDIANTOWN RD, Jupiter, FL 33458-5810",
-        "phone": "",
+        "phone": "561-746-6422",
         "city": "Jupiter",
         "state": "FL"
     },
@@ -18818,7 +18818,7 @@ const STORES = {
         "name": "San Diego Supercenter",
         "type": "Supercenter",
         "address": "3382 MURPHY CANYON ROAD, San Diego, CA 92123-2654",
-        "phone": "",
+        "phone": "858-571-6094",
         "city": "San Diego",
         "state": "CA"
     },
@@ -18845,7 +18845,7 @@ const STORES = {
         "name": "Indio Supercenter",
         "type": "Supercenter",
         "address": "82-491 AVENUE 42, Indio, CA 92203-0000",
-        "phone": "",
+        "phone": "760-262-8004",
         "city": "Indio",
         "state": "CA"
     },
@@ -18908,7 +18908,7 @@ const STORES = {
         "name": "Woodland Supercenter",
         "type": "Supercenter",
         "address": "1720 E MAIN ST, Woodland, CA 95776-6223",
-        "phone": "",
+        "phone": "530-668-1060",
         "city": "Woodland",
         "state": "CA"
     },
@@ -18998,7 +18998,7 @@ const STORES = {
         "name": "Groton Supercenter",
         "type": "Supercenter",
         "address": "150 GOLD STAR HWY, Groton, CT 06340-3442",
-        "phone": "",
+        "phone": "860-448-2022",
         "city": "Groton",
         "state": "CT"
     },
@@ -19025,7 +19025,7 @@ const STORES = {
         "name": "Bentonville Supercenter",
         "type": "Supercenter",
         "address": "702 SW 8TH ST PHARMACY, Bentonville, AR 72712-0000",
-        "phone": "",
+        "phone": "479-418-0750",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -19052,7 +19052,7 @@ const STORES = {
         "name": "Laguna Niguel Supercenter",
         "type": "Supercenter",
         "address": "27470 ALICIA PKWY, Laguna Niguel, CA 92677-3412",
-        "phone": "",
+        "phone": "949-360-0758",
         "city": "Laguna Niguel",
         "state": "CA"
     },
@@ -19133,7 +19133,7 @@ const STORES = {
         "name": "Foothill Ranch Supercenter",
         "type": "Supercenter",
         "address": "26502 TOWNE CENTRE DR, Foothill Ranch, CA 92610-2417",
-        "phone": "",
+        "phone": "949-588-7923",
         "city": "Foothill Ranch",
         "state": "CA"
     },
@@ -19160,7 +19160,7 @@ const STORES = {
         "name": "Westminster Supercenter",
         "type": "Supercenter",
         "address": "9499 SHERIDAN BLVD, Westminster, CO 80031-6532",
-        "phone": "",
+        "phone": "303-427-4882",
         "city": "Westminster",
         "state": "CO"
     },
@@ -19187,7 +19187,7 @@ const STORES = {
         "name": "Torrance Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "19340 HAWTHORNE BLVD, Torrance, CA 90503-1506",
-        "phone": "",
+        "phone": "310-750-1983",
         "city": "Torrance",
         "state": "CA"
     },
@@ -19232,7 +19232,7 @@ const STORES = {
         "name": "Branford Supercenter",
         "type": "Supercenter",
         "address": "120 COMMERCIAL PKWY, Branford, CT 06405-2537",
-        "phone": "",
+        "phone": "203-488-4106",
         "city": "Branford",
         "state": "CT"
     },
@@ -19268,7 +19268,7 @@ const STORES = {
         "name": "Lehigh Acres Supercenter",
         "type": "Supercenter",
         "address": "2523 LEE BLVD, Lehigh Acres, FL 33971-1413",
-        "phone": "",
+        "phone": "239-368-5700",
         "city": "Lehigh Acres",
         "state": "FL"
     },
@@ -19313,7 +19313,7 @@ const STORES = {
         "name": "Anaheim Supercenter",
         "type": "Supercenter",
         "address": "440 N EUCLID ST, Anaheim, CA 92801-5505",
-        "phone": "",
+        "phone": "714-491-0744",
         "city": "Anaheim",
         "state": "CA"
     },
@@ -19340,7 +19340,7 @@ const STORES = {
         "name": "Oceanside Supercenter",
         "type": "Supercenter",
         "address": "705 COLLEGE BLVD, Oceanside, CA 92057-6259",
-        "phone": "",
+        "phone": "760-631-0434",
         "city": "Oceanside",
         "state": "CA"
     },
@@ -19403,7 +19403,7 @@ const STORES = {
         "name": "El Cajon Supercenter",
         "type": "Supercenter",
         "address": "13487 CAMINO CANADA, El Cajon, CA 92021-8811",
-        "phone": "",
+        "phone": "619-561-0828",
         "city": "El Cajon",
         "state": "CA"
     },
@@ -19538,7 +19538,7 @@ const STORES = {
         "name": "Durango Supercenter",
         "type": "Supercenter",
         "address": "1155 S CAMINO DEL RIO, Durango, CO 81303-6698",
-        "phone": "",
+        "phone": "970-259-8755",
         "city": "Durango",
         "state": "CO"
     },
@@ -19601,7 +19601,7 @@ const STORES = {
         "name": "Clovis Supercenter",
         "type": "Supercenter",
         "address": "323 W SHAW AVE, Clovis, CA 93612-3604",
-        "phone": "",
+        "phone": "559-297-4176",
         "city": "Clovis",
         "state": "CA"
     },
@@ -19628,7 +19628,7 @@ const STORES = {
         "name": "Mountain View Supercenter",
         "type": "Supercenter",
         "address": "600 SHOWERS DR, Mountain View, CA 94040-1434",
-        "phone": "",
+        "phone": "650-917-0796",
         "city": "Mountain View",
         "state": "CA"
     },
@@ -19646,7 +19646,7 @@ const STORES = {
         "name": "East Windsor Supercenter",
         "type": "Supercenter",
         "address": "44 PROSPECT HILL ROAD, East Windsor, CT 06088-9501",
-        "phone": "",
+        "phone": "860-292-1235",
         "city": "East Windsor",
         "state": "CT"
     },
@@ -19664,7 +19664,7 @@ const STORES = {
         "name": "Naugatuck Supercenter",
         "type": "Supercenter",
         "address": "1100 NEW HAVEN RD, Naugatuck, CT 06770-5016",
-        "phone": "",
+        "phone": "203-729-9100",
         "city": "Naugatuck",
         "state": "CT"
     },
@@ -19700,7 +19700,7 @@ const STORES = {
         "name": "Pomona Supercenter",
         "type": "Supercenter",
         "address": "80 RIO RANCHO RD, Pomona, CA 91766-4771",
-        "phone": "",
+        "phone": "909-620-4602",
         "city": "Pomona",
         "state": "CA"
     },
@@ -19718,7 +19718,7 @@ const STORES = {
         "name": "Chula Vista Supercenter",
         "type": "Supercenter",
         "address": "75 NORTH BROADWAY, Chula Vista, CA 91910-1417",
-        "phone": "",
+        "phone": "619-691-7945",
         "city": "Chula Vista",
         "state": "CA"
     },
@@ -19727,7 +19727,7 @@ const STORES = {
         "name": "Covina Supercenter",
         "type": "Supercenter",
         "address": "1275 N AZUSA AVE, Covina, CA 91722-1246",
-        "phone": "",
+        "phone": "626-339-4161",
         "city": "Covina",
         "state": "CA"
     },
@@ -19736,7 +19736,7 @@ const STORES = {
         "name": "Evergreen Supercenter",
         "type": "Supercenter",
         "address": "952 SWEDE GULCH RD, Evergreen, CO 80439-3713",
-        "phone": "",
+        "phone": "303-526-1649",
         "city": "Evergreen",
         "state": "CO"
     },
@@ -19763,7 +19763,7 @@ const STORES = {
         "name": "Stevenson Ranch Supercenter",
         "type": "Supercenter",
         "address": "25450 THE OLD RD, Stevenson Ranch, CA 91381-1704",
-        "phone": "",
+        "phone": "661-253-1911",
         "city": "Stevenson Ranch",
         "state": "CA"
     },
@@ -19772,7 +19772,7 @@ const STORES = {
         "name": "Cromwell Supercenter",
         "type": "Supercenter",
         "address": "161 BERLIN RD, Cromwell, CT 06416-1021",
-        "phone": "",
+        "phone": "860-635-0458",
         "city": "Cromwell",
         "state": "CT"
     },
@@ -20006,7 +20006,7 @@ const STORES = {
         "name": "Waterford Supercenter",
         "type": "Supercenter",
         "address": "155 WATERFORD PARKWAY NO., Waterford, CT 06385-1208",
-        "phone": "",
+        "phone": "860-447-3646",
         "city": "Waterford",
         "state": "CT"
     },
@@ -20024,7 +20024,7 @@ const STORES = {
         "name": "Apple Valley Supercenter",
         "type": "Supercenter",
         "address": "20251 HWY 18, Apple Valley, CA 92307-2953",
-        "phone": "",
+        "phone": "760-946-2030",
         "city": "Apple Valley",
         "state": "CA"
     },
@@ -20267,7 +20267,7 @@ const STORES = {
         "name": "Wallingford Supercenter",
         "type": "Supercenter",
         "address": "844 N COLONY RD, Wallingford, CT 06492-2410",
-        "phone": "",
+        "phone": "203-269-6622",
         "city": "Wallingford",
         "state": "CT"
     },
@@ -20303,7 +20303,7 @@ const STORES = {
         "name": "Brandon Supercenter",
         "type": "Supercenter",
         "address": "11110 CAUSEWAY BLVD, Brandon, FL 33511-2900",
-        "phone": "",
+        "phone": "813-661-4426",
         "city": "Brandon",
         "state": "FL"
     },
@@ -20321,7 +20321,7 @@ const STORES = {
         "name": "New Port Richey Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8745 LITTLE RD, New Port Richey, FL 34654-4947",
-        "phone": "",
+        "phone": "727-264-5342",
         "city": "New Port Richey",
         "state": "FL"
     },
@@ -20330,7 +20330,7 @@ const STORES = {
         "name": "Sarasota Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3560 BEE RIDGE RD, Sarasota, FL 34239-7233",
-        "phone": "",
+        "phone": "941-702-6237",
         "city": "Sarasota",
         "state": "FL"
     },
@@ -20366,7 +20366,7 @@ const STORES = {
         "name": "Boynton Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "12700 S MILITARY TRL, Boynton Beach, FL 33436-6139",
-        "phone": "",
+        "phone": "561-808-1090",
         "city": "Boynton Beach",
         "state": "FL"
     },
@@ -20411,7 +20411,7 @@ const STORES = {
         "name": "Duarte Supercenter",
         "type": "Supercenter",
         "address": "1600 MOUNTAIN AVE, Duarte, CA 91010-2757",
-        "phone": "",
+        "phone": "626-359-7708",
         "city": "Duarte",
         "state": "CA"
     },
@@ -20456,7 +20456,7 @@ const STORES = {
         "name": "Delray Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3155 S FEDERAL HWY, Delray Beach, FL 33483-3221",
-        "phone": "",
+        "phone": "561-450-1853",
         "city": "Delray Beach",
         "state": "FL"
     },
@@ -20501,7 +20501,7 @@ const STORES = {
         "name": "Placerville Supercenter",
         "type": "Supercenter",
         "address": "4300 MISSOURI FLAT RD, Placerville, CA 95667-6811",
-        "phone": "",
+        "phone": "530-621-2917",
         "city": "Placerville",
         "state": "CA"
     },
@@ -20510,7 +20510,7 @@ const STORES = {
         "name": "Rehoboth Beach Supercenter",
         "type": "Supercenter",
         "address": "18922 REHOBOTH MALL BLVD, Rehoboth Beach, DE 19971-6132",
-        "phone": "",
+        "phone": "302-644-8014",
         "city": "Rehoboth Beach",
         "state": "DE"
     },
@@ -20609,7 +20609,7 @@ const STORES = {
         "name": "Searcy Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1330 W BEEBE CAPPS EXPY, Searcy, AR 72143-0000",
-        "phone": "",
+        "phone": "501-203-2010",
         "city": "Searcy",
         "state": "AR"
     },
@@ -20825,7 +20825,7 @@ const STORES = {
         "name": "Rancho Cordova Supercenter",
         "type": "Supercenter",
         "address": "10655 FOLSOM BLVD, Rancho Cordova, CA 95670-4828",
-        "phone": "",
+        "phone": "916-361-0296",
         "city": "Rancho Cordova",
         "state": "CA"
     },
@@ -20834,7 +20834,7 @@ const STORES = {
         "name": "Salinas Supercenter",
         "type": "Supercenter",
         "address": "1800 N MAIN ST, Salinas, CA 93906-5183",
-        "phone": "",
+        "phone": "831-751-0231",
         "city": "Salinas",
         "state": "CA"
     },
@@ -20843,7 +20843,7 @@ const STORES = {
         "name": "Sarasota Supercenter",
         "type": "Supercenter",
         "address": "4381 CATTLEMEN RD, Sarasota, FL 34233-5070",
-        "phone": "",
+        "phone": "941-379-3550",
         "city": "Sarasota",
         "state": "FL"
     },
@@ -20852,7 +20852,7 @@ const STORES = {
         "name": "Seaford Supercenter",
         "type": "Supercenter",
         "address": "22899 SUSSEX HWY, Seaford, DE 19973-5851",
-        "phone": "",
+        "phone": "302-628-1668",
         "city": "Seaford",
         "state": "DE"
     },
@@ -20870,7 +20870,7 @@ const STORES = {
         "name": "Sacramento Supercenter",
         "type": "Supercenter",
         "address": "8270 DELTA SHORES CIR S, Sacramento, CA 95832-9101",
-        "phone": "",
+        "phone": "916-665-1011",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -20888,7 +20888,7 @@ const STORES = {
         "name": "Rohnert Park Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "901 GOLF COURSE DR, Rohnert Park, CA 94928-1800",
-        "phone": "",
+        "phone": "707-540-9303",
         "city": "Rohnert Park",
         "state": "CA"
     },
@@ -20969,7 +20969,7 @@ const STORES = {
         "name": "San Diego Supercenter",
         "type": "Supercenter",
         "address": "3412 COLLEGE AVE, San Diego, CA 92115-7134",
-        "phone": "",
+        "phone": "619-858-0071",
         "city": "San Diego",
         "state": "CA"
     },
@@ -20996,7 +20996,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "857 N DOBSON RD, Mesa, AZ 85201-7585",
-        "phone": "",
+        "phone": "480-962-0038",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -21014,7 +21014,7 @@ const STORES = {
         "name": "Clewiston Supercenter",
         "type": "Supercenter",
         "address": "1005 W SUGARLAND HWY, Clewiston, FL 33440-2706",
-        "phone": "",
+        "phone": "863-983-4844",
         "city": "Clewiston",
         "state": "FL"
     },
@@ -21032,7 +21032,7 @@ const STORES = {
         "name": "San Jose Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4080 STEVENS CREEK BLVD, San Jose, CA 95129-1334",
-        "phone": "",
+        "phone": "408-556-4505",
         "city": "San Jose",
         "state": "CA"
     },
@@ -21041,7 +21041,7 @@ const STORES = {
         "name": "Corona Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1560 W 6TH ST, Corona, CA 92882-2730",
-        "phone": "",
+        "phone": "951-393-6405",
         "city": "Corona",
         "state": "CA"
     },
@@ -21095,7 +21095,7 @@ const STORES = {
         "name": "Oceanside Supercenter",
         "type": "Supercenter",
         "address": "2100 VISTA WAY, Oceanside, CA 92054-5600",
-        "phone": "",
+        "phone": "760-966-0026",
         "city": "Oceanside",
         "state": "CA"
     },
@@ -21104,7 +21104,7 @@ const STORES = {
         "name": "Westminster Supercenter",
         "type": "Supercenter",
         "address": "13331 BEACH BLVD, Westminster, CA 92683-9207",
-        "phone": "",
+        "phone": "714-799-0020",
         "city": "Westminster",
         "state": "CA"
     },
@@ -21131,7 +21131,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8801 CONROY WINDERMERE RD, Orlando, FL 32835-3129",
-        "phone": "",
+        "phone": "407-605-4001",
         "city": "Orlando",
         "state": "FL"
     },
@@ -21194,7 +21194,7 @@ const STORES = {
         "name": "Santa Maria Supercenter",
         "type": "Supercenter",
         "address": "2220 S BRADLEY RD, Santa Maria, CA 93455-1348",
-        "phone": "",
+        "phone": "805-349-7885",
         "city": "Santa Maria",
         "state": "CA"
     },
@@ -21239,7 +21239,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "1825 W BELL RD, Phoenix, AZ 85023-3415",
-        "phone": "",
+        "phone": "602-942-4138",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -21266,7 +21266,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "3721 E THOMAS RD, Phoenix, AZ 85018-7507",
-        "phone": "",
+        "phone": "602-685-0555",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -21284,7 +21284,7 @@ const STORES = {
         "name": "Santa Ana Supercenter",
         "type": "Supercenter",
         "address": "3600 W MCFADDEN AVE, Santa Ana, CA 92704-1330",
-        "phone": "",
+        "phone": "714-775-1804",
         "city": "Santa Ana",
         "state": "CA"
     },
@@ -21329,7 +21329,7 @@ const STORES = {
         "name": "Brea Supercenter",
         "type": "Supercenter",
         "address": "2595 E IMPERIAL HWY, Brea, CA 92821-6129",
-        "phone": "",
+        "phone": "714-529-0596",
         "city": "Brea",
         "state": "CA"
     },
@@ -21338,7 +21338,7 @@ const STORES = {
         "name": "Porter Ranch Supercenter",
         "type": "Supercenter",
         "address": "19821 RINALDI ST, Porter Ranch, CA 91326-4145",
-        "phone": "",
+        "phone": "818-832-0643",
         "city": "Porter Ranch",
         "state": "CA"
     },
@@ -21347,7 +21347,7 @@ const STORES = {
         "name": "San Clemente Supercenter",
         "type": "Supercenter",
         "address": "951 AVENIDA PICO, San Clemente, CA 92673-3908",
-        "phone": "",
+        "phone": "949-498-6669",
         "city": "San Clemente",
         "state": "CA"
     },
@@ -21401,7 +21401,7 @@ const STORES = {
         "name": "Gulf Breeze Supercenter",
         "type": "Supercenter",
         "address": "3767 GULF BREEZE PKWY, Gulf Breeze, FL 32563-3528",
-        "phone": "",
+        "phone": "850-934-0362",
         "city": "Gulf Breeze",
         "state": "FL"
     },
@@ -21428,7 +21428,7 @@ const STORES = {
         "name": "Tulare Supercenter",
         "type": "Supercenter",
         "address": "1110 E PROSPERITY AVE, Tulare, CA 93274-8029",
-        "phone": "",
+        "phone": "559-684-1300",
         "city": "Tulare",
         "state": "CA"
     },
@@ -21437,7 +21437,7 @@ const STORES = {
         "name": "Redding Supercenter",
         "type": "Supercenter",
         "address": "1515 DANA DR, Redding, CA 96003-4014",
-        "phone": "",
+        "phone": "530-221-2800",
         "city": "Redding",
         "state": "CA"
     },
@@ -21518,7 +21518,7 @@ const STORES = {
         "name": "Orange Supercenter",
         "type": "Supercenter",
         "address": "2300 N TUSTIN ST, Orange, CA 92865-3706",
-        "phone": "",
+        "phone": "714-998-4473",
         "city": "Orange",
         "state": "CA"
     },
@@ -21572,7 +21572,7 @@ const STORES = {
         "name": "Windsor Supercenter",
         "type": "Supercenter",
         "address": "6650 HEMBREE LN, Windsor, CA 95492-9739",
-        "phone": "",
+        "phone": "707-836-7200",
         "city": "Windsor",
         "state": "CA"
     },
@@ -21581,7 +21581,7 @@ const STORES = {
         "name": "Avondale Supercenter",
         "type": "Supercenter",
         "address": "13055 W RANCHO SANTA FE BLVD, Avondale, AZ 85392-1700",
-        "phone": "",
+        "phone": "623-935-4010",
         "city": "Avondale",
         "state": "AZ"
     },
@@ -21590,7 +21590,7 @@ const STORES = {
         "name": "New Castle Supercenter",
         "type": "Supercenter",
         "address": "117 WILTON BLVD, New Castle, DE 19720-3979",
-        "phone": "",
+        "phone": "302-324-0900",
         "city": "New Castle",
         "state": "DE"
     },
@@ -21599,7 +21599,7 @@ const STORES = {
         "name": "Arroyo Grande Supercenter",
         "type": "Supercenter",
         "address": "1168 W BRANCH ST, Arroyo Grande, CA 93420-1906",
-        "phone": "",
+        "phone": "805-474-0800",
         "city": "Arroyo Grande",
         "state": "CA"
     },
@@ -21608,7 +21608,7 @@ const STORES = {
         "name": "Bakersfield Supercenter",
         "type": "Supercenter",
         "address": "8400 ROSEDALE HWY, Bakersfield, CA 93312-2151",
-        "phone": "",
+        "phone": "661-588-2097",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -21707,7 +21707,7 @@ const STORES = {
         "name": "Panorama City Supercenter",
         "type": "Supercenter",
         "address": "8333 VAN NUYS BLVD, Panorama City, CA 91402-3607",
-        "phone": "",
+        "phone": "818-830-0350",
         "city": "Panorama City",
         "state": "CA"
     },
@@ -21743,7 +21743,7 @@ const STORES = {
         "name": "Conway Supercenter",
         "type": "Supercenter",
         "address": "3900 DAVE WARD DR, Conway, AR 72034-5583",
-        "phone": "",
+        "phone": "501-328-9570",
         "city": "Conway",
         "state": "AR"
     },
@@ -21824,7 +21824,7 @@ const STORES = {
         "name": "Stratford Supercenter",
         "type": "Supercenter",
         "address": "150 BARNUM AVENUE CUTOFF, Stratford, CT 06614-5111",
-        "phone": "",
+        "phone": "203-502-7631",
         "city": "Stratford",
         "state": "CT"
     },
@@ -21842,7 +21842,7 @@ const STORES = {
         "name": "Cabot Supercenter",
         "type": "Supercenter",
         "address": "304 S ROCKWOOD DR, Cabot, AR 72023-2881",
-        "phone": "",
+        "phone": "501-941-5200",
         "city": "Cabot",
         "state": "AR"
     },
@@ -21869,7 +21869,7 @@ const STORES = {
         "name": "Pembroke Pines Supercenter",
         "type": "Supercenter",
         "address": "151 SW 184TH AVE, Pembroke Pines, FL 33029-5465",
-        "phone": "",
+        "phone": "954-442-5822",
         "city": "Pembroke Pines",
         "state": "FL"
     },
@@ -21932,7 +21932,7 @@ const STORES = {
         "name": "Sacramento Supercenter",
         "type": "Supercenter",
         "address": "3661 TRUXEL RD, Sacramento, CA 95834-3604",
-        "phone": "",
+        "phone": "916-928-9668",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -22004,7 +22004,7 @@ const STORES = {
         "name": "Lakewood Supercenter",
         "type": "Supercenter",
         "address": "2770 CARSON ST, Lakewood, CA 90712-4004",
-        "phone": "",
+        "phone": "562-429-6239",
         "city": "Lakewood",
         "state": "CA"
     },
@@ -22112,7 +22112,7 @@ const STORES = {
         "name": "Simi Valley Supercenter",
         "type": "Supercenter",
         "address": "255 COCHRAN ST, Simi Valley, CA 93065-6276",
-        "phone": "",
+        "phone": "805-581-1666",
         "city": "Simi Valley",
         "state": "CA"
     },
@@ -22130,7 +22130,7 @@ const STORES = {
         "name": "Live Oak Supercenter",
         "type": "Supercenter",
         "address": "6868 US HIGHWAY 129, Live Oak, FL 32060-8476",
-        "phone": "",
+        "phone": "386-330-2488",
         "city": "Live Oak",
         "state": "FL"
     },
@@ -22184,7 +22184,7 @@ const STORES = {
         "name": "Phoenix Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "115 E DUNLAP AVE, Phoenix, AZ 85020-2841",
-        "phone": "",
+        "phone": "480-754-8043",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -22211,7 +22211,7 @@ const STORES = {
         "name": "Huntington Beach Supercenter",
         "type": "Supercenter",
         "address": "8230 TALBERT AVE, Huntington Beach, CA 92646-1545",
-        "phone": "",
+        "phone": "714-841-5390",
         "city": "Huntington Beach",
         "state": "CA"
     },
@@ -22319,7 +22319,7 @@ const STORES = {
         "name": "San Leandro Supercenter",
         "type": "Supercenter",
         "address": "1919 DAVIS ST, San Leandro, CA 94577-1208",
-        "phone": "",
+        "phone": "510-569-0200",
         "city": "San Leandro",
         "state": "CA"
     },
@@ -22481,7 +22481,7 @@ const STORES = {
         "name": "Chandler Supercenter",
         "type": "Supercenter",
         "address": "1175 S ARIZONA AVE, Chandler, AZ 85286-6504",
-        "phone": "",
+        "phone": "480-726-0841",
         "city": "Chandler",
         "state": "AZ"
     },
@@ -22490,7 +22490,7 @@ const STORES = {
         "name": "Lamar Supercenter",
         "type": "Supercenter",
         "address": "1432 E OLIVE ST, Lamar, CO 81052-2958",
-        "phone": "",
+        "phone": "719-336-0530",
         "city": "Lamar",
         "state": "CO"
     },
@@ -22562,7 +22562,7 @@ const STORES = {
         "name": "Bentonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1703 E CENTRAL AVE, Bentonville, AR 72712-5523",
-        "phone": "",
+        "phone": "479-418-0227",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -22589,7 +22589,7 @@ const STORES = {
         "name": "Fresno Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3131 N CEDAR AVE, Fresno, CA 93703-0000",
-        "phone": "",
+        "phone": "559-538-1375",
         "city": "Fresno",
         "state": "CA"
     },
@@ -22643,7 +22643,7 @@ const STORES = {
         "name": "Clermont Supercenter",
         "type": "Supercenter",
         "address": "1450 JOHNS LAKE RD, Clermont, FL 34711-6798",
-        "phone": "",
+        "phone": "352-243-6151",
         "city": "Clermont",
         "state": "FL"
     },
@@ -22661,7 +22661,7 @@ const STORES = {
         "name": "Antioch Supercenter",
         "type": "Supercenter",
         "address": "4893 LONE TREE WAY, Antioch, CA 94531-8553",
-        "phone": "",
+        "phone": "925-755-0900",
         "city": "Antioch",
         "state": "CA"
     },
@@ -22733,7 +22733,7 @@ const STORES = {
         "name": "Temecula Supercenter",
         "type": "Supercenter",
         "address": "32225 TEMECULA PKWY, Temecula, CA 92592-6811",
-        "phone": "",
+        "phone": "951-506-7613",
         "city": "Temecula",
         "state": "CA"
     },
@@ -22823,7 +22823,7 @@ const STORES = {
         "name": "Bristol Supercenter",
         "type": "Supercenter",
         "address": "1400 FARMINGTON AVE, Bristol, CT 06010-4701",
-        "phone": "",
+        "phone": "860-585-1700",
         "city": "Bristol",
         "state": "CT"
     },
@@ -22895,7 +22895,7 @@ const STORES = {
         "name": "Florida City Supercenter",
         "type": "Supercenter",
         "address": "33501 S DIXIE HWY, Florida City, FL 33034-5628",
-        "phone": "",
+        "phone": "305-242-4447",
         "city": "Florida City",
         "state": "FL"
     },
@@ -22913,7 +22913,7 @@ const STORES = {
         "name": "Fort Collins Supercenter",
         "type": "Supercenter",
         "address": "1250 E MAGNOLIA ST, Fort Collins, CO 80524-2754",
-        "phone": "",
+        "phone": "970-493-3048",
         "city": "Fort Collins",
         "state": "CO"
     },
@@ -22967,7 +22967,7 @@ const STORES = {
         "name": "Sacramento Supercenter",
         "type": "Supercenter",
         "address": "6051 FLORIN RD, Sacramento, CA 95823-2304",
-        "phone": "",
+        "phone": "916-427-9719",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -22994,7 +22994,7 @@ const STORES = {
         "name": "Bentonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3510 SE 14TH ST, Bentonville, AR 72712-4931",
-        "phone": "",
+        "phone": "479-621-6450",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -23003,7 +23003,7 @@ const STORES = {
         "name": "Springdale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1375 MARKET SQUARE DR, Springdale, AR 72762-4984",
-        "phone": "",
+        "phone": "479-750-7853",
         "city": "Springdale",
         "state": "AR"
     },
@@ -23012,7 +23012,7 @@ const STORES = {
         "name": "Sherwood Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8801 HIGHWAY 107, Sherwood, AR 72120-2929",
-        "phone": "",
+        "phone": "501-833-3127",
         "city": "Sherwood",
         "state": "AR"
     },
@@ -23021,7 +23021,7 @@ const STORES = {
         "name": "Fort Smith Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4900 ROGERS AVE STE 101J, Fort Smith, AR 72903-2068",
-        "phone": "",
+        "phone": "479-484-9122",
         "city": "Fort Smith",
         "state": "AR"
     },
@@ -23030,7 +23030,7 @@ const STORES = {
         "name": "Fayetteville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2690 E CITIZENS DR, Fayetteville, AR 72703-4339",
-        "phone": "",
+        "phone": "479-571-6670",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -23066,7 +23066,7 @@ const STORES = {
         "name": "Englewood Supercenter",
         "type": "Supercenter",
         "address": "601 ENGLEWOOD PKWY, Englewood, CO 80110-2374",
-        "phone": "",
+        "phone": "303-789-7201",
         "city": "Englewood",
         "state": "CO"
     },
@@ -23075,7 +23075,7 @@ const STORES = {
         "name": "Commerce City Supercenter",
         "type": "Supercenter",
         "address": "5990 DAHLIA ST, Commerce City, CO 80022-3708",
-        "phone": "",
+        "phone": "303-287-0600",
         "city": "Commerce City",
         "state": "CO"
     },
@@ -23192,7 +23192,7 @@ const STORES = {
         "name": "Scottsdale Supercenter",
         "type": "Supercenter",
         "address": "15355 N NORTHSIGHT BLVD, Scottsdale, AZ 85260-2603",
-        "phone": "",
+        "phone": "480-348-5505",
         "city": "Scottsdale",
         "state": "AZ"
     },
@@ -23201,7 +23201,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "4505 E MCKELLIPS RD, Mesa, AZ 85215-2523",
-        "phone": "",
+        "phone": "480-641-6728",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -23210,7 +23210,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "1955 S STAPLEY DR, Mesa, AZ 85204-6615",
-        "phone": "",
+        "phone": "480-892-9009",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -23264,7 +23264,7 @@ const STORES = {
         "name": "Surprise Supercenter",
         "type": "Supercenter",
         "address": "13770 W BELL RD, Surprise, AZ 85374-3865",
-        "phone": "",
+        "phone": "623-544-2200",
         "city": "Surprise",
         "state": "AZ"
     },
@@ -23273,7 +23273,7 @@ const STORES = {
         "name": "Coolidge Supercenter",
         "type": "Supercenter",
         "address": "1695 N ARIZONA BLVD, Coolidge, AZ 85128-9144",
-        "phone": "",
+        "phone": "520-723-0945",
         "city": "Coolidge",
         "state": "AZ"
     },
@@ -23363,7 +23363,7 @@ const STORES = {
         "name": "Boynton Beach Supercenter",
         "type": "Supercenter",
         "address": "3200 OLD BOYNTON RD, Boynton Beach, FL 33436-6506",
-        "phone": "",
+        "phone": "561-742-0718",
         "city": "Boynton Beach",
         "state": "FL"
     },
@@ -23381,7 +23381,7 @@ const STORES = {
         "name": "Georgetown Supercenter",
         "type": "Supercenter",
         "address": "4 COLLEGE PARK LN, Georgetown, DE 19947-2178",
-        "phone": "",
+        "phone": "302-854-9454",
         "city": "Georgetown",
         "state": "DE"
     },
@@ -23426,7 +23426,7 @@ const STORES = {
         "name": "Oldsmar Supercenter",
         "type": "Supercenter",
         "address": "3801 TAMPA RD, Oldsmar, FL 34677-3008",
-        "phone": "",
+        "phone": "813-854-3261",
         "city": "Oldsmar",
         "state": "FL"
     },
@@ -23561,7 +23561,7 @@ const STORES = {
         "name": "Hialeah Supercenter",
         "type": "Supercenter",
         "address": "9300 NW 77TH AVE, Hialeah, FL 33016-2504",
-        "phone": "",
+        "phone": "305-819-0672",
         "city": "Hialeah",
         "state": "FL"
     },
@@ -23660,7 +23660,7 @@ const STORES = {
         "name": "Coachella Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "83053 AVENUE 48, Coachella, CA 92236-0000",
-        "phone": "",
+        "phone": "760-262-8050",
         "city": "Coachella",
         "state": "CA"
     },
@@ -23786,7 +23786,7 @@ const STORES = {
         "name": "Corona Supercenter",
         "type": "Supercenter",
         "address": "1290 E ONTARIO AVE, Corona, CA 92881-3618",
-        "phone": "",
+        "phone": "951-278-0924",
         "city": "Corona",
         "state": "CA"
     },
@@ -23876,7 +23876,7 @@ const STORES = {
         "name": "Lisbon Supercenter",
         "type": "Supercenter",
         "address": "180 RIVER RD, Lisbon, CT 06351-3249",
-        "phone": "",
+        "phone": "860-376-3254",
         "city": "Lisbon",
         "state": "CT"
     },
@@ -24092,7 +24092,7 @@ const STORES = {
         "name": "Kissimmee Supercenter",
         "type": "Supercenter",
         "address": "1471 E OSCEOLA PKWY, Kissimmee, FL 34744-1604",
-        "phone": "",
+        "phone": "407-870-2277",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -24137,7 +24137,7 @@ const STORES = {
         "name": "Pico Rivera Supercenter",
         "type": "Supercenter",
         "address": "8500 WASHINGTON BLVD, Pico Rivera, CA 90660-3788",
-        "phone": "",
+        "phone": "562-801-2413",
         "city": "Pico Rivera",
         "state": "CA"
     },
@@ -24191,7 +24191,7 @@ const STORES = {
         "name": "Parker Supercenter",
         "type": "Supercenter",
         "address": "11101 S PARKER RD, Parker, CO 80134-4773",
-        "phone": "",
+        "phone": "303-805-0029",
         "city": "Parker",
         "state": "CO"
     },
@@ -24218,7 +24218,7 @@ const STORES = {
         "name": "Southington Supercenter",
         "type": "Supercenter",
         "address": "235 QUEEN ST, Southington, CT 06489-1915",
-        "phone": "",
+        "phone": "860-621-9540",
         "city": "Southington",
         "state": "CT"
     },
@@ -24227,7 +24227,7 @@ const STORES = {
         "name": "Old Saybrook Supercenter",
         "type": "Supercenter",
         "address": "665 BOSTON POST RD, Old Saybrook, CT 06475-1524",
-        "phone": "",
+        "phone": "860-388-0584",
         "city": "Old Saybrook",
         "state": "CT"
     },
@@ -24236,7 +24236,7 @@ const STORES = {
         "name": "Avon Supercenter",
         "type": "Supercenter",
         "address": "255 W MAIN ST, Avon, CT 06001-4352",
-        "phone": "",
+        "phone": "860-409-0404",
         "city": "Avon",
         "state": "CT"
     },
@@ -24245,7 +24245,7 @@ const STORES = {
         "name": "Rocky Hill Supercenter",
         "type": "Supercenter",
         "address": "80 TOWN LINE RD, Rocky Hill, CT 06067-1249",
-        "phone": "",
+        "phone": "860-563-4355",
         "city": "Rocky Hill",
         "state": "CT"
     },
@@ -24308,7 +24308,7 @@ const STORES = {
         "name": "Miami Gardens Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3791 NW 167TH ST, Miami Gardens, FL 33055-4510",
-        "phone": "",
+        "phone": "305-914-1867",
         "city": "Miami Gardens",
         "state": "FL"
     },
@@ -24425,7 +24425,7 @@ const STORES = {
         "name": "Orange Park Supercenter",
         "type": "Supercenter",
         "address": "1505 COUNTY ROAD 220, Orange Park, FL 32003-7926",
-        "phone": "",
+        "phone": "904-278-1836",
         "city": "Orange Park",
         "state": "FL"
     },
@@ -24443,7 +24443,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "7635 N LA CHOLLA B, Tucson, AZ 85741-4202",
-        "phone": "",
+        "phone": "520-297-0840",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -24470,7 +24470,7 @@ const STORES = {
         "name": "Napa Supercenter",
         "type": "Supercenter",
         "address": "681 LINCOLN AVE, Napa, CA 94558-3612",
-        "phone": "",
+        "phone": "707-224-8797",
         "city": "Napa",
         "state": "CA"
     },
@@ -24614,7 +24614,7 @@ const STORES = {
         "name": "Deland Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "955 S WOODLAND BLVD, Deland, FL 32720-7321",
-        "phone": "",
+        "phone": "386-624-0678",
         "city": "Deland",
         "state": "FL"
     },
@@ -24632,7 +24632,7 @@ const STORES = {
         "name": "Fort Lauderdale Supercenter",
         "type": "Supercenter",
         "address": "2500 W BROWARD BLVD, Fort Lauderdale, FL 33312-1300",
-        "phone": "",
+        "phone": "954-453-6538",
         "city": "Fort Lauderdale",
         "state": "FL"
     },
@@ -24650,7 +24650,7 @@ const STORES = {
         "name": "Santa Fe Springs Supercenter",
         "type": "Supercenter",
         "address": "13310 TELEGRAPH RD, Santa Fe Springs, CA 90670-4016",
-        "phone": "",
+        "phone": "562-946-6343",
         "city": "Santa Fe Springs",
         "state": "CA"
     },
@@ -24659,7 +24659,7 @@ const STORES = {
         "name": "Palmdale Supercenter",
         "type": "Supercenter",
         "address": "37140 47TH ST E, Palmdale, CA 93552-4450",
-        "phone": "",
+        "phone": "661-533-0248",
         "city": "Palmdale",
         "state": "CA"
     },
@@ -24668,7 +24668,7 @@ const STORES = {
         "name": "Lancaster Supercenter",
         "type": "Supercenter",
         "address": "1731 E AVENUE J, Lancaster, CA 93535-6928",
-        "phone": "",
+        "phone": "661-945-7848",
         "city": "Lancaster",
         "state": "CA"
     },
@@ -24677,7 +24677,7 @@ const STORES = {
         "name": "Murrieta Supercenter",
         "type": "Supercenter",
         "address": "41200 MURRIETA HOT SPRINGS RD, Murrieta, CA 92562-9479",
-        "phone": "",
+        "phone": "951-696-7135",
         "city": "Murrieta",
         "state": "CA"
     },
@@ -24695,7 +24695,7 @@ const STORES = {
         "name": "Norwalk Supercenter",
         "type": "Supercenter",
         "address": "650 MAIN AVE, Norwalk, CT 06851-1126",
-        "phone": "",
+        "phone": "203-846-4514",
         "city": "Norwalk",
         "state": "CT"
     },
@@ -24749,7 +24749,7 @@ const STORES = {
         "name": "Pompano Beach Supercenter",
         "type": "Supercenter",
         "address": "2300 W ATLANTIC BLVD, Pompano Beach, FL 33069-2655",
-        "phone": "",
+        "phone": "954-971-7170",
         "city": "Pompano Beach",
         "state": "FL"
     },
@@ -24758,7 +24758,7 @@ const STORES = {
         "name": "Coral Springs Supercenter",
         "type": "Supercenter",
         "address": "6001 CORAL RIDGE DR, Coral Springs, FL 33076-3306",
-        "phone": "",
+        "phone": "954-757-0331",
         "city": "Coral Springs",
         "state": "FL"
     },
@@ -24776,7 +24776,7 @@ const STORES = {
         "name": "Newington Supercenter",
         "type": "Supercenter",
         "address": "3164 BERLIN TPKE, Newington, CT 06111-4627",
-        "phone": "",
+        "phone": "860-667-7657",
         "city": "Newington",
         "state": "CT"
     },
@@ -24902,7 +24902,7 @@ const STORES = {
         "name": "Fresno Supercenter",
         "type": "Supercenter",
         "address": "7065 N INGRAM AVE, Fresno, CA 93650-1083",
-        "phone": "",
+        "phone": "559-431-0107",
         "city": "Fresno",
         "state": "CA"
     },
@@ -24920,7 +24920,7 @@ const STORES = {
         "name": "Davie Supercenter",
         "type": "Supercenter",
         "address": "4301 S UNIVERSITY DR, Davie, FL 33328-3002",
-        "phone": "",
+        "phone": "954-331-3612",
         "city": "Davie",
         "state": "FL"
     },
@@ -24938,7 +24938,7 @@ const STORES = {
         "name": "Fremont Supercenter",
         "type": "Supercenter",
         "address": "44009 OSGOOD RD, Fremont, CA 94539-6403",
-        "phone": "",
+        "phone": "510-651-3301",
         "city": "Fremont",
         "state": "CA"
     },
@@ -25010,7 +25010,7 @@ const STORES = {
         "name": "Fayetteville Supercenter",
         "type": "Supercenter",
         "address": "616 N GARLAND AVE STE 363, Fayetteville, AR 72701-3116",
-        "phone": "",
+        "phone": "479-443-1588",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -25019,7 +25019,7 @@ const STORES = {
         "name": "Loma Linda Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "25755 BARTON RD, Loma Linda, CA 92354-0001",
-        "phone": "",
+        "phone": "909-283-7239",
         "city": "Loma Linda",
         "state": "CA"
     },
@@ -25037,7 +25037,7 @@ const STORES = {
         "name": "Boynton Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9840 S MILITARY TRL STE G-1, Boynton Beach, FL 33436-3201",
-        "phone": "",
+        "phone": "561-509-2138",
         "city": "Boynton Beach",
         "state": "FL"
     },
@@ -25046,7 +25046,7 @@ const STORES = {
         "name": "Pinellas Park Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7500 66TH ST, Pinellas Park, FL 33781-0000",
-        "phone": "",
+        "phone": "727-202-3101",
         "city": "Pinellas Park",
         "state": "FL"
     },
@@ -25082,7 +25082,7 @@ const STORES = {
         "name": "Fountain Supercenter",
         "type": "Supercenter",
         "address": "4425 VENETUCCI BLVD, Fountain, CO 80906-4013",
-        "phone": "",
+        "phone": "719-313-4378",
         "city": "Fountain",
         "state": "CO"
     },
@@ -25091,7 +25091,7 @@ const STORES = {
         "name": "Thornton Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "850 E 88TH AVE, Thornton, CO 80229-4999",
-        "phone": "",
+        "phone": "303-287-4404",
         "city": "Thornton",
         "state": "CO"
     },
@@ -25100,7 +25100,7 @@ const STORES = {
         "name": "Stockton Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1189 E MARCH LN, Stockton, CA 95210-3545",
-        "phone": "",
+        "phone": "209-235-2047",
         "city": "Stockton",
         "state": "CA"
     },
@@ -25109,7 +25109,7 @@ const STORES = {
         "name": "San Jose Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4055 EVERGREEN VILLAGE SQ STE 140, San Jose, CA 95135-1764",
-        "phone": "",
+        "phone": "408-826-0338",
         "city": "San Jose",
         "state": "CA"
     },
@@ -25118,7 +25118,7 @@ const STORES = {
         "name": "Palm Desert Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "72314 HIGHWAY 111, Palm Desert, CA 92260-2747",
-        "phone": "",
+        "phone": "760-469-3428",
         "city": "Palm Desert",
         "state": "CA"
     },
@@ -25127,7 +25127,7 @@ const STORES = {
         "name": "Washington Supercenter",
         "type": "Supercenter",
         "address": "310 RIGGS RD NE, Washington, DC 20011-2534",
-        "phone": "",
+        "phone": "202-756-4418",
         "city": "Washington",
         "state": "DC"
     },
@@ -25163,7 +25163,7 @@ const STORES = {
         "name": "Modesto Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1421 COFFEE RD, Modesto, CA 95355-3170",
-        "phone": "",
+        "phone": "209-222-5632",
         "city": "Modesto",
         "state": "CA"
     },
@@ -25172,7 +25172,7 @@ const STORES = {
         "name": "Turlock Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2480 GEER ROAD, Turlock, CA 95382-1426",
-        "phone": "",
+        "phone": "209-226-7000",
         "city": "Turlock",
         "state": "CA"
     },
@@ -25181,7 +25181,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2550 S KOLB RD, Tucson, AZ 85710-8427",
-        "phone": "",
+        "phone": "520-329-6471",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -25280,7 +25280,7 @@ const STORES = {
         "name": "Sarasota Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3500 N TAMIAMI TRAIL, Sarasota, FL 34234-5358",
-        "phone": "",
+        "phone": "941-444-8410",
         "city": "Sarasota",
         "state": "FL"
     },
@@ -25334,7 +25334,7 @@ const STORES = {
         "name": "Panama City Supercenter",
         "type": "Supercenter",
         "address": "513 W 23RD ST, Panama City, FL 32405-3920",
-        "phone": "",
+        "phone": "850-691-0716",
         "city": "Panama City",
         "state": "FL"
     },
@@ -25361,7 +25361,7 @@ const STORES = {
         "name": "Sacramento Supercenter",
         "type": "Supercenter",
         "address": "8915 GERBER ROAD, Sacramento, CA 95829-0000",
-        "phone": "",
+        "phone": "916-897-5020",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -25370,7 +25370,7 @@ const STORES = {
         "name": "Colorado Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1622 S ACADEMY BLVD, Colorado Springs, CO 80916-0000",
-        "phone": "",
+        "phone": "719-244-9294",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -25379,7 +25379,7 @@ const STORES = {
         "name": "Colorado Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "665 N MURRAY BLVD, Colorado Springs, CO 80915-3405",
-        "phone": "",
+        "phone": "719-596-1294",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -25388,7 +25388,7 @@ const STORES = {
         "name": "Escondido Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1266 E VALLEY PKWY, Escondido, CA 92027-2310",
-        "phone": "",
+        "phone": "760-871-6760",
         "city": "Escondido",
         "state": "CA"
     },
@@ -25397,7 +25397,7 @@ const STORES = {
         "name": "Oxnard Supercenter",
         "type": "Supercenter",
         "address": "2701 SAVIERS RD, Oxnard, CA 93033-4517",
-        "phone": "",
+        "phone": "805-200-5224",
         "city": "Oxnard",
         "state": "CA"
     },
@@ -25415,7 +25415,7 @@ const STORES = {
         "name": "Rocklin Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5609 PACIFIC ST, Rocklin, CA 95677-3174",
-        "phone": "",
+        "phone": "916-824-0104",
         "city": "Rocklin",
         "state": "CA"
     },
@@ -25451,7 +25451,7 @@ const STORES = {
         "name": "La Palma Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5420 LA PALMA AVE, La Palma, CA 90623-1705",
-        "phone": "",
+        "phone": "714-822-3152",
         "city": "La Palma",
         "state": "CA"
     },
@@ -25460,7 +25460,7 @@ const STORES = {
         "name": "Anaheim Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "121 N BEACH BLVD, Anaheim, CA 92801-0000",
-        "phone": "",
+        "phone": "714-822-3179",
         "city": "Anaheim",
         "state": "CA"
     },
@@ -25487,7 +25487,7 @@ const STORES = {
         "name": "Deerfield Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1101 S MILITARY TRL, Deerfield Beach, FL 33442-7645",
-        "phone": "",
+        "phone": "954-281-1426",
         "city": "Deerfield Beach",
         "state": "FL"
     },
@@ -25559,7 +25559,7 @@ const STORES = {
         "name": "Panama City Beach Supercenter",
         "type": "Supercenter",
         "address": "15495 PANAMA CITY BEACH PKWY, Panama City Beach, FL 32413-0000",
-        "phone": "",
+        "phone": "850-708-6968",
         "city": "Panama City Beach",
         "state": "FL"
     },
@@ -25568,7 +25568,7 @@ const STORES = {
         "name": "Santa Clara Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3255 MISSION COLLEGE BLVD, Santa Clara, CA 95054-1829",
-        "phone": "",
+        "phone": "408-961-3599",
         "city": "Santa Clara",
         "state": "CA"
     },
@@ -25577,7 +25577,7 @@ const STORES = {
         "name": "Centennial Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "16746 E SMOKY HILL RD, Centennial, CO 80015-2472",
-        "phone": "",
+        "phone": "303-305-1110",
         "city": "Centennial",
         "state": "CO"
     },
@@ -25586,7 +25586,7 @@ const STORES = {
         "name": "Denver Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5141 CHAMBERS RD, Denver, CO 80239-4231",
-        "phone": "",
+        "phone": "303-218-6237",
         "city": "Denver",
         "state": "CO"
     },
@@ -25595,7 +25595,7 @@ const STORES = {
         "name": "Denver Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1442 S PARKER RD, Denver, CO 80231-2707",
-        "phone": "",
+        "phone": "303-481-0182",
         "city": "Denver",
         "state": "CO"
     },
@@ -25604,7 +25604,7 @@ const STORES = {
         "name": "Rialto Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "300 W BASE LINE RD, Rialto, CA 92376-3347",
-        "phone": "",
+        "phone": "909-546-3019",
         "city": "Rialto",
         "state": "CA"
     },
@@ -25613,7 +25613,7 @@ const STORES = {
         "name": "Pomona Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "778 E ARROW HWY, Pomona, CA 91767-2270",
-        "phone": "",
+        "phone": "909-962-5011",
         "city": "Pomona",
         "state": "CA"
     },
@@ -25622,7 +25622,7 @@ const STORES = {
         "name": "La Puente Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1425 N HACIENDA BLVD, La Puente, CA 91744-1133",
-        "phone": "",
+        "phone": "626-251-1877",
         "city": "La Puente",
         "state": "CA"
     },
@@ -25658,7 +25658,7 @@ const STORES = {
         "name": "Bakersfield Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5625 CALLOWAY DR, Bakersfield, CA 93312-9726",
-        "phone": "",
+        "phone": "661-368-7065",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -25667,7 +25667,7 @@ const STORES = {
         "name": "Bakersfield Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1249 ALLEN RD, Bakersfield, CA 93314-9748",
-        "phone": "",
+        "phone": "661-535-6373",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -25676,7 +25676,7 @@ const STORES = {
         "name": "Bakersfield Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3111 NORTH CHESTER, Bakersfield, CA 93308-0000",
-        "phone": "",
+        "phone": "661-368-7010",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -25685,7 +25685,7 @@ const STORES = {
         "name": "Bakersfield Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5037 E BRUNDAGE LN, Bakersfield, CA 93307-2907",
-        "phone": "",
+        "phone": "661-448-8147",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -25694,7 +25694,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8640 E BROADWAY BLVD, Tucson, AZ 85710-4014",
-        "phone": "",
+        "phone": "520-329-6870",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -25730,7 +25730,7 @@ const STORES = {
         "name": "Simi Valley Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2204 TAPO ST, Simi Valley, CA 93063-3022",
-        "phone": "",
+        "phone": "805-426-6802",
         "city": "Simi Valley",
         "state": "CA"
     },
@@ -25820,7 +25820,7 @@ const STORES = {
         "name": "Pasadena Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6850 GULFPORT BLVD S, Pasadena, FL 33707-2108",
-        "phone": "",
+        "phone": "727-202-3106",
         "city": "Pasadena",
         "state": "FL"
     },
@@ -25829,7 +25829,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2715 S ORANGE AVE, Orlando, FL 32806-5403",
-        "phone": "",
+        "phone": "407-241-4080",
         "city": "Orlando",
         "state": "FL"
     },
@@ -25838,7 +25838,7 @@ const STORES = {
         "name": "Hollywood Supercenter",
         "type": "Supercenter",
         "address": "301 S STATE ROAD 7, Hollywood, FL 33023-0000",
-        "phone": "",
+        "phone": "754-260-6713",
         "city": "Hollywood",
         "state": "FL"
     },
@@ -25847,7 +25847,7 @@ const STORES = {
         "name": "Bentonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "205 NORTH MAIN STREET, Bentonville, AR 72712-8641",
-        "phone": "",
+        "phone": "479-268-9244",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -25865,7 +25865,7 @@ const STORES = {
         "name": "Conway Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2550 PRINCE ST, Conway, AR 72034-3756",
-        "phone": "",
+        "phone": "501-205-7262",
         "city": "Conway",
         "state": "AR"
     },
@@ -25910,7 +25910,7 @@ const STORES = {
         "name": "Colorado Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4142 AUSTIN BLUFFS PKWY, Colorado Springs, CO 80918-2928",
-        "phone": "",
+        "phone": "719-244-9776",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -25919,7 +25919,7 @@ const STORES = {
         "name": "Colorado Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1725 N UNION BLVD, Colorado Springs, CO 80909-0000",
-        "phone": "",
+        "phone": "719-424-3385",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -25928,7 +25928,7 @@ const STORES = {
         "name": "Fort Collins Supercenter",
         "type": "Supercenter",
         "address": "4625 S MASON ST, Fort Collins, CO 80525-3740",
-        "phone": "",
+        "phone": "970-372-3477",
         "city": "Fort Collins",
         "state": "CO"
     },
@@ -25946,7 +25946,7 @@ const STORES = {
         "name": "Thousand Oaks Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "512 N VENTU PARK Rd, Thousand Oaks, CA 91320-2709",
-        "phone": "",
+        "phone": "805-262-3406",
         "city": "Thousand Oaks",
         "state": "CA"
     },
@@ -25955,7 +25955,7 @@ const STORES = {
         "name": "South Gate Supercenter",
         "type": "Supercenter",
         "address": "4651 FIRESTONE BLVD, South Gate, CA 90280-0000",
-        "phone": "",
+        "phone": "323-282-4800",
         "city": "South Gate",
         "state": "CA"
     },
@@ -25973,7 +25973,7 @@ const STORES = {
         "name": "Homestead Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1499 SOUTH DIXIE HWY, Homestead, FL 33033-0000",
-        "phone": "",
+        "phone": "305-910-2529",
         "city": "Homestead",
         "state": "FL"
     },
@@ -26099,7 +26099,7 @@ const STORES = {
         "name": "Sanford Supercenter",
         "type": "Supercenter",
         "address": "1601 RINEHART RD, Sanford, FL 32771-7392",
-        "phone": "",
+        "phone": "407-321-1540",
         "city": "Sanford",
         "state": "FL"
     },
@@ -26270,7 +26270,7 @@ const STORES = {
         "name": "Monument Supercenter",
         "type": "Supercenter",
         "address": "16218 JACKSON CREEK PKWY, Monument, CO 80132-7181",
-        "phone": "",
+        "phone": "719-484-0912",
         "city": "Monument",
         "state": "CO"
     },
@@ -26297,7 +26297,7 @@ const STORES = {
         "name": "Bryant Supercenter",
         "type": "Supercenter",
         "address": "400 BRYANT AVE, Bryant, AR 72022-3813",
-        "phone": "",
+        "phone": "501-847-2857",
         "city": "Bryant",
         "state": "AR"
     },
@@ -26306,7 +26306,7 @@ const STORES = {
         "name": "Greenwood Supercenter",
         "type": "Supercenter",
         "address": "551 LIBERTY DR, Greenwood, AR 72936-6001",
-        "phone": "",
+        "phone": "479-996-8500",
         "city": "Greenwood",
         "state": "AR"
     },
@@ -26342,7 +26342,7 @@ const STORES = {
         "name": "North Miami Beach Supercenter",
         "type": "Supercenter",
         "address": "1425 NE 163RD ST, North Miami Beach, FL 33162-4624",
-        "phone": "",
+        "phone": "305-949-5881",
         "city": "North Miami Beach",
         "state": "FL"
     },
@@ -26387,7 +26387,7 @@ const STORES = {
         "name": "Glendale Supercenter",
         "type": "Supercenter",
         "address": "18551 N 83RD AVE, Glendale, AZ 85308-0501",
-        "phone": "",
+        "phone": "623-825-1129",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -26423,7 +26423,7 @@ const STORES = {
         "name": "La Habra Supercenter",
         "type": "Supercenter",
         "address": "1340 S BEACH BLVD, La Habra, CA 90631-6374",
-        "phone": "",
+        "phone": "562-694-2707",
         "city": "La Habra",
         "state": "CA"
     },
@@ -26621,7 +26621,7 @@ const STORES = {
         "name": "San Bernardino Supercenter",
         "type": "Supercenter",
         "address": "4001 HALLMARK PKWY, San Bernardino, CA 92407-1876",
-        "phone": "",
+        "phone": "909-880-4038",
         "city": "San Bernardino",
         "state": "CA"
     },
@@ -26891,7 +26891,7 @@ const STORES = {
         "name": "Crawfordville Supercenter",
         "type": "Supercenter",
         "address": "35 MIKE STEWART, Crawfordville, FL 32327-1164",
-        "phone": "",
+        "phone": "850-926-1560",
         "city": "Crawfordville",
         "state": "FL"
     },
@@ -26900,7 +26900,7 @@ const STORES = {
         "name": "Middleburg Supercenter",
         "type": "Supercenter",
         "address": "1580 BRANAN FIELD RD, Middleburg, FL 32068-8427",
-        "phone": "",
+        "phone": "904-214-9411",
         "city": "Middleburg",
         "state": "FL"
     },
@@ -26909,7 +26909,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "4250 PHILLIPS HWY, Jacksonville, FL 32207-6730",
-        "phone": "",
+        "phone": "904-737-7007",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -26918,7 +26918,7 @@ const STORES = {
         "name": "Deltona Supercenter",
         "type": "Supercenter",
         "address": "101 HOWLAND BLVD, Deltona, FL 32738-9200",
-        "phone": "",
+        "phone": "407-328-8052",
         "city": "Deltona",
         "state": "FL"
     },
@@ -26927,7 +26927,7 @@ const STORES = {
         "name": "Miami Gardens Supercenter",
         "type": "Supercenter",
         "address": "19501 NW 27TH AVE, Miami Gardens, FL 33056-2521",
-        "phone": "",
+        "phone": "305-622-6664",
         "city": "Miami Gardens",
         "state": "FL"
     },
@@ -26936,7 +26936,7 @@ const STORES = {
         "name": "Centennial Supercenter",
         "type": "Supercenter",
         "address": "10900 E BRIARWOOD AVE, Centennial, CO 80112-3820",
-        "phone": "",
+        "phone": "303-706-0071",
         "city": "Centennial",
         "state": "CO"
     },
@@ -26945,7 +26945,7 @@ const STORES = {
         "name": "Glendale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7450 W GLENDALE AVE, Glendale, AZ 85303-3000",
-        "phone": "",
+        "phone": "623-915-2632",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -26954,7 +26954,7 @@ const STORES = {
         "name": "Glendale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4230 W UNION HILLS DR, Glendale, AZ 85308-1704",
-        "phone": "",
+        "phone": "623-869-0779",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -27044,7 +27044,7 @@ const STORES = {
         "name": "Pine Bluff Supercenter",
         "type": "Supercenter",
         "address": "5501 S OLIVE ST, Pine Bluff, AR 71603-7607",
-        "phone": "",
+        "phone": "870-534-7054",
         "city": "Pine Bluff",
         "state": "AR"
     },
@@ -27152,7 +27152,7 @@ const STORES = {
         "name": "Lake Park Supercenter",
         "type": "Supercenter",
         "address": "101 N CONGRESS AVE, Lake Park, FL 33403-3804",
-        "phone": "",
+        "phone": "561-842-8113",
         "city": "Lake Park",
         "state": "FL"
     },
@@ -27161,7 +27161,7 @@ const STORES = {
         "name": "Port Charlotte Supercenter",
         "type": "Supercenter",
         "address": "375 KINGS HWY, Port Charlotte, FL 33983-5222",
-        "phone": "",
+        "phone": "941-625-1201",
         "city": "Port Charlotte",
         "state": "FL"
     },
@@ -27188,7 +27188,7 @@ const STORES = {
         "name": "Stockton Supercenter",
         "type": "Supercenter",
         "address": "10355 TRINITY PKWY, Stockton, CA 95219-7243",
-        "phone": "",
+        "phone": "209-235-0558",
         "city": "Stockton",
         "state": "CA"
     },
@@ -27224,7 +27224,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3925 E GRANT RD, Tucson, AZ 85712-2506",
-        "phone": "",
+        "phone": "520-327-0085",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -27242,7 +27242,7 @@ const STORES = {
         "name": "Chandler Supercenter",
         "type": "Supercenter",
         "address": "2750 E GERMANN RD, Chandler, AZ 85286-1403",
-        "phone": "",
+        "phone": "480-812-2930",
         "city": "Chandler",
         "state": "AZ"
     },
@@ -27296,7 +27296,7 @@ const STORES = {
         "name": "Palmetto Supercenter",
         "type": "Supercenter",
         "address": "508 10TH ST E, Palmetto, FL 34221-4062",
-        "phone": "",
+        "phone": "941-723-2199",
         "city": "Palmetto",
         "state": "FL"
     },
@@ -27314,7 +27314,7 @@ const STORES = {
         "name": "Largo Supercenter",
         "type": "Supercenter",
         "address": "2677 ROOSEVELT BLVD, Largo, FL 33760-2512",
-        "phone": "",
+        "phone": "727-431-5917",
         "city": "Largo",
         "state": "FL"
     },
@@ -27323,7 +27323,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2823 W VALENCIA RD, Tucson, AZ 85746-8034",
-        "phone": "",
+        "phone": "520-908-2556",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -27332,7 +27332,7 @@ const STORES = {
         "name": "Oro Valley Supercenter",
         "type": "Supercenter",
         "address": "2150 E TANGERINE RD, Oro Valley, AZ 85755-6236",
-        "phone": "",
+        "phone": "520-544-0016",
         "city": "Oro Valley",
         "state": "AZ"
     },
@@ -27359,7 +27359,7 @@ const STORES = {
         "name": "Pueblo West Supercenter",
         "type": "Supercenter",
         "address": "78 N MCCULLOCH BLVD, Pueblo West, CO 81007-4444",
-        "phone": "",
+        "phone": "719-647-9861",
         "city": "Pueblo West",
         "state": "CO"
     },
@@ -27404,7 +27404,7 @@ const STORES = {
         "name": "North Port Supercenter",
         "type": "Supercenter",
         "address": "17000 TAMIAMI TRL, North Port, FL 34287-7281",
-        "phone": "",
+        "phone": "941-423-5266",
         "city": "North Port",
         "state": "FL"
     },
@@ -27476,7 +27476,7 @@ const STORES = {
         "name": "Miami Gardens Supercenter",
         "type": "Supercenter",
         "address": "17650 NW 2ND AVE, Miami Gardens, FL 33169-5019",
-        "phone": "",
+        "phone": "305-651-4661",
         "city": "Miami Gardens",
         "state": "FL"
     },
@@ -27539,7 +27539,7 @@ const STORES = {
         "name": "Buckeye Supercenter",
         "type": "Supercenter",
         "address": "1060 S WATSON RD, Buckeye, AZ 85326-3371",
-        "phone": "",
+        "phone": "623-474-6728",
         "city": "Buckeye",
         "state": "AZ"
     },
@@ -27584,7 +27584,7 @@ const STORES = {
         "name": "Palm Harbor Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3400 E LAKE RD, Palm Harbor, FL 34685-2401",
-        "phone": "",
+        "phone": "727-431-1417",
         "city": "Palm Harbor",
         "state": "FL"
     },
@@ -27602,7 +27602,7 @@ const STORES = {
         "name": "Naples Supercenter",
         "type": "Supercenter",
         "address": "6650 COLLIER BLVD, Naples, FL 34114-8125",
-        "phone": "",
+        "phone": "239-417-1252",
         "city": "Naples",
         "state": "FL"
     },
@@ -27764,7 +27764,7 @@ const STORES = {
         "name": "Navarre Supercenter",
         "type": "Supercenter",
         "address": "9360 NAVARRE PKWY, Navarre, FL 32566-2910",
-        "phone": "",
+        "phone": "850-939-3998",
         "city": "Navarre",
         "state": "FL"
     },
@@ -27854,7 +27854,7 @@ const STORES = {
         "name": "Richmond Supercenter",
         "type": "Supercenter",
         "address": "1400 HILLTOP MALL RD, Richmond, CA 94806-1913",
-        "phone": "",
+        "phone": "510-669-1342",
         "city": "Richmond",
         "state": "CA"
     },
@@ -27926,7 +27926,7 @@ const STORES = {
         "name": "Brandon Supercenter",
         "type": "Supercenter",
         "address": "1208 E BRANDON BLVD, Brandon, FL 33511-5529",
-        "phone": "",
+        "phone": "813-651-9040",
         "city": "Brandon",
         "state": "FL"
     },
@@ -27935,7 +27935,7 @@ const STORES = {
         "name": "Chino Supercenter",
         "type": "Supercenter",
         "address": "3943 GRAND AVE, Chino, CA 91710-5440",
-        "phone": "",
+        "phone": "909-364-1968",
         "city": "Chino",
         "state": "CA"
     },
@@ -27944,7 +27944,7 @@ const STORES = {
         "name": "Glendale Supercenter",
         "type": "Supercenter",
         "address": "5010 N 95TH AVE, Glendale, AZ 85305-3042",
-        "phone": "",
+        "phone": "623-872-0058",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -27989,7 +27989,7 @@ const STORES = {
         "name": "Bradenton Supercenter",
         "type": "Supercenter",
         "address": "6225 E STATE ROAD 64, Bradenton, FL 34208-6244",
-        "phone": "",
+        "phone": "941-708-2800",
         "city": "Bradenton",
         "state": "FL"
     },
@@ -28016,7 +28016,7 @@ const STORES = {
         "name": "Long Beach Supercenter",
         "type": "Supercenter",
         "address": "7250 CARSON BLVD, Long Beach, CA 90808-2358",
-        "phone": "",
+        "phone": "562-425-5113",
         "city": "Long Beach",
         "state": "CA"
     },
@@ -28034,7 +28034,7 @@ const STORES = {
         "name": "Rogers Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1819 S 8TH ST, Rogers, AR 72756-5912",
-        "phone": "",
+        "phone": "479-633-0772",
         "city": "Rogers",
         "state": "AR"
     },
@@ -28079,7 +28079,7 @@ const STORES = {
         "name": "Pensacola Supercenter",
         "type": "Supercenter",
         "address": "2951 S BLUE ANGEL PKWY, Pensacola, FL 32506-6906",
-        "phone": "",
+        "phone": "850-458-5550",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -28160,7 +28160,7 @@ const STORES = {
         "name": "Martinez Supercenter",
         "type": "Supercenter",
         "address": "1021 ARNOLD DR, Martinez, CA 94553-4103",
-        "phone": "",
+        "phone": "925-313-5716",
         "city": "Martinez",
         "state": "CA"
     },
@@ -28169,7 +28169,7 @@ const STORES = {
         "name": "San Marcos Supercenter",
         "type": "Supercenter",
         "address": "732 CENTER DR, San Marcos, CA 92069-3535",
-        "phone": "",
+        "phone": "760-233-8009",
         "city": "San Marcos",
         "state": "CA"
     },
@@ -28340,7 +28340,7 @@ const STORES = {
         "name": "Chula Vista Supercenter",
         "type": "Supercenter",
         "address": "1360 EASTLAKE PKWY, Chula Vista, CA 91915-4116",
-        "phone": "",
+        "phone": "619-421-3140",
         "city": "Chula Vista",
         "state": "CA"
     },
@@ -28385,7 +28385,7 @@ const STORES = {
         "name": "Baldwin Park Supercenter",
         "type": "Supercenter",
         "address": "3250 BIG DALTON AVE, Baldwin Park, CA 91706-5107",
-        "phone": "",
+        "phone": "626-814-2235",
         "city": "Baldwin Park",
         "state": "CA"
     },
@@ -28394,7 +28394,7 @@ const STORES = {
         "name": "Santa Clarita Supercenter",
         "type": "Supercenter",
         "address": "26471 CARL BOYER DR, Santa Clarita, CA 91350-2996",
-        "phone": "",
+        "phone": "661-259-0863",
         "city": "Santa Clarita",
         "state": "CA"
     },
@@ -28412,7 +28412,7 @@ const STORES = {
         "name": "Brooksville Supercenter",
         "type": "Supercenter",
         "address": "7305 BROAD ST, Brooksville, FL 34601-3158",
-        "phone": "",
+        "phone": "352-796-5996",
         "city": "Brooksville",
         "state": "FL"
     },
@@ -28421,7 +28421,7 @@ const STORES = {
         "name": "Port St Lucie Supercenter",
         "type": "Supercenter",
         "address": "1675 NW SAINT LUCIE WEST BLVD, Port St Lucie, FL 34986-2106",
-        "phone": "",
+        "phone": "772-873-2221",
         "city": "Port St Lucie",
         "state": "FL"
     },
@@ -28466,7 +28466,7 @@ const STORES = {
         "name": "Denver Supercenter",
         "type": "Supercenter",
         "address": "7800 SMITH RD, Denver, CO 80207-1719",
-        "phone": "",
+        "phone": "720-941-0411",
         "city": "Denver",
         "state": "CO"
     },
@@ -28502,7 +28502,7 @@ const STORES = {
         "name": "Melbourne Supercenter",
         "type": "Supercenter",
         "address": "8500 N WICKHAM RD, Melbourne, FL 32940-6600",
-        "phone": "",
+        "phone": "321-242-0225",
         "city": "Melbourne",
         "state": "FL"
     },
@@ -28529,7 +28529,7 @@ const STORES = {
         "name": "Danbury Supercenter",
         "type": "Supercenter",
         "address": "67 NEWTOWN RD, Danbury, CT 06810-6272",
-        "phone": "",
+        "phone": "203-791-1929",
         "city": "Danbury",
         "state": "CT"
     },
@@ -28538,7 +28538,7 @@ const STORES = {
         "name": "Hamden Supercenter",
         "type": "Supercenter",
         "address": "2300 DIXWELL AVE, Hamden, CT 06514-2108",
-        "phone": "",
+        "phone": "203-230-0285",
         "city": "Hamden",
         "state": "CT"
     },
@@ -28547,7 +28547,7 @@ const STORES = {
         "name": "New Milford Supercenter",
         "type": "Supercenter",
         "address": "164 DANBURY RD, New Milford, CT 06776-4332",
-        "phone": "",
+        "phone": "860-350-4823",
         "city": "New Milford",
         "state": "CT"
     },
@@ -28556,7 +28556,7 @@ const STORES = {
         "name": "Waterbury Supercenter",
         "type": "Supercenter",
         "address": "910 WOLCOTT ST, Waterbury, CT 06705-1317",
-        "phone": "",
+        "phone": "203-759-1000",
         "city": "Waterbury",
         "state": "CT"
     },
@@ -28619,7 +28619,7 @@ const STORES = {
         "name": "Denver Supercenter",
         "type": "Supercenter",
         "address": "9400 E HAMPDEN AVE, Denver, CO 80231-5414",
-        "phone": "",
+        "phone": "720-748-1000",
         "city": "Denver",
         "state": "CO"
     },
@@ -28727,7 +28727,7 @@ const STORES = {
         "name": "Colorado Springs Supercenter",
         "type": "Supercenter",
         "address": "1575 SPACE CENTER DR, Colorado Springs, CO 80915-2441",
-        "phone": "",
+        "phone": "719-597-7414",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -28763,7 +28763,7 @@ const STORES = {
         "name": "Rocklin Supercenter",
         "type": "Supercenter",
         "address": "5454 CROSSINGS DR, Rocklin, CA 95677-3919",
-        "phone": "",
+        "phone": "916-783-8281",
         "city": "Rocklin",
         "state": "CA"
     },
@@ -28907,7 +28907,7 @@ const STORES = {
         "name": "Goodyear Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "14200 W INDIAN SCHOOL RD, Goodyear, AZ 85395-9248",
-        "phone": "",
+        "phone": "623-935-7007",
         "city": "Goodyear",
         "state": "AZ"
     },
@@ -28925,7 +28925,7 @@ const STORES = {
         "name": "Debary Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "185 N CHARLES RICHARD BEALL BLVD, Debary, FL 32713-2202",
-        "phone": "",
+        "phone": "386-601-0037",
         "city": "Debary",
         "state": "FL"
     },
@@ -29006,7 +29006,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "600 S ALAFAYA TRL, Orlando, FL 32828-9161",
-        "phone": "",
+        "phone": "407-380-0384",
         "city": "Orlando",
         "state": "FL"
     },
@@ -29069,7 +29069,7 @@ const STORES = {
         "name": "Lauderdale Lakes Supercenter",
         "type": "Supercenter",
         "address": "3001 N STATE ROAD 7, Lauderdale Lakes, FL 33313-1913",
-        "phone": "",
+        "phone": "954-733-7473",
         "city": "Lauderdale Lakes",
         "state": "FL"
     },
@@ -29105,7 +29105,7 @@ const STORES = {
         "name": "Port Orange Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3811 CLYDE MORRIS BLVD, Port Orange, FL 32129-2306",
-        "phone": "",
+        "phone": "386-281-6890",
         "city": "Port Orange",
         "state": "FL"
     },
@@ -29258,7 +29258,7 @@ const STORES = {
         "name": "Ventura Supercenter",
         "type": "Supercenter",
         "address": "1739 S VICTORIA AVE, Ventura, CA 93003-6503",
-        "phone": "",
+        "phone": "805-665-5560",
         "city": "Ventura",
         "state": "CA"
     },
@@ -29267,7 +29267,7 @@ const STORES = {
         "name": "West Sacramento Supercenter",
         "type": "Supercenter",
         "address": "755 RIVERPOINT CT, West Sacramento, CA 95605-1654",
-        "phone": "",
+        "phone": "916-373-2200",
         "city": "West Sacramento",
         "state": "CA"
     },
@@ -29285,7 +29285,7 @@ const STORES = {
         "name": "Rogers Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "808 W WALNUT ST, Rogers, AR 72756-3538",
-        "phone": "",
+        "phone": "479-202-7198",
         "city": "Rogers",
         "state": "AR"
     },
@@ -29375,7 +29375,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "13227 CITY SQUARE DR, Jacksonville, FL 32218-7218",
-        "phone": "",
+        "phone": "904-751-5552",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -29402,7 +29402,7 @@ const STORES = {
         "name": "Suisun City Supercenter",
         "type": "Supercenter",
         "address": "350 WALTERS RD, Suisun City, CA 94585-3043",
-        "phone": "",
+        "phone": "707-639-4980",
         "city": "Suisun City",
         "state": "CA"
     },
@@ -29429,7 +29429,7 @@ const STORES = {
         "name": "Citrus Heights Supercenter",
         "type": "Supercenter",
         "address": "7010 AUBURN BLVD, Citrus Heights, CA 95621-4342",
-        "phone": "",
+        "phone": "916-729-8077",
         "city": "Citrus Heights",
         "state": "CA"
     },
@@ -29546,7 +29546,7 @@ const STORES = {
         "name": "Prescott Valley Supercenter",
         "type": "Supercenter",
         "address": "3450 N GLASSFORD HILL RD, Prescott Valley, AZ 86314-1351",
-        "phone": "",
+        "phone": "928-499-3136",
         "city": "Prescott Valley",
         "state": "AZ"
     },
@@ -29618,7 +29618,7 @@ const STORES = {
         "name": "Aurora Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "21475 E QUINCY AVE, Aurora, CO 80015-2882",
-        "phone": "",
+        "phone": "303-248-4048",
         "city": "Aurora",
         "state": "CO"
     },
@@ -29708,7 +29708,7 @@ const STORES = {
         "name": "San Tan Valley Supercenter",
         "type": "Supercenter",
         "address": "1725 W HUNT HWY, San Tan Valley, AZ 85143-5203",
-        "phone": "",
+        "phone": "480-677-2149",
         "city": "San Tan Valley",
         "state": "AZ"
     },
@@ -29825,7 +29825,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "6150 S 35TH AVE, Phoenix, AZ 85041-5004",
-        "phone": "",
+        "phone": "602-243-8506",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -29897,7 +29897,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "5991 S GOLDENROD RD, Orlando, FL 32822-8775",
-        "phone": "",
+        "phone": "407-382-8880",
         "city": "Orlando",
         "state": "FL"
     },
@@ -29924,7 +29924,7 @@ const STORES = {
         "name": "Pensacola Supercenter",
         "type": "Supercenter",
         "address": "501 N NAVY BLVD, Pensacola, FL 32507-2011",
-        "phone": "",
+        "phone": "850-453-6311",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -30005,7 +30005,7 @@ const STORES = {
         "name": "Ontario Supercenter",
         "type": "Supercenter",
         "address": "1333 N MOUNTAIN AVE, Ontario, CA 91762-1105",
-        "phone": "",
+        "phone": "909-321-3165",
         "city": "Ontario",
         "state": "CA"
     },
@@ -30014,7 +30014,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "240 W BASELINE RD, Mesa, AZ 85210-6107",
-        "phone": "",
+        "phone": "480-668-9501",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -30032,7 +30032,7 @@ const STORES = {
         "name": "Middletown Supercenter",
         "type": "Supercenter",
         "address": "705 MIDDLETOWN WARWICK RD, Middletown, DE 19709-9095",
-        "phone": "",
+        "phone": "302-449-1254",
         "city": "Middletown",
         "state": "DE"
     },
@@ -30041,7 +30041,7 @@ const STORES = {
         "name": "West Haven Supercenter",
         "type": "Supercenter",
         "address": "515 SAW MILL RD, West Haven, CT 06516-4000",
-        "phone": "",
+        "phone": "203-931-2081",
         "city": "West Haven",
         "state": "CT"
     },
@@ -30059,7 +30059,7 @@ const STORES = {
         "name": "Woodland Park Supercenter",
         "type": "Supercenter",
         "address": "19600 E US HIGHWAY 24, Woodland Park, CO 80863-8758",
-        "phone": "",
+        "phone": "719-687-1065",
         "city": "Woodland Park",
         "state": "CO"
     },
@@ -30077,7 +30077,7 @@ const STORES = {
         "name": "Benson Supercenter",
         "type": "Supercenter",
         "address": "201 S PRICKLY PEAR AVE, Benson, AZ 85602-6446",
-        "phone": "",
+        "phone": "520-586-0742",
         "city": "Benson",
         "state": "AZ"
     },
@@ -30113,7 +30113,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "433 AVALON PARK SOUTH BLVD, Orlando, FL 32828-6996",
-        "phone": "",
+        "phone": "407-207-0071",
         "city": "Orlando",
         "state": "FL"
     },
@@ -30131,7 +30131,7 @@ const STORES = {
         "name": "Westminster Supercenter",
         "type": "Supercenter",
         "address": "7155 SHERIDAN BLVD, Westminster, CO 80003-3803",
-        "phone": "",
+        "phone": "303-487-1412",
         "city": "Westminster",
         "state": "CO"
     },
@@ -30203,7 +30203,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "1606 S SIGNAL BUTTE RD, Mesa, AZ 85209-1482",
-        "phone": "",
+        "phone": "480-358-1122",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -30266,7 +30266,7 @@ const STORES = {
         "name": "Glendale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5137 W OLIVE AVE, Glendale, AZ 85302-4204",
-        "phone": "",
+        "phone": "623-939-4237",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -30275,7 +30275,7 @@ const STORES = {
         "name": "Glendale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6645 W PEORIA AVE, Glendale, AZ 85302-1011",
-        "phone": "",
+        "phone": "623-773-2947",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -30284,7 +30284,7 @@ const STORES = {
         "name": "Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2725 E MCKELLIPS RD, Mesa, AZ 85213-3016",
-        "phone": "",
+        "phone": "480-733-1679",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -30356,7 +30356,7 @@ const STORES = {
         "name": "Boca Raton Supercenter",
         "type": "Supercenter",
         "address": "22100 S STATE ROAD 7, Boca Raton, FL 33428-4218",
-        "phone": "",
+        "phone": "561-226-3157",
         "city": "Boca Raton",
         "state": "FL"
     },
@@ -30374,7 +30374,7 @@ const STORES = {
         "name": "Gilbert Supercenter",
         "type": "Supercenter",
         "address": "5290 S POWER RD, Gilbert, AZ 85295-8478",
-        "phone": "",
+        "phone": "480-988-0012",
         "city": "Gilbert",
         "state": "AZ"
     },
@@ -30383,7 +30383,7 @@ const STORES = {
         "name": "Holly Hill Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1905 NOVA RD, Holly Hill, FL 32117-1421",
-        "phone": "",
+        "phone": "386-672-3836",
         "city": "Holly Hill",
         "state": "FL"
     },
@@ -30401,7 +30401,7 @@ const STORES = {
         "name": "Westminster Supercenter",
         "type": "Supercenter",
         "address": "200 W 136TH AVE, Westminster, CO 80234-1204",
-        "phone": "",
+        "phone": "720-929-1758",
         "city": "Westminster",
         "state": "CO"
     },
@@ -30473,7 +30473,7 @@ const STORES = {
         "name": "Gainesville Supercenter",
         "type": "Supercenter",
         "address": "1800 NE 12TH AVE, Gainesville, FL 32641-4610",
-        "phone": "",
+        "phone": "352-372-3191",
         "city": "Gainesville",
         "state": "FL"
     },
@@ -30500,7 +30500,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "3435 E BROADWAY BLVD, Tucson, AZ 85716-5410",
-        "phone": "",
+        "phone": "520-917-1655",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -30518,7 +30518,7 @@ const STORES = {
         "name": "Avon Park Supercenter",
         "type": "Supercenter",
         "address": "1041 US HIGHWAY 27 N, Avon Park, FL 33825-2504",
-        "phone": "",
+        "phone": "863-453-4177",
         "city": "Avon Park",
         "state": "FL"
     },
@@ -30572,7 +30572,7 @@ const STORES = {
         "name": "Peoria Supercenter",
         "type": "Supercenter",
         "address": "21655 N LAKE PLEASANT PKWY, Peoria, AZ 85382-7436",
-        "phone": "",
+        "phone": "623-537-0809",
         "city": "Peoria",
         "state": "AZ"
     },
@@ -30626,7 +30626,7 @@ const STORES = {
         "name": "Chula Vista Supercenter",
         "type": "Supercenter",
         "address": "875 E H ST, Chula Vista, CA 91910-7807",
-        "phone": "",
+        "phone": "619-205-4259",
         "city": "Chula Vista",
         "state": "CA"
     },
@@ -30743,7 +30743,7 @@ const STORES = {
         "name": "Fort Myers Beach Supercenter",
         "type": "Supercenter",
         "address": "17105 SAN CARLOS BLVD, Fort Myers Beach, FL 33931-5305",
-        "phone": "",
+        "phone": "239-340-7074",
         "city": "Fort Myers Beach",
         "state": "FL"
     },
@@ -30788,7 +30788,7 @@ const STORES = {
         "name": "Long Beach Supercenter",
         "type": "Supercenter",
         "address": "3705 E SOUTH ST, Long Beach, CA 90805-4521",
-        "phone": "",
+        "phone": "424-296-6525",
         "city": "Long Beach",
         "state": "CA"
     },
@@ -30833,7 +30833,7 @@ const STORES = {
         "name": "Springdale Supercenter",
         "type": "Supercenter",
         "address": "4870 ELM SPRINGS RD, Springdale, AR 72762-3749",
-        "phone": "",
+        "phone": "479-306-7025",
         "city": "Springdale",
         "state": "AR"
     },
@@ -30896,7 +30896,7 @@ const STORES = {
         "name": "Woodland Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "215 CALIFORNIA ST, Woodland, CA 95695-2910",
-        "phone": "",
+        "phone": "530-665-4638",
         "city": "Woodland",
         "state": "CA"
     },
@@ -30905,7 +30905,7 @@ const STORES = {
         "name": "Russellville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2109 W MAIN ST, Russellville, AR 72801-0000",
-        "phone": "",
+        "phone": "479-498-9511",
         "city": "Russellville",
         "state": "AR"
     },
@@ -30941,7 +30941,7 @@ const STORES = {
         "name": "Downey Supercenter",
         "type": "Supercenter",
         "address": "9001 APOLLO WAY, Downey, CA 90242-4033",
-        "phone": "",
+        "phone": "562-803-3507",
         "city": "Downey",
         "state": "CA"
     },
@@ -30950,7 +30950,7 @@ const STORES = {
         "name": "Stanton Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "12840 BEACH BLVD, Stanton, CA 90680-4005",
-        "phone": "",
+        "phone": "714-230-0126",
         "city": "Stanton",
         "state": "CA"
     },
@@ -30986,7 +30986,7 @@ const STORES = {
         "name": "Miami Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6991 SW 8TH ST, Miami, FL 33144-4743",
-        "phone": "",
+        "phone": "786-257-4094",
         "city": "Miami",
         "state": "FL"
     },
@@ -30995,7 +30995,7 @@ const STORES = {
         "name": "Largo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9020 ULMERTON RD, Largo, FL 33771-3820",
-        "phone": "",
+        "phone": "727-431-5016",
         "city": "Largo",
         "state": "FL"
     },
@@ -31004,7 +31004,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4520 S SEMORAN BLVD, Orlando, FL 32822-2408",
-        "phone": "",
+        "phone": "407-563-9167",
         "city": "Orlando",
         "state": "FL"
     },
@@ -31076,7 +31076,7 @@ const STORES = {
         "name": "Kissimmee Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2850 E OSCEOLA PARKWAY, Kissimmee, FL 34743-0000",
-        "phone": "",
+        "phone": "407-552-0029",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -31085,7 +31085,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1101 S GOLDWYN AVE, Orlando, FL 32805-4307",
-        "phone": "",
+        "phone": "407-563-9069",
         "city": "Orlando",
         "state": "FL"
     },
@@ -31094,7 +31094,7 @@ const STORES = {
         "name": "Miami Supercenter",
         "type": "Supercenter",
         "address": "9191 W FLAGLER ST, Miami, FL 33174-2405",
-        "phone": "",
+        "phone": "786-801-5704",
         "city": "Miami",
         "state": "FL"
     },
@@ -31148,7 +31148,7 @@ const STORES = {
         "name": "Beebe Supercenter",
         "type": "Supercenter",
         "address": "2003 W CENTER ST, Beebe, AR 72012-2544",
-        "phone": "",
+        "phone": "501-882-1017",
         "city": "Beebe",
         "state": "AR"
     },
@@ -31157,7 +31157,7 @@ const STORES = {
         "name": "El Cajon Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "300 NORTH SECOND STREET, El Cajon, CA 92021-0000",
-        "phone": "",
+        "phone": "619-219-5246",
         "city": "El Cajon",
         "state": "CA"
     },
@@ -31166,7 +31166,7 @@ const STORES = {
         "name": "Garden Grove Supercenter",
         "type": "Supercenter",
         "address": "11822 GILBERT ST, Garden Grove, CA 92841-2720",
-        "phone": "",
+        "phone": "714-591-1300",
         "city": "Garden Grove",
         "state": "CA"
     },
@@ -31175,7 +31175,7 @@ const STORES = {
         "name": "San Jose Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1450 MONTEREY RD, San Jose, CA 95110-3445",
-        "phone": "",
+        "phone": "408-454-4508",
         "city": "San Jose",
         "state": "CA"
     },
@@ -31310,7 +31310,7 @@ const STORES = {
         "name": "Aurora Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "15240 E ILIFF AVE, Aurora, CO 80014-4516",
-        "phone": "",
+        "phone": "303-481-3904",
         "city": "Aurora",
         "state": "CO"
     },
@@ -31319,7 +31319,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "902 LEE RD, Orlando, FL 32810-5561",
-        "phone": "",
+        "phone": "407-204-8740",
         "city": "Orlando",
         "state": "FL"
     },
@@ -31355,7 +31355,7 @@ const STORES = {
         "name": "Roseville Supercenter",
         "type": "Supercenter",
         "address": "1400 LEAD HILL BLVD, Roseville, CA 95661-2949",
-        "phone": "",
+        "phone": "916-724-0012",
         "city": "Roseville",
         "state": "CA"
     },
@@ -31364,7 +31364,7 @@ const STORES = {
         "name": "Fort Mohave Supercenter",
         "type": "Supercenter",
         "address": "5210 S HIGHWAY 95, Fort Mohave, AZ 86426-9223",
-        "phone": "",
+        "phone": "928-768-5988",
         "city": "Fort Mohave",
         "state": "AZ"
     },
@@ -31409,7 +31409,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5559 CLARCONA OCOEE RD, Orlando, FL 32810-4057",
-        "phone": "",
+        "phone": "407-294-7276",
         "city": "Orlando",
         "state": "FL"
     },
@@ -31436,7 +31436,7 @@ const STORES = {
         "name": "Surprise Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "15431 W GREENWAY RD, Surprise, AZ 85374-4364",
-        "phone": "",
+        "phone": "623-584-0189",
         "city": "Surprise",
         "state": "AZ"
     },
@@ -31517,7 +31517,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "4747 E CACTUS RD, Phoenix, AZ 85032-7725",
-        "phone": "",
+        "phone": "602-404-3712",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -31526,7 +31526,7 @@ const STORES = {
         "name": "Phoenix Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6550 WEST HAPPY VALLEY RD, Phoenix, AZ 85310-2614",
-        "phone": "",
+        "phone": "623-566-9754",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -31553,7 +31553,7 @@ const STORES = {
         "name": "Sanger Supercenter",
         "type": "Supercenter",
         "address": "2761 JENSEN AVE, Sanger, CA 93657-9797",
-        "phone": "",
+        "phone": "559-875-4268",
         "city": "Sanger",
         "state": "CA"
     },
@@ -31643,7 +31643,7 @@ const STORES = {
         "name": "Flagstaff Supercenter",
         "type": "Supercenter",
         "address": "2601 E HUNTINGTON DR, Flagstaff, AZ 86004-8927",
-        "phone": "",
+        "phone": "928-774-3409",
         "city": "Flagstaff",
         "state": "AZ"
     },
@@ -31706,7 +31706,7 @@ const STORES = {
         "name": "Port St Lucie Supercenter",
         "type": "Supercenter",
         "address": "1850 SW GATLIN BLVD, Port St Lucie, FL 34953-2703",
-        "phone": "",
+        "phone": "772-336-8212",
         "city": "Port St Lucie",
         "state": "FL"
     },
@@ -31724,7 +31724,7 @@ const STORES = {
         "name": "Oro Valley Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7951 N ORACLE RD, Oro Valley, AZ 85704-6346",
-        "phone": "",
+        "phone": "520-469-9556",
         "city": "Oro Valley",
         "state": "AZ"
     },
@@ -31760,7 +31760,7 @@ const STORES = {
         "name": "Peoria Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7421 WEST THUNDERBIRD ROAD, Peoria, AZ 85381-5036",
-        "phone": "",
+        "phone": "602-627-9848",
         "city": "Peoria",
         "state": "AZ"
     },
@@ -31823,7 +31823,7 @@ const STORES = {
         "name": "Lakewood Supercenter",
         "type": "Supercenter",
         "address": "440 WADSWORTH BLVD, Lakewood, CO 80226-1510",
-        "phone": "",
+        "phone": "303-205-0754",
         "city": "Lakewood",
         "state": "CO"
     },
@@ -31850,7 +31850,7 @@ const STORES = {
         "name": "Broomfield Supercenter",
         "type": "Supercenter",
         "address": "4651 W 121ST AVE, Broomfield, CO 80020-5662",
-        "phone": "",
+        "phone": "303-217-9374",
         "city": "Broomfield",
         "state": "CO"
     },
@@ -31859,7 +31859,7 @@ const STORES = {
         "name": "Phoenix Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2435 E BASELINE RD, Phoenix, AZ 85042-7004",
-        "phone": "",
+        "phone": "602-232-2115",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -31895,7 +31895,7 @@ const STORES = {
         "name": "Miami Supercenter",
         "type": "Supercenter",
         "address": "3200 NW 79TH ST, Miami, FL 33147-4600",
-        "phone": "",
+        "phone": "305-913-8439",
         "city": "Miami",
         "state": "FL"
     },
@@ -31904,7 +31904,7 @@ const STORES = {
         "name": "Orangevale Supercenter",
         "type": "Supercenter",
         "address": "8961 GREENBACK LN, Orangevale, CA 95662-4601",
-        "phone": "",
+        "phone": "916-989-5800",
         "city": "Orangevale",
         "state": "CA"
     },
@@ -31913,7 +31913,7 @@ const STORES = {
         "name": "Tehachapi Supercenter",
         "type": "Supercenter",
         "address": "400 TUCKER RD, Tehachapi, CA 93561-2578",
-        "phone": "",
+        "phone": "661-825-2258",
         "city": "Tehachapi",
         "state": "CA"
     },
@@ -31958,7 +31958,7 @@ const STORES = {
         "name": "Chandler Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1900 E CHANDLER BLVD, Chandler, AZ 85225-5113",
-        "phone": "",
+        "phone": "480-448-4322",
         "city": "Chandler",
         "state": "AZ"
     },
@@ -31967,7 +31967,7 @@ const STORES = {
         "name": "Yuma Supercenter",
         "type": "Supercenter",
         "address": "8151 E 32ND ST, Yuma, AZ 85365-8401",
-        "phone": "",
+        "phone": "928-344-5974",
         "city": "Yuma",
         "state": "AZ"
     },
@@ -31985,7 +31985,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "8990 TURKEY LAKE RD, Orlando, FL 32819-7320",
-        "phone": "",
+        "phone": "407-351-2229",
         "city": "Orlando",
         "state": "FL"
     },
@@ -32012,7 +32012,7 @@ const STORES = {
         "name": "Falcon Supercenter",
         "type": "Supercenter",
         "address": "11550 MERIDIAN MARKET VW, Falcon, CO 80831-8241",
-        "phone": "",
+        "phone": "719-522-2910",
         "city": "Falcon",
         "state": "CO"
     },
@@ -32021,7 +32021,7 @@ const STORES = {
         "name": "El Mirage Supercenter",
         "type": "Supercenter",
         "address": "12900 W THUNDERBIRD RD, El Mirage, AZ 85335-5945",
-        "phone": "",
+        "phone": "623-583-1321",
         "city": "El Mirage",
         "state": "AZ"
     },
@@ -32030,7 +32030,7 @@ const STORES = {
         "name": "San Luis Supercenter",
         "type": "Supercenter",
         "address": "1613 N MAIN ST, San Luis, AZ 85349-0000",
-        "phone": "",
+        "phone": "928-722-7278",
         "city": "San Luis",
         "state": "AZ"
     },
@@ -32048,7 +32048,7 @@ const STORES = {
         "name": "Hesperia Supercenter",
         "type": "Supercenter",
         "address": "13401 MAIN ST, Hesperia, CA 92345-9123",
-        "phone": "",
+        "phone": "760-948-4851",
         "city": "Hesperia",
         "state": "CA"
     },
@@ -32093,7 +32093,7 @@ const STORES = {
         "name": "Naples Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5010 AIRPORT PULLING RD N, Naples, FL 34105-2407",
-        "phone": "",
+        "phone": "239-213-1183",
         "city": "Naples",
         "state": "FL"
     },
@@ -32102,7 +32102,7 @@ const STORES = {
         "name": "Taylor Supercenter",
         "type": "Supercenter",
         "address": "715 N MAIN ST, Taylor, AZ 85939-5005",
-        "phone": "",
+        "phone": "928-536-2543",
         "city": "Taylor",
         "state": "AZ"
     },
@@ -32120,7 +32120,7 @@ const STORES = {
         "name": "Pensacola Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6670 MOBILE HIGHWAY, Pensacola, FL 32526-0000",
-        "phone": "",
+        "phone": "850-483-6126",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -32147,7 +32147,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "11930 NARCOOSSEE RD, Orlando, FL 32832-6900",
-        "phone": "",
+        "phone": "407-204-2039",
         "city": "Orlando",
         "state": "FL"
     },
@@ -32165,7 +32165,7 @@ const STORES = {
         "name": "Texarkana Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3302 SUMMERHILL RD, Texarkana, TX 75503-3905",
-        "phone": "",
+        "phone": "903-716-7007",
         "city": "Texarkana",
         "state": "TX"
     },
@@ -32174,7 +32174,7 @@ const STORES = {
         "name": "Ocala Supercenter",
         "type": "Supercenter",
         "address": "34 BAHIA AVE, Ocala, FL 34472-2213",
-        "phone": "",
+        "phone": "352-537-3095",
         "city": "Ocala",
         "state": "FL"
     },
@@ -32192,7 +32192,7 @@ const STORES = {
         "name": "Texarkana Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3520 RICHMOND RD, Texarkana, TX 75503-0705",
-        "phone": "",
+        "phone": "903-716-7109",
         "city": "Texarkana",
         "state": "TX"
     },
@@ -32228,7 +32228,7 @@ const STORES = {
         "name": "Springdale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4900 JENNIFER TER, Springdale, AR 72762-5274",
-        "phone": "",
+        "phone": "479-927-1816",
         "city": "Springdale",
         "state": "AR"
     },
@@ -32237,7 +32237,7 @@ const STORES = {
         "name": "Bentonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1400 N WALTON BLVD, Bentonville, AR 72712-3722",
-        "phone": "",
+        "phone": "479-268-9829",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -32246,7 +32246,7 @@ const STORES = {
         "name": "Craig Supercenter",
         "type": "Supercenter",
         "address": "2000 W VICTORY WAY, Craig, CO 81625-3440",
-        "phone": "",
+        "phone": "970-824-0340",
         "city": "Craig",
         "state": "CO"
     },
@@ -32264,7 +32264,7 @@ const STORES = {
         "name": "Coral Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "10635 W ATLANTIC BLVD, Coral Springs, FL 33071-5669",
-        "phone": "",
+        "phone": "954-345-9513",
         "city": "Coral Springs",
         "state": "FL"
     },
@@ -32336,7 +32336,7 @@ const STORES = {
         "name": "Victorville Supercenter",
         "type": "Supercenter",
         "address": "12234 PALMDALE RD, Victorville, CA 92392-9418",
-        "phone": "",
+        "phone": "760-493-3047",
         "city": "Victorville",
         "state": "CA"
     },
@@ -32345,7 +32345,7 @@ const STORES = {
         "name": "North Highlands Supercenter",
         "type": "Supercenter",
         "address": "4675 WATT AVE, North Highlands, CA 95660-5517",
-        "phone": "",
+        "phone": "916-621-1454",
         "city": "North Highlands",
         "state": "CA"
     },
@@ -32525,7 +32525,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7818 COLONIAL WEST DRIVE, Orlando, FL 32818-6674",
-        "phone": "",
+        "phone": "407-522-4552",
         "city": "Orlando",
         "state": "FL"
     },
@@ -32561,7 +32561,7 @@ const STORES = {
         "name": "Maricopa Supercenter",
         "type": "Supercenter",
         "address": "41650 W MARICOPA CASA GRANDE HWY, Maricopa, AZ 85138-3206",
-        "phone": "",
+        "phone": "520-568-0846",
         "city": "Maricopa",
         "state": "AZ"
     },
@@ -32588,7 +32588,7 @@ const STORES = {
         "name": "Ocala Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7855 SW HWY 200, Ocala, FL 34476-3976",
-        "phone": "",
+        "phone": "352-512-6628",
         "city": "Ocala",
         "state": "FL"
     },
@@ -32642,7 +32642,7 @@ const STORES = {
         "name": "Palm Springs Village Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4400 FOREST HILL BLVD., Palm Springs Village, FL 33406-0000",
-        "phone": "",
+        "phone": "561-530-1237",
         "city": "Palm Springs Village",
         "state": "FL"
     },
@@ -32660,7 +32660,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "10251 SHOPS LN, Jacksonville, FL 32258-7406",
-        "phone": "",
+        "phone": "904-288-8211",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -32696,7 +32696,7 @@ const STORES = {
         "name": "Queen Creek Supercenter",
         "type": "Supercenter",
         "address": "21055 E RITTENHOUSE RD, Queen Creek, AZ 85142-4477",
-        "phone": "",
+        "phone": "480-457-1158",
         "city": "Queen Creek",
         "state": "AZ"
     },
@@ -32759,7 +32759,7 @@ const STORES = {
         "name": "North Little Rock Supercenter",
         "type": "Supercenter",
         "address": "12001 MAUMELLE BLVD, North Little Rock, AR 72113-7274",
-        "phone": "",
+        "phone": "501-851-6102",
         "city": "North Little Rock",
         "state": "AR"
     },
@@ -32849,7 +32849,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2175 W RUTHRAUFF RD, Tucson, AZ 85705-1241",
-        "phone": "",
+        "phone": "520-292-2542",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -32948,7 +32948,7 @@ const STORES = {
         "name": "Marina Supercenter",
         "type": "Supercenter",
         "address": "150 BEACH RD, Marina, CA 93933-2513",
-        "phone": "",
+        "phone": "831-883-9138",
         "city": "Marina",
         "state": "CA"
     },
@@ -32957,7 +32957,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2565 E COMMERCE CENTER PL, Tucson, AZ 85706-4535",
-        "phone": "",
+        "phone": "520-837-0750",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -32966,7 +32966,7 @@ const STORES = {
         "name": "Grand Junction Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "541 WARRIOR WAY, Grand Junction, CO 81504-6401",
-        "phone": "",
+        "phone": "970-208-0042",
         "city": "Grand Junction",
         "state": "CO"
     },
@@ -32993,7 +32993,7 @@ const STORES = {
         "name": "Coral Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4650 N UNIVERSITY DR, Coral Springs, FL 33067-4626",
-        "phone": "",
+        "phone": "954-753-7377",
         "city": "Coral Springs",
         "state": "FL"
     },
@@ -33092,7 +33092,7 @@ const STORES = {
         "name": "Fayetteville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "660 W MARTIN LUTHER KING JR BLVD, Fayetteville, AR 72701-6443",
-        "phone": "",
+        "phone": "479-435-2009",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -33236,7 +33236,7 @@ const STORES = {
         "name": "Parker Supercenter",
         "type": "Supercenter",
         "address": "100 W RIVERSIDE DR, Parker, AZ 85344-5205",
-        "phone": "",
+        "phone": "928-669-2161",
         "city": "Parker",
         "state": "AZ"
     },
@@ -33317,7 +33317,7 @@ const STORES = {
         "name": "Jacksonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9550 BAYMEADOWS RD, Jacksonville, FL 32256-0749",
-        "phone": "",
+        "phone": "904-431-6356",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -33326,7 +33326,7 @@ const STORES = {
         "name": "Dania Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "401 E SHERIDAN ST, Dania Beach, FL 33004-4603",
-        "phone": "",
+        "phone": "954-988-5211",
         "city": "Dania Beach",
         "state": "FL"
     },
@@ -33353,7 +33353,7 @@ const STORES = {
         "name": "Brighton Supercenter",
         "type": "Supercenter",
         "address": "7101 E 128TH AVE, Brighton, CO 80602-9101",
-        "phone": "",
+        "phone": "303-209-4339",
         "city": "Brighton",
         "state": "CO"
     },
@@ -33407,7 +33407,7 @@ const STORES = {
         "name": "Fort Smith Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8600 HWY 71 S, Fort Smith, AR 72908-8042",
-        "phone": "",
+        "phone": "479-289-6896",
         "city": "Fort Smith",
         "state": "AR"
     },
@@ -33434,7 +33434,7 @@ const STORES = {
         "name": "Navarre Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "7360 NAVARRE PKWY, Navarre, FL 32566-7752",
-        "phone": "",
+        "phone": "850-684-6042",
         "city": "Navarre",
         "state": "FL"
     },
@@ -33470,7 +33470,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "3101 W PRINCETON ST, Orlando, FL 32808-5600",
-        "phone": "",
+        "phone": "321-354-2096",
         "city": "Orlando",
         "state": "FL"
     },
@@ -33524,7 +33524,7 @@ const STORES = {
         "name": "Plantation Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1885 N PINE ISLAND RD, Plantation, FL 33322-5208",
-        "phone": "",
+        "phone": "954-472-3134",
         "city": "Plantation",
         "state": "FL"
     },
@@ -33542,7 +33542,7 @@ const STORES = {
         "name": "Timnath Supercenter",
         "type": "Supercenter",
         "address": "4500 WEITZEL ST, Timnath, CO 80547-4416",
-        "phone": "",
+        "phone": "970-484-0328",
         "city": "Timnath",
         "state": "CO"
     },
@@ -33569,7 +33569,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5500 E 22ND ST, Tucson, AZ 85711-5523",
-        "phone": "",
+        "phone": "520-745-0267",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -33650,7 +33650,7 @@ const STORES = {
         "name": "Pompano Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1199 S FEDERAL HWY, Pompano Beach, FL 33062-7067",
-        "phone": "",
+        "phone": "954-781-8774",
         "city": "Pompano Beach",
         "state": "FL"
     },
@@ -33758,7 +33758,7 @@ const STORES = {
         "name": "Elizabeth Supercenter",
         "type": "Supercenter",
         "address": "2100 LEGACY CIR, Elizabeth, CO 80107-8331",
-        "phone": "",
+        "phone": "303-646-2599",
         "city": "Elizabeth",
         "state": "CO"
     },
@@ -33866,7 +33866,7 @@ const STORES = {
         "name": "Clearwater Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1803 N HIGHLAND AVE, Clearwater, FL 33755-2100",
-        "phone": "",
+        "phone": "727-441-4320",
         "city": "Clearwater",
         "state": "FL"
     },
@@ -33965,7 +33965,7 @@ const STORES = {
         "name": "Bentonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "906 SW REGIONAL AIRPORT BLVD, Bentonville, AR 72712-7364",
-        "phone": "",
+        "phone": "479-268-7678",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -34244,7 +34244,7 @@ const STORES = {
         "name": "Arvada Supercenter",
         "type": "Supercenter",
         "address": "9400 RALSTON ROAD, Arvada, CO 80002-0000",
-        "phone": "",
+        "phone": "720-624-0346",
         "city": "Arvada",
         "state": "CO"
     },
@@ -34334,7 +34334,7 @@ const STORES = {
         "name": "Northglenn Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "10755 WASHINGTON STREET, Northglenn, CO 80233-0000",
-        "phone": "",
+        "phone": "303-200-1490",
         "city": "Northglenn",
         "state": "CO"
     },
@@ -34397,7 +34397,7 @@ const STORES = {
         "name": "Citrus Heights Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6197 SUNRISE BLVD, Citrus Heights, CA 95610-6834",
-        "phone": "",
+        "phone": "916-560-0031",
         "city": "Citrus Heights",
         "state": "CA"
     },
@@ -34415,7 +34415,7 @@ const STORES = {
         "name": "Diamond Bar Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1180 S DIAMOND BAR BLVD, Diamond Bar, CA 91765-2203",
-        "phone": "",
+        "phone": "909-378-4055",
         "city": "Diamond Bar",
         "state": "CA"
     },
@@ -34802,7 +34802,7 @@ const STORES = {
         "name": "Hollywood Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8550 STIRLING RD, Hollywood, FL 33024-8212",
-        "phone": "",
+        "phone": "954-628-1772",
         "city": "Hollywood",
         "state": "FL"
     },
@@ -35504,7 +35504,7 @@ const STORES = {
         "name": "Pagosa Springs Supercenter",
         "type": "Supercenter",
         "address": "211 ASPEN VILLAGE DR, Pagosa Springs, CO 81147-9170",
-        "phone": "",
+        "phone": "970-731-9001",
         "city": "Pagosa Springs",
         "state": "CO"
     },
@@ -35513,7 +35513,7 @@ const STORES = {
         "name": "Jacksonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6855 WILSON BLVD, Jacksonville, FL 32210-3600",
-        "phone": "",
+        "phone": "904-513-6582",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -35522,7 +35522,7 @@ const STORES = {
         "name": "Vacaville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2050 NUT TREE RD, Vacaville, CA 95687-7108",
-        "phone": "",
+        "phone": "707-359-3258",
         "city": "Vacaville",
         "state": "CA"
     },
@@ -35594,7 +35594,7 @@ const STORES = {
         "name": "National City Supercenter",
         "type": "Supercenter",
         "address": "1200 HIGHLAND AVE, National City, CA 91950-3541",
-        "phone": "",
+        "phone": "619-336-0395",
         "city": "National City",
         "state": "CA"
     },
@@ -35648,7 +35648,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "8280 N CORTARO RD, Tucson, AZ 85743-9393",
-        "phone": "",
+        "phone": "520-744-3652",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -35657,7 +35657,7 @@ const STORES = {
         "name": "Buena Park Supercenter",
         "type": "Supercenter",
         "address": "8450 LA PALMA AVE, Buena Park, CA 90620-3210",
-        "phone": "",
+        "phone": "714-484-8668",
         "city": "Buena Park",
         "state": "CA"
     },
@@ -35666,7 +35666,7 @@ const STORES = {
         "name": "Fort Morgan Supercenter",
         "type": "Supercenter",
         "address": "1300 BARLOW RD, Fort Morgan, CO 80701-4363",
-        "phone": "",
+        "phone": "970-542-2272",
         "city": "Fort Morgan",
         "state": "CO"
     },
@@ -35675,7 +35675,7 @@ const STORES = {
         "name": "Fort Myers Supercenter",
         "type": "Supercenter",
         "address": "4770 COLONIAL BLVD, Fort Myers, FL 33966-1034",
-        "phone": "",
+        "phone": "239-274-2920",
         "city": "Fort Myers",
         "state": "FL"
     },
@@ -35684,7 +35684,7 @@ const STORES = {
         "name": "Mulberry Supercenter",
         "type": "Supercenter",
         "address": "6745 N CHURCH AVE, Mulberry, FL 33860-2080",
-        "phone": "",
+        "phone": "863-701-2232",
         "city": "Mulberry",
         "state": "FL"
     },
@@ -35711,7 +35711,7 @@ const STORES = {
         "name": "Camden Supercenter",
         "type": "Supercenter",
         "address": "263 WALMART DR, Camden, DE 19934-1308",
-        "phone": "",
+        "phone": "302-698-9170",
         "city": "Camden",
         "state": "DE"
     },
@@ -35792,7 +35792,7 @@ const STORES = {
         "name": "Littleton Supercenter",
         "type": "Supercenter",
         "address": "13420 W COAL MINE AVE, Littleton, CO 80127-5402",
-        "phone": "",
+        "phone": "303-979-2064",
         "city": "Littleton",
         "state": "CO"
     },
@@ -35801,7 +35801,7 @@ const STORES = {
         "name": "Greeley Supercenter",
         "type": "Supercenter",
         "address": "920 47TH AVE, Greeley, CO 80634-2042",
-        "phone": "",
+        "phone": "970-353-4231",
         "city": "Greeley",
         "state": "CO"
     },
@@ -35810,7 +35810,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "11900 ATLANTIC BLVD, Jacksonville, FL 32225-2920",
-        "phone": "",
+        "phone": "904-641-8088",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -35819,7 +35819,7 @@ const STORES = {
         "name": "Naples Supercenter",
         "type": "Supercenter",
         "address": "9885 COLLIER BLVD, Naples, FL 34114-2638",
-        "phone": "",
+        "phone": "239-455-1131",
         "city": "Naples",
         "state": "FL"
     },
@@ -35936,7 +35936,7 @@ const STORES = {
         "name": "Torrance Supercenter",
         "type": "Supercenter",
         "address": "19503 NORMANDIE AVE, Torrance, CA 90501-1361",
-        "phone": "",
+        "phone": "310-782-6022",
         "city": "Torrance",
         "state": "CA"
     },
@@ -35954,7 +35954,7 @@ const STORES = {
         "name": "Oceanside Supercenter",
         "type": "Supercenter",
         "address": "3405 MARRON RD, Oceanside, CA 92056-4673",
-        "phone": "",
+        "phone": "760-730-1371",
         "city": "Oceanside",
         "state": "CA"
     },
@@ -36107,7 +36107,7 @@ const STORES = {
         "name": "Hartford Supercenter",
         "type": "Supercenter",
         "address": "495 FLATBUSH AVENUE, Hartford, CT 06106-3601",
-        "phone": "",
+        "phone": "860-953-0040",
         "city": "Hartford",
         "state": "CT"
     },
@@ -36116,7 +36116,7 @@ const STORES = {
         "name": "Palm Desert Supercenter",
         "type": "Supercenter",
         "address": "34500 MONTEREY AVE, Palm Desert, CA 92211-2089",
-        "phone": "",
+        "phone": "760-328-4375",
         "city": "Palm Desert",
         "state": "CA"
     },
@@ -36143,7 +36143,7 @@ const STORES = {
         "name": "Grand Junction Supercenter",
         "type": "Supercenter",
         "address": "2545 RIMROCK AVE, Grand Junction, CO 81505-8664",
-        "phone": "",
+        "phone": "970-248-0031",
         "city": "Grand Junction",
         "state": "CO"
     },
@@ -36206,7 +36206,7 @@ const STORES = {
         "name": "Oviedo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4255 ALAFAYA TRL, Oviedo, FL 32765-9410",
-        "phone": "",
+        "phone": "407-359-6707",
         "city": "Oviedo",
         "state": "FL"
     },
@@ -36323,7 +36323,7 @@ const STORES = {
         "name": "Colorado Springs Supercenter",
         "type": "Supercenter",
         "address": "5550 E WOODMEN RD, Colorado Springs, CO 80920-5257",
-        "phone": "",
+        "phone": "719-531-6471",
         "city": "Colorado Springs",
         "state": "CO"
     },
@@ -36332,7 +36332,7 @@ const STORES = {
         "name": "Glendale Supercenter",
         "type": "Supercenter",
         "address": "5605 W NORTHERN AVE, Glendale, AZ 85301-1332",
-        "phone": "",
+        "phone": "623-934-6920",
         "city": "Glendale",
         "state": "AZ"
     },
@@ -36404,7 +36404,7 @@ const STORES = {
         "name": "Anderson Supercenter",
         "type": "Supercenter",
         "address": "5000 RHONDA RD, Anderson, CA 96007-9010",
-        "phone": "",
+        "phone": "530-378-0244",
         "city": "Anderson",
         "state": "CA"
     },
@@ -36413,7 +36413,7 @@ const STORES = {
         "name": "Bakersfield Supercenter",
         "type": "Supercenter",
         "address": "5075 GOSFORD RD, Bakersfield, CA 93313-4993",
-        "phone": "",
+        "phone": "661-282-3099",
         "city": "Bakersfield",
         "state": "CA"
     },
@@ -36431,7 +36431,7 @@ const STORES = {
         "name": "Marysville Supercenter",
         "type": "Supercenter",
         "address": "1131 N BEALE RD, Marysville, CA 95901-6107",
-        "phone": "",
+        "phone": "530-634-9751",
         "city": "Marysville",
         "state": "CA"
     },
@@ -36440,7 +36440,7 @@ const STORES = {
         "name": "Aurora Supercenter",
         "type": "Supercenter",
         "address": "6101 S AURORA PKWY, Aurora, CO 80016-5801",
-        "phone": "",
+        "phone": "303-617-1261",
         "city": "Aurora",
         "state": "CO"
     },
@@ -36449,7 +36449,7 @@ const STORES = {
         "name": "Dixon Supercenter",
         "type": "Supercenter",
         "address": "235 E DORSET DR, Dixon, CA 95620-9232",
-        "phone": "",
+        "phone": "707-693-6505",
         "city": "Dixon",
         "state": "CA"
     },
@@ -36458,7 +36458,7 @@ const STORES = {
         "name": "La Mesa Supercenter",
         "type": "Supercenter",
         "address": "5500 GROSSMONT CENTER DR, La Mesa, CA 91942-3016",
-        "phone": "",
+        "phone": "619-337-3655",
         "city": "La Mesa",
         "state": "CA"
     },
@@ -36575,7 +36575,7 @@ const STORES = {
         "name": "Rosemead Supercenter",
         "type": "Supercenter",
         "address": "1827 WALNUT GROVE AVE, Rosemead, CA 91770-3789",
-        "phone": "",
+        "phone": "626-307-1010",
         "city": "Rosemead",
         "state": "CA"
     },
@@ -36593,7 +36593,7 @@ const STORES = {
         "name": "Beaumont Supercenter",
         "type": "Supercenter",
         "address": "1540 E 2ND ST, Beaumont, CA 92223-3101",
-        "phone": "",
+        "phone": "951-845-1529",
         "city": "Beaumont",
         "state": "CA"
     },
@@ -36629,7 +36629,7 @@ const STORES = {
         "name": "Santa Clarita Supercenter",
         "type": "Supercenter",
         "address": "27931 KELLY JOHNSON PKWY, Santa Clarita, CA 91355-5083",
-        "phone": "",
+        "phone": "661-294-5211",
         "city": "Santa Clarita",
         "state": "CA"
     },
@@ -36674,7 +36674,7 @@ const STORES = {
         "name": "Rogers Supercenter",
         "type": "Supercenter",
         "address": "2252 N 8TH ST, Rogers, AR 72756-2842",
-        "phone": "",
+        "phone": "479-273-4000",
         "city": "Rogers",
         "state": "AR"
     },
@@ -36692,7 +36692,7 @@ const STORES = {
         "name": "Perry Supercenter",
         "type": "Supercenter",
         "address": "1900 S JEFFERSON ST, Perry, FL 32348-5615",
-        "phone": "",
+        "phone": "850-223-4179",
         "city": "Perry",
         "state": "FL"
     },
@@ -36737,7 +36737,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "201 S CHICKASAW TRL, Orlando, FL 32825-3504",
-        "phone": "",
+        "phone": "407-380-9971",
         "city": "Orlando",
         "state": "FL"
     },
@@ -36782,7 +36782,7 @@ const STORES = {
         "name": "Gilbert Supercenter",
         "type": "Supercenter",
         "address": "2501 S MARKET ST, Gilbert, AZ 85295-1300",
-        "phone": "",
+        "phone": "480-224-6900",
         "city": "Gilbert",
         "state": "AZ"
     },
@@ -36800,7 +36800,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "5250 W INDIAN SCHOOL RD, Phoenix, AZ 85031-2605",
-        "phone": "",
+        "phone": "623-845-8713",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -36809,7 +36809,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "2501 W HAPPY VALLEY RD STE 34, Phoenix, AZ 85085-3712",
-        "phone": "",
+        "phone": "623-780-5702",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -36827,7 +36827,7 @@ const STORES = {
         "name": "Sacramento Supercenter",
         "type": "Supercenter",
         "address": "5821 ANTELOPE RD, Sacramento, CA 95842-3902",
-        "phone": "",
+        "phone": "916-729-6162",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -36836,7 +36836,7 @@ const STORES = {
         "name": "Moreno Valley Supercenter",
         "type": "Supercenter",
         "address": "12721 MORENO BEACH DR, Moreno Valley, CA 92555-4411",
-        "phone": "",
+        "phone": "951-242-1185",
         "city": "Moreno Valley",
         "state": "CA"
     },
@@ -36971,7 +36971,7 @@ const STORES = {
         "name": "Kissimmee Supercenter",
         "type": "Supercenter",
         "address": "2855 N OLD LAKE WILSON RD, Kissimmee, FL 34747-1821",
-        "phone": "",
+        "phone": "407-606-0109",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -36980,7 +36980,7 @@ const STORES = {
         "name": "Delano Supercenter",
         "type": "Supercenter",
         "address": "530 WOOLLOMES AVE, Delano, CA 93215-9581",
-        "phone": "",
+        "phone": "661-370-4061",
         "city": "Delano",
         "state": "CA"
     },
@@ -37079,7 +37079,7 @@ const STORES = {
         "name": "Galt Supercenter",
         "type": "Supercenter",
         "address": "10470 TWIN CITIES RD, Galt, CA 95632-9032",
-        "phone": "",
+        "phone": "209-744-1938",
         "city": "Galt",
         "state": "CA"
     },
@@ -37088,7 +37088,7 @@ const STORES = {
         "name": "Rifle Supercenter",
         "type": "Supercenter",
         "address": "1000 AIRPORT RD, Rifle, CO 81650-8407",
-        "phone": "",
+        "phone": "970-625-5367",
         "city": "Rifle",
         "state": "CO"
     },
@@ -37169,7 +37169,7 @@ const STORES = {
         "name": "Little Rock Supercenter",
         "type": "Supercenter",
         "address": "19301 CANTRELL RD, Little Rock, AR 72223-4457",
-        "phone": "",
+        "phone": "501-868-4659",
         "city": "Little Rock",
         "state": "AR"
     },
@@ -37214,7 +37214,7 @@ const STORES = {
         "name": "Kissimmee Supercenter",
         "type": "Supercenter",
         "address": "904 CYPRESS PKWY, Kissimmee, FL 34759-3456",
-        "phone": "",
+        "phone": "407-870-1903",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -37277,7 +37277,7 @@ const STORES = {
         "name": "Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5122 E UNIVERSITY DR, Mesa, AZ 85205-7209",
-        "phone": "",
+        "phone": "480-832-9484",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -37304,7 +37304,7 @@ const STORES = {
         "name": "Rogers Supercenter",
         "type": "Supercenter",
         "address": "4208 PLEASANT CROSSING BLVD, Rogers, AR 72758-1345",
-        "phone": "",
+        "phone": "479-621-9769",
         "city": "Rogers",
         "state": "AR"
     },
@@ -37340,7 +37340,7 @@ const STORES = {
         "name": "Osprey Supercenter",
         "type": "Supercenter",
         "address": "13140 S TAMIAMI TRL, Osprey, FL 34229-3801",
-        "phone": "",
+        "phone": "941-918-1247",
         "city": "Osprey",
         "state": "FL"
     },
@@ -37349,7 +37349,7 @@ const STORES = {
         "name": "Saint Cloud Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2125 NOLTE RD, Saint Cloud, FL 34772-8762",
-        "phone": "",
+        "phone": "407-556-0995",
         "city": "Saint Cloud",
         "state": "FL"
     },
@@ -37358,7 +37358,7 @@ const STORES = {
         "name": "Hudson Supercenter",
         "type": "Supercenter",
         "address": "12610 US HIGHWAY 19, Hudson, FL 34667-1954",
-        "phone": "",
+        "phone": "727-861-0040",
         "city": "Hudson",
         "state": "FL"
     },
@@ -37556,7 +37556,7 @@ const STORES = {
         "name": "Milford Supercenter",
         "type": "Supercenter",
         "address": "1365 BOSTON POST RD, Milford, CT 06460-2755",
-        "phone": "",
+        "phone": "203-301-0559",
         "city": "Milford",
         "state": "CT"
     },
@@ -37601,7 +37601,7 @@ const STORES = {
         "name": "Clermont Supercenter",
         "type": "Supercenter",
         "address": "550 US HIGHWAY 27, Clermont, FL 34714-8908",
-        "phone": "",
+        "phone": "352-536-2750",
         "city": "Clermont",
         "state": "FL"
     },
@@ -37610,7 +37610,7 @@ const STORES = {
         "name": "Gibsonton Supercenter",
         "type": "Supercenter",
         "address": "9205 GIBSONTON DR, Gibsonton, FL 33534-4608",
-        "phone": "",
+        "phone": "813-672-0739",
         "city": "Gibsonton",
         "state": "FL"
     },
@@ -37628,7 +37628,7 @@ const STORES = {
         "name": "Prescott Supercenter",
         "type": "Supercenter",
         "address": "1280 GAIL GARDNER WAY, Prescott, AZ 86305-1641",
-        "phone": "",
+        "phone": "928-541-0071",
         "city": "Prescott",
         "state": "AZ"
     },
@@ -37637,7 +37637,7 @@ const STORES = {
         "name": "Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1916 S LINDSAY RD, Mesa, AZ 85204-7108",
-        "phone": "",
+        "phone": "480-892-6085",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -37646,7 +37646,7 @@ const STORES = {
         "name": "Chula Vista Supercenter",
         "type": "Supercenter",
         "address": "1150 BROADWAY, Chula Vista, CA 91911-2707",
-        "phone": "",
+        "phone": "619-591-4910",
         "city": "Chula Vista",
         "state": "CA"
     },
@@ -37736,7 +37736,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "2354 COMMERCE PARK DR, Orlando, FL 32819-8601",
-        "phone": "",
+        "phone": "877-453-4566",
         "city": "Orlando",
         "state": "FL"
     },
@@ -37781,7 +37781,7 @@ const STORES = {
         "name": "Fort Myers Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9131 COLLEGE PKWY STE 101, Fort Myers, FL 33919-4827",
-        "phone": "",
+        "phone": "239-267-2860",
         "city": "Fort Myers",
         "state": "FL"
     },
@@ -37799,7 +37799,7 @@ const STORES = {
         "name": "Margate Supercenter",
         "type": "Supercenter",
         "address": "5555 W ATLANTIC BLVD, Margate, FL 33063-5296",
-        "phone": "",
+        "phone": "954-975-8682",
         "city": "Margate",
         "state": "FL"
     },
@@ -37808,7 +37808,7 @@ const STORES = {
         "name": "Ocala Supercenter",
         "type": "Supercenter",
         "address": "9570 SW HIGHWAY 200, Ocala, FL 34481-7720",
-        "phone": "",
+        "phone": "352-291-7512",
         "city": "Ocala",
         "state": "FL"
     },
@@ -37835,7 +37835,7 @@ const STORES = {
         "name": "Anthem Supercenter",
         "type": "Supercenter",
         "address": "4435 W ANTHEM WAY, Anthem, AZ 85086-0467",
-        "phone": "",
+        "phone": "623-551-6314",
         "city": "Anthem",
         "state": "AZ"
     },
@@ -37844,7 +37844,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "6145 N 35TH AVE, Phoenix, AZ 85017-1940",
-        "phone": "",
+        "phone": "602-973-0774",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -37853,7 +37853,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "7575 W LOWER BUCKEYE RD, Phoenix, AZ 85043-3450",
-        "phone": "",
+        "phone": "623-907-0007",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -37862,7 +37862,7 @@ const STORES = {
         "name": "Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "730 E MCKELLIPS RD, Mesa, AZ 85203-2537",
-        "phone": "",
+        "phone": "480-964-2347",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -37871,7 +37871,7 @@ const STORES = {
         "name": "Aurora Supercenter",
         "type": "Supercenter",
         "address": "3301 TOWER RD, Aurora, CO 80011-3509",
-        "phone": "",
+        "phone": "720-374-0278",
         "city": "Aurora",
         "state": "CO"
     },
@@ -37880,7 +37880,7 @@ const STORES = {
         "name": "Brawley Supercenter",
         "type": "Supercenter",
         "address": "250 WILDCAT DR, Brawley, CA 92227-9654",
-        "phone": "",
+        "phone": "760-351-0186",
         "city": "Brawley",
         "state": "CA"
     },
@@ -37898,7 +37898,7 @@ const STORES = {
         "name": "Clovis Supercenter",
         "type": "Supercenter",
         "address": "1185 HERNDON AVE, Clovis, CA 93612-0409",
-        "phone": "",
+        "phone": "559-321-0067",
         "city": "Clovis",
         "state": "CA"
     },
@@ -37907,7 +37907,7 @@ const STORES = {
         "name": "San Diego Supercenter",
         "type": "Supercenter",
         "address": "4840 SHAWLINE ST, San Diego, CA 92111-1400",
-        "phone": "",
+        "phone": "858-268-2885",
         "city": "San Diego",
         "state": "CA"
     },
@@ -37925,7 +37925,7 @@ const STORES = {
         "name": "Broomfield Supercenter",
         "type": "Supercenter",
         "address": "500 SUMMIT BLVD, Broomfield, CO 80021-8219",
-        "phone": "",
+        "phone": "303-466-3928",
         "city": "Broomfield",
         "state": "CO"
     },
@@ -37934,7 +37934,7 @@ const STORES = {
         "name": "Yuma Supercenter",
         "type": "Supercenter",
         "address": "2501 S AVENUE B, Yuma, AZ 85364-7734",
-        "phone": "",
+        "phone": "928-317-2776",
         "city": "Yuma",
         "state": "AZ"
     },
@@ -37970,7 +37970,7 @@ const STORES = {
         "name": "Estero Supercenter",
         "type": "Supercenter",
         "address": "19975 S TAMIAMI TRL, Estero, FL 33928-2268",
-        "phone": "",
+        "phone": "239-590-9501",
         "city": "Estero",
         "state": "FL"
     },
@@ -37988,7 +37988,7 @@ const STORES = {
         "name": "Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8335 E GUADALUPE RD, Mesa, AZ 85212-9630",
-        "phone": "",
+        "phone": "480-357-4137",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -38096,7 +38096,7 @@ const STORES = {
         "name": "Melbourne Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3950 N WICKHAM RD, Melbourne, FL 32935-2311",
-        "phone": "",
+        "phone": "321-254-7875",
         "city": "Melbourne",
         "state": "FL"
     },
@@ -38105,7 +38105,7 @@ const STORES = {
         "name": "Melbourne Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3550 S BABCOCK ST, Melbourne, FL 32901-8204",
-        "phone": "",
+        "phone": "321-723-8988",
         "city": "Melbourne",
         "state": "FL"
     },
@@ -38132,7 +38132,7 @@ const STORES = {
         "name": "Goodyear Supercenter",
         "type": "Supercenter",
         "address": "1100 N ESTRELLA PKWY, Goodyear, AZ 85338-2808",
-        "phone": "",
+        "phone": "623-925-9575",
         "city": "Goodyear",
         "state": "AZ"
     },
@@ -38141,7 +38141,7 @@ const STORES = {
         "name": "Longmont Supercenter",
         "type": "Supercenter",
         "address": "2514 MAIN ST, Longmont, CO 80504-9740",
-        "phone": "",
+        "phone": "303-774-7513",
         "city": "Longmont",
         "state": "CO"
     },
@@ -38303,7 +38303,7 @@ const STORES = {
         "name": "Naples Supercenter",
         "type": "Supercenter",
         "address": "5420 JULIET BLVD, Naples, FL 34109-2628",
-        "phone": "",
+        "phone": "239-254-8310",
         "city": "Naples",
         "state": "FL"
     },
@@ -38330,7 +38330,7 @@ const STORES = {
         "name": "Dinuba Supercenter",
         "type": "Supercenter",
         "address": "770 W EL MONTE WAY, Dinuba, CA 93618-3493",
-        "phone": "",
+        "phone": "559-591-0380",
         "city": "Dinuba",
         "state": "CA"
     },
@@ -38474,7 +38474,7 @@ const STORES = {
         "name": "Kissimmee Supercenter",
         "type": "Supercenter",
         "address": "3250 VINELAND RD, Kissimmee, FL 34746-4893",
-        "phone": "",
+        "phone": "407-397-1125",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -38519,7 +38519,7 @@ const STORES = {
         "name": "San Jacinto Supercenter",
         "type": "Supercenter",
         "address": "1861 S SAN JACINTO AVE, San Jacinto, CA 92583-5605",
-        "phone": "",
+        "phone": "951-487-1492",
         "city": "San Jacinto",
         "state": "CA"
     },
@@ -38537,7 +38537,7 @@ const STORES = {
         "name": "Mesa Supercenter",
         "type": "Supercenter",
         "address": "1710 S GREENFIELD RD, Mesa, AZ 85206-3481",
-        "phone": "",
+        "phone": "480-892-3814",
         "city": "Mesa",
         "state": "AZ"
     },
@@ -38546,7 +38546,7 @@ const STORES = {
         "name": "Surprise Supercenter",
         "type": "Supercenter",
         "address": "14111 N PRASADA GATEWAY AVE, Surprise, AZ 85388-2201",
-        "phone": "",
+        "phone": "623-282-3208",
         "city": "Surprise",
         "state": "AZ"
     },
@@ -38573,7 +38573,7 @@ const STORES = {
         "name": "Hot Springs Village Supercenter",
         "type": "Supercenter",
         "address": "3604 N HIGHWAY 7, Hot Springs Village, AR 71909-9607",
-        "phone": "",
+        "phone": "501-318-0185",
         "city": "Hot Springs Village",
         "state": "AR"
     },
@@ -38582,7 +38582,7 @@ const STORES = {
         "name": "San Leandro Supercenter",
         "type": "Supercenter",
         "address": "15555 HESPERIAN BLVD, San Leandro, CA 94579-1801",
-        "phone": "",
+        "phone": "510-351-0108",
         "city": "San Leandro",
         "state": "CA"
     },
@@ -38591,7 +38591,7 @@ const STORES = {
         "name": "San Jose Supercenter",
         "type": "Supercenter",
         "address": "777 STORY RD, San Jose, CA 95122-2628",
-        "phone": "",
+        "phone": "408-885-1142",
         "city": "San Jose",
         "state": "CA"
     },
@@ -38618,7 +38618,7 @@ const STORES = {
         "name": "New Haven Supercenter",
         "type": "Supercenter",
         "address": "315 FOXON BLVD, New Haven, CT 06513-2355",
-        "phone": "",
+        "phone": "203-467-7509",
         "city": "New Haven",
         "state": "CT"
     },
@@ -38726,7 +38726,7 @@ const STORES = {
         "name": "Cape Coral Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3920 SKYLINE BLVD, Cape Coral, FL 33914-5835",
-        "phone": "",
+        "phone": "239-540-2245",
         "city": "Cape Coral",
         "state": "FL"
     },
@@ -38744,7 +38744,7 @@ const STORES = {
         "name": "Cape Coral Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "505 SW PINE ISLAND RD, Cape Coral, FL 33991-1962",
-        "phone": "",
+        "phone": "239-458-7530",
         "city": "Cape Coral",
         "state": "FL"
     },
@@ -38753,7 +38753,7 @@ const STORES = {
         "name": "Palm Bay Supercenter",
         "type": "Supercenter",
         "address": "1040 MALABAR RD SE, Palm Bay, FL 32907-3251",
-        "phone": "",
+        "phone": "321-723-2171",
         "city": "Palm Bay",
         "state": "FL"
     },
@@ -38762,7 +38762,7 @@ const STORES = {
         "name": "Delta Supercenter",
         "type": "Supercenter",
         "address": "37 STAFFORD LN, Delta, CO 81416-3465",
-        "phone": "",
+        "phone": "970-874-1585",
         "city": "Delta",
         "state": "CO"
     },
@@ -39059,7 +39059,7 @@ const STORES = {
         "name": "Rancho Santa Margarita Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "30491 AVENIDA DE LAS FLORES, Rancho Santa Margarita, CA 92688-3923",
-        "phone": "",
+        "phone": "949-207-5070",
         "city": "Rancho Santa Margarita",
         "state": "CA"
     },
@@ -39068,7 +39068,7 @@ const STORES = {
         "name": "Huntington Beach Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "21132 BEACH BLVD, Huntington Beach, CA 92648-5404",
-        "phone": "",
+        "phone": "714-274-4484",
         "city": "Huntington Beach",
         "state": "CA"
     },
@@ -39077,7 +39077,7 @@ const STORES = {
         "name": "Carson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "20226 AVALON BLVD, Carson, CA 90746-3829",
-        "phone": "",
+        "phone": "424-233-3317",
         "city": "Carson",
         "state": "CA"
     },
@@ -39086,7 +39086,7 @@ const STORES = {
         "name": "Downey Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "12270 PARAMOUNT BLVD, Downey, CA 90242-3549",
-        "phone": "",
+        "phone": "562-622-4891",
         "city": "Downey",
         "state": "CA"
     },
@@ -39095,7 +39095,7 @@ const STORES = {
         "name": "Hawthorne Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "14441 INGLEWOOD AVE, Hawthorne, CA 90250-6715",
-        "phone": "",
+        "phone": "424-336-2212",
         "city": "Hawthorne",
         "state": "CA"
     },
@@ -39104,7 +39104,7 @@ const STORES = {
         "name": "Panorama City Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "14530 NORDHOFF ST, Panorama City, CA 91402-1811",
-        "phone": "",
+        "phone": "818-672-0142",
         "city": "Panorama City",
         "state": "CA"
     },
@@ -39113,7 +39113,7 @@ const STORES = {
         "name": "Woodland Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1250 E GIBSON RD, Woodland, CA 95776-6315",
-        "phone": "",
+        "phone": "530-665-4306",
         "city": "Woodland",
         "state": "CA"
     },
@@ -39122,7 +39122,7 @@ const STORES = {
         "name": "Vacaville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "941 ALAMO DR, Vacaville, CA 95687-5601",
-        "phone": "",
+        "phone": "707-359-3180",
         "city": "Vacaville",
         "state": "CA"
     },
@@ -39131,7 +39131,7 @@ const STORES = {
         "name": "Vallejo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "501 SERENO DR, Vallejo, CA 94589-2460",
-        "phone": "",
+        "phone": "707-653-1058",
         "city": "Vallejo",
         "state": "CA"
     },
@@ -39140,7 +39140,7 @@ const STORES = {
         "name": "San Ramon Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9100 ALCOSTA BLVD, San Ramon, CA 94583-3857",
-        "phone": "",
+        "phone": "925-364-9207",
         "city": "San Ramon",
         "state": "CA"
     },
@@ -39185,7 +39185,7 @@ const STORES = {
         "name": "Hialeah Gardens Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "11800 HIALEAH GARDENS BLVD, Hialeah Gardens, FL 33018-0000",
-        "phone": "",
+        "phone": "305-913-1168",
         "city": "Hialeah Gardens",
         "state": "FL"
     },
@@ -39212,7 +39212,7 @@ const STORES = {
         "name": "Riverview Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "10863 BLOOMINGDALE AVE, Riverview, FL 33578-3616",
-        "phone": "",
+        "phone": "813-261-3596",
         "city": "Riverview",
         "state": "FL"
     },
@@ -39221,7 +39221,7 @@ const STORES = {
         "name": "Gulf Breeze Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "334 GULF BREEZE PKWY, Gulf Breeze, FL 32561-4492",
-        "phone": "",
+        "phone": "850-733-5019",
         "city": "Gulf Breeze",
         "state": "FL"
     },
@@ -39239,7 +39239,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "1260 E TUCSON MARKETPLACE BLVD, Tucson, AZ 85713-6508",
-        "phone": "",
+        "phone": "520-917-0108",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -39266,7 +39266,7 @@ const STORES = {
         "name": "Eureka Supercenter",
         "type": "Supercenter",
         "address": "3300 BROADWAY BAYSHORE MALL, Eureka, CA 95501-0000",
-        "phone": "",
+        "phone": "707-832-5269",
         "city": "Eureka",
         "state": "CA"
     },
@@ -39275,7 +39275,7 @@ const STORES = {
         "name": "Fresno Supercenter",
         "type": "Supercenter",
         "address": "1804 E ASHLAN AVE, Fresno, CA 93726-2019",
-        "phone": "",
+        "phone": "559-470-6967",
         "city": "Fresno",
         "state": "CA"
     },
@@ -39284,7 +39284,7 @@ const STORES = {
         "name": "Clovis Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1830 SHAW AVE, Clovis, CA 93611-0000",
-        "phone": "",
+        "phone": "559-862-2718",
         "city": "Clovis",
         "state": "CA"
     },
@@ -39293,7 +39293,7 @@ const STORES = {
         "name": "Fresno Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6855 N WILLOW AVE, Fresno, CA 93710-0000",
-        "phone": "",
+        "phone": "559-862-2062",
         "city": "Fresno",
         "state": "CA"
     },
@@ -39302,7 +39302,7 @@ const STORES = {
         "name": "Visalia Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1320 N DEMAREE ST, Visalia, CA 93291-7714",
-        "phone": "",
+        "phone": "559-429-3264",
         "city": "Visalia",
         "state": "CA"
     },
@@ -39311,7 +39311,7 @@ const STORES = {
         "name": "Oceanside Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1046 MISSION AVE, Oceanside, CA 92054-2843",
-        "phone": "",
+        "phone": "760-696-9906",
         "city": "Oceanside",
         "state": "CA"
     },
@@ -39320,7 +39320,7 @@ const STORES = {
         "name": "Anaheim Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1120 S ANAHEIM BLVD, Anaheim, CA 92805-5810",
-        "phone": "",
+        "phone": "657-208-5201",
         "city": "Anaheim",
         "state": "CA"
     },
@@ -39329,7 +39329,7 @@ const STORES = {
         "name": "La Habra Supercenter",
         "type": "Supercenter",
         "address": "1000 E IMPERIAL HWY, La Habra, CA 90631-7452",
-        "phone": "",
+        "phone": "714-869-0530",
         "city": "La Habra",
         "state": "CA"
     },
@@ -39338,7 +39338,7 @@ const STORES = {
         "name": "Oxnard Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "421 W ESPLANADE DR, Oxnard, CA 93036-1298",
-        "phone": "",
+        "phone": "805-604-2082",
         "city": "Oxnard",
         "state": "CA"
     },
@@ -39347,7 +39347,7 @@ const STORES = {
         "name": "Irvine Supercenter",
         "type": "Supercenter",
         "address": "16555 VON KARMAN AVE, Irvine, CA 92606-4928",
-        "phone": "",
+        "phone": "949-623-7467",
         "city": "Irvine",
         "state": "CA"
     },
@@ -39392,7 +39392,7 @@ const STORES = {
         "name": "Santa Maria Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2240 S BRADLEY RD, Santa Maria, CA 93455-1348",
-        "phone": "",
+        "phone": "805-348-4951",
         "city": "Santa Maria",
         "state": "CA"
     },
@@ -39401,7 +39401,7 @@ const STORES = {
         "name": "Santa Maria Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "500 S BLOSSER RD, Santa Maria, CA 93458-4910",
-        "phone": "",
+        "phone": "805-863-9145",
         "city": "Santa Maria",
         "state": "CA"
     },
@@ -39410,7 +39410,7 @@ const STORES = {
         "name": "La Mirada Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "14865 TELEGRAPH ROAD, La Mirada, CA 90638-0000",
-        "phone": "",
+        "phone": "562-567-6488",
         "city": "La Mirada",
         "state": "CA"
     },
@@ -39419,7 +39419,7 @@ const STORES = {
         "name": "Jurupa Valley Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8844 LIMONITE AVE, Jurupa Valley, CA 92509-5021",
-        "phone": "",
+        "phone": "951-968-7218",
         "city": "Jurupa Valley",
         "state": "CA"
     },
@@ -39428,7 +39428,7 @@ const STORES = {
         "name": "Camarillo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "275 WEST VENTURA BLVD, Camarillo, CA 93010-8359",
-        "phone": "",
+        "phone": "805-233-3378",
         "city": "Camarillo",
         "state": "CA"
     },
@@ -39464,7 +39464,7 @@ const STORES = {
         "name": "Clearwater Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2171 GULF TO BAY BLVD, Clearwater, FL 33765-3902",
-        "phone": "",
+        "phone": "727-431-4900",
         "city": "Clearwater",
         "state": "FL"
     },
@@ -39473,7 +39473,7 @@ const STORES = {
         "name": "Homestead Supercenter",
         "type": "Supercenter",
         "address": "13600 SW 288TH ST, Homestead, FL 33033-1905",
-        "phone": "",
+        "phone": "305-910-2965",
         "city": "Homestead",
         "state": "FL"
     },
@@ -39509,7 +39509,7 @@ const STORES = {
         "name": "Denver Supercenter",
         "type": "Supercenter",
         "address": "2770 WEST EVANS AVENUE, Denver, CO 80219-5575",
-        "phone": "",
+        "phone": "303-222-7043",
         "city": "Denver",
         "state": "CO"
     },
@@ -39527,7 +39527,7 @@ const STORES = {
         "name": "Elk Grove Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8455 ELK GROVE BLVD, Elk Grove, CA 95758-9573",
-        "phone": "",
+        "phone": "916-509-3170",
         "city": "Elk Grove",
         "state": "CA"
     },
@@ -39536,7 +39536,7 @@ const STORES = {
         "name": "La Mesa Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8810 GROSSMONT BLVD, La Mesa, CA 91942-9027",
-        "phone": "",
+        "phone": "619-403-5392",
         "city": "La Mesa",
         "state": "CA"
     },
@@ -39545,7 +39545,7 @@ const STORES = {
         "name": "Burbank Supercenter",
         "type": "Supercenter",
         "address": "1301 N VICTORY PL, Burbank, CA 91502-1649",
-        "phone": "",
+        "phone": "747-261-7243",
         "city": "Burbank",
         "state": "CA"
     },
@@ -39554,7 +39554,7 @@ const STORES = {
         "name": "Palmdale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3875 RANCHO VISTA BOULEVARD, Palmdale, CA 93551-2572",
-        "phone": "",
+        "phone": "661-202-3602",
         "city": "Palmdale",
         "state": "CA"
     },
@@ -39563,7 +39563,7 @@ const STORES = {
         "name": "Upland Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1445 E FOOTHILL BLVD, Upland, CA 91786-4054",
-        "phone": "",
+        "phone": "909-942-4931",
         "city": "Upland",
         "state": "CA"
     },
@@ -39608,7 +39608,7 @@ const STORES = {
         "name": "Kerman Supercenter",
         "type": "Supercenter",
         "address": "14061 W. WHITESBRIDGE AVENUE, Kerman, CA 93630-0000",
-        "phone": "",
+        "phone": "559-846-1200",
         "city": "Kerman",
         "state": "CA"
     },
@@ -39635,7 +39635,7 @@ const STORES = {
         "name": "Port Saint Lucie Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3045 SW PORT ST LUCIE BLVD, Port Saint Lucie, FL 34953-3226",
-        "phone": "",
+        "phone": "772-301-6125",
         "city": "Port Saint Lucie",
         "state": "FL"
     },
@@ -39653,7 +39653,7 @@ const STORES = {
         "name": "Little Rock Supercenter",
         "type": "Supercenter",
         "address": "700 BOWMAN RD, Little Rock, AR 72211-0000",
-        "phone": "",
+        "phone": "501-859-8703",
         "city": "Little Rock",
         "state": "AR"
     },
@@ -39680,7 +39680,7 @@ const STORES = {
         "name": "Modesto Supercenter",
         "type": "Supercenter",
         "address": "3848 MCHENRY AVE, Modesto, CA 95356-1586",
-        "phone": "",
+        "phone": "209-342-0949",
         "city": "Modesto",
         "state": "CA"
     },
@@ -39725,7 +39725,7 @@ const STORES = {
         "name": "Miami Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "14720 SW 26TH ST, Miami, FL 33185-5830",
-        "phone": "",
+        "phone": "786-584-4759",
         "city": "Miami",
         "state": "FL"
     },
@@ -39743,7 +39743,7 @@ const STORES = {
         "name": "Tucson Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "831 E FORT LOWELL ROAD, Tucson, AZ 85719-0000",
-        "phone": "",
+        "phone": "520-719-6349",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -39761,7 +39761,7 @@ const STORES = {
         "name": "Bradenton Supercenter",
         "type": "Supercenter",
         "address": "5810 RANCH LAKE BLVD, Bradenton, FL 34202-3708",
-        "phone": "",
+        "phone": "941-799-5538",
         "city": "Bradenton",
         "state": "FL"
     },
@@ -39815,7 +39815,7 @@ const STORES = {
         "name": "Fayetteville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3475 W BLACK FOREST DRIVE, Fayetteville, AR 72704-6524",
-        "phone": "",
+        "phone": "479-442-1778",
         "city": "Fayetteville",
         "state": "AR"
     },
@@ -39824,7 +39824,7 @@ const STORES = {
         "name": "Springdale Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3553 E ROBINSON AVE, Springdale, AR 72764-0218",
-        "phone": "",
+        "phone": "479-750-4683",
         "city": "Springdale",
         "state": "AR"
     },
@@ -39842,7 +39842,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9047 CURRY FORD RD, Orlando, FL 32825-7604",
-        "phone": "",
+        "phone": "407-845-6531",
         "city": "Orlando",
         "state": "FL"
     },
@@ -39896,7 +39896,7 @@ const STORES = {
         "name": "Salinas Supercenter",
         "type": "Supercenter",
         "address": "1375 N DAVIS RD., Salinas, CA 93907-0000",
-        "phone": "",
+        "phone": "831-998-9080",
         "city": "Salinas",
         "state": "CA"
     },
@@ -39941,7 +39941,7 @@ const STORES = {
         "name": "Greenacres Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3911 S JOG RD, Greenacres, FL 33467-1590",
-        "phone": "",
+        "phone": "561-964-6337",
         "city": "Greenacres",
         "state": "FL"
     },
@@ -39950,7 +39950,7 @@ const STORES = {
         "name": "Lake Worth Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6177 S JOG RD, Lake Worth, FL 33467-6503",
-        "phone": "",
+        "phone": "561-964-5008",
         "city": "Lake Worth",
         "state": "FL"
     },
@@ -39995,7 +39995,7 @@ const STORES = {
         "name": "Morgan Hill Supercenter",
         "type": "Supercenter",
         "address": "170 COCHRANE PLZ, Morgan Hill, CA 95037-2812",
-        "phone": "",
+        "phone": "408-779-8172",
         "city": "Morgan Hill",
         "state": "CA"
     },
@@ -40013,7 +40013,7 @@ const STORES = {
         "name": "Tempe Supercenter",
         "type": "Supercenter",
         "address": "800 E SOUTHERN AVE, Tempe, AZ 85282-5225",
-        "phone": "",
+        "phone": "480-966-0264",
         "city": "Tempe",
         "state": "AZ"
     },
@@ -40031,7 +40031,7 @@ const STORES = {
         "name": "Pensacola Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1525 E NINE MILE RD, Pensacola, FL 32514-5725",
-        "phone": "",
+        "phone": "850-462-6529",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -40040,7 +40040,7 @@ const STORES = {
         "name": "Lecanto Supercenter",
         "type": "Supercenter",
         "address": "1936 N LECANTO HWY, Lecanto, FL 34461-9680",
-        "phone": "",
+        "phone": "352-228-6000",
         "city": "Lecanto",
         "state": "FL"
     },
@@ -40076,7 +40076,7 @@ const STORES = {
         "name": "Brooklyn Supercenter",
         "type": "Supercenter",
         "address": "450 PROVIDENCE ROAD, Brooklyn, CT 06234-1504",
-        "phone": "",
+        "phone": "860-412-5137",
         "city": "Brooklyn",
         "state": "CT"
     },
@@ -40094,7 +40094,7 @@ const STORES = {
         "name": "Paragould Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2600 LINWOOD DR, Paragould, AR 72450-6125",
-        "phone": "",
+        "phone": "870-586-7946",
         "city": "Paragould",
         "state": "AR"
     },
@@ -40130,7 +40130,7 @@ const STORES = {
         "name": "Hot Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1640 AIRPORT RD, Hot Springs, AR 71913-7950",
-        "phone": "",
+        "phone": "501-262-7509",
         "city": "Hot Springs",
         "state": "AR"
     },
@@ -40139,7 +40139,7 @@ const STORES = {
         "name": "Hot Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1544 MALVERN AVE, Hot Springs, AR 71901-6535",
-        "phone": "",
+        "phone": "501-262-7520",
         "city": "Hot Springs",
         "state": "AR"
     },
@@ -40184,7 +40184,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "2711 S HOUGHTON RD, Tucson, AZ 85730-3104",
-        "phone": "",
+        "phone": "520-918-0087",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -40238,7 +40238,7 @@ const STORES = {
         "name": "Compton Supercenter",
         "type": "Supercenter",
         "address": "2100 N LONG BEACH BLVD, Compton, CA 90221-1252",
-        "phone": "",
+        "phone": "562-295-3870",
         "city": "Compton",
         "state": "CA"
     },
@@ -40310,7 +40310,7 @@ const STORES = {
         "name": "Jacksonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1650 SAN PABLO RD S, Jacksonville, FL 32224-1036",
-        "phone": "",
+        "phone": "904-380-3231",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -40319,7 +40319,7 @@ const STORES = {
         "name": "Jacksonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "8011 MERRILL RD, Jacksonville, FL 32277-6545",
-        "phone": "",
+        "phone": "904-380-8325",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -40328,7 +40328,7 @@ const STORES = {
         "name": "Jacksonville Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "10550 OLD ST AUGUSTINE RD, Jacksonville, FL 32257-8660",
-        "phone": "",
+        "phone": "904-380-8271",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -40337,7 +40337,7 @@ const STORES = {
         "name": "Fruit Cove Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "445 STATE ROAD 13, Fruit Cove, FL 32259-3838",
-        "phone": "",
+        "phone": "904-417-9085",
         "city": "Fruit Cove",
         "state": "FL"
     },
@@ -40346,7 +40346,7 @@ const STORES = {
         "name": "Middleburg Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2570 COUNTY ROAD 220, Middleburg, FL 32068-6532",
-        "phone": "",
+        "phone": "904-406-6013",
         "city": "Middleburg",
         "state": "FL"
     },
@@ -40373,7 +40373,7 @@ const STORES = {
         "name": "Brandon Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "901 LITHIA PINECREST RD, Brandon, FL 33511-6120",
-        "phone": "",
+        "phone": "813-261-0267",
         "city": "Brandon",
         "state": "FL"
     },
@@ -40382,7 +40382,7 @@ const STORES = {
         "name": "Pueblo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2730 S PRAIRIE AVE, Pueblo, CO 81005-3167",
-        "phone": "",
+        "phone": "719-696-6149",
         "city": "Pueblo",
         "state": "CO"
     },
@@ -40400,7 +40400,7 @@ const STORES = {
         "name": "Largo Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "13817 WALSINGHAM RD, Largo, FL 33774-3243",
-        "phone": "",
+        "phone": "727-593-9294",
         "city": "Largo",
         "state": "FL"
     },
@@ -40418,7 +40418,7 @@ const STORES = {
         "name": "Cave Creek Supercenter",
         "type": "Supercenter",
         "address": "34399 N CAVE CREEK RD, Cave Creek, AZ 85331-5134",
-        "phone": "",
+        "phone": "480-296-7398",
         "city": "Cave Creek",
         "state": "AZ"
     },
@@ -40427,7 +40427,7 @@ const STORES = {
         "name": "Rogers Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5000 W PAULINE WHITAKER PKWY, Rogers, AR 72758-9104",
-        "phone": "",
+        "phone": "479-254-1004",
         "city": "Rogers",
         "state": "AR"
     },
@@ -40472,7 +40472,7 @@ const STORES = {
         "name": "Patterson Supercenter",
         "type": "Supercenter",
         "address": "1030 SPERRY AVE, Patterson, CA 95363-9267",
-        "phone": "",
+        "phone": "209-895-4407",
         "city": "Patterson",
         "state": "CA"
     },
@@ -40490,7 +40490,7 @@ const STORES = {
         "name": "Niceville Supercenter",
         "type": "Supercenter",
         "address": "1300 JOHN SIMS PKWY E, Niceville, FL 32578-2208",
-        "phone": "",
+        "phone": "850-389-3013",
         "city": "Niceville",
         "state": "FL"
     },
@@ -40499,7 +40499,7 @@ const STORES = {
         "name": "Kissimmee Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3183 W VINE ST, Kissimmee, FL 34741-3738",
-        "phone": "",
+        "phone": "407-452-0224",
         "city": "Kissimmee",
         "state": "FL"
     },
@@ -40517,7 +40517,7 @@ const STORES = {
         "name": "Elk Grove Supercenter",
         "type": "Supercenter",
         "address": "10075 BRUCEVILLE RD, Elk Grove, CA 95757-9501",
-        "phone": "",
+        "phone": "916-585-7344",
         "city": "Elk Grove",
         "state": "CA"
     },
@@ -40544,7 +40544,7 @@ const STORES = {
         "name": "Miami Supercenter",
         "type": "Supercenter",
         "address": "8400 CORAL WAY, Miami, FL 33155-2334",
-        "phone": "",
+        "phone": "305-351-0725",
         "city": "Miami",
         "state": "FL"
     },
@@ -40571,7 +40571,7 @@ const STORES = {
         "name": "Tucson Supercenter",
         "type": "Supercenter",
         "address": "9260 S HOUGHTON RD, Tucson, AZ 85747-9732",
-        "phone": "",
+        "phone": "520-329-6674",
         "city": "Tucson",
         "state": "AZ"
     },
@@ -40580,7 +40580,7 @@ const STORES = {
         "name": "Wasco Supercenter",
         "type": "Supercenter",
         "address": "401 N CENTRAL AVE, Wasco, CA 93280-1300",
-        "phone": "",
+        "phone": "661-772-8061",
         "city": "Wasco",
         "state": "CA"
     },
@@ -40643,7 +40643,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "5734 S ORANGE BLOSSOM TRL, Orlando, FL 32839-3916",
-        "phone": "",
+        "phone": "321-247-4817",
         "city": "Orlando",
         "state": "FL"
     },
@@ -40652,7 +40652,7 @@ const STORES = {
         "name": "Santa Rosa Beach Supercenter",
         "type": "Supercenter",
         "address": "6712 US HIGHWAY 98 W, Santa Rosa Beach, FL 32459-6900",
-        "phone": "",
+        "phone": "850-622-6237",
         "city": "Santa Rosa Beach",
         "state": "FL"
     },
@@ -40661,7 +40661,7 @@ const STORES = {
         "name": "Torrance Supercenter",
         "type": "Supercenter",
         "address": "22015 HAWTHORNE BLVD, Torrance, CA 90503-7006",
-        "phone": "",
+        "phone": "310-750-0179",
         "city": "Torrance",
         "state": "CA"
     },
@@ -40670,7 +40670,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "12550 S ORANGE BLOSSOM TRL, Orlando, FL 32837-8500",
-        "phone": "",
+        "phone": "407-541-1273",
         "city": "Orlando",
         "state": "FL"
     },
@@ -40679,7 +40679,7 @@ const STORES = {
         "name": "Dunedin Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2102 MAIN ST, Dunedin, FL 34698-5604",
-        "phone": "",
+        "phone": "727-431-0152",
         "city": "Dunedin",
         "state": "FL"
     },
@@ -40715,7 +40715,7 @@ const STORES = {
         "name": "Palm Springs Supercenter",
         "type": "Supercenter",
         "address": "2765 10TH AVE N, Palm Springs, FL 33461-3185",
-        "phone": "",
+        "phone": "561-223-4357",
         "city": "Palm Springs",
         "state": "FL"
     },
@@ -40733,7 +40733,7 @@ const STORES = {
         "name": "San Jose Supercenter",
         "type": "Supercenter",
         "address": "5095 ALMADEN EXPY, San Jose, CA 95118-2051",
-        "phone": "",
+        "phone": "408-600-3072",
         "city": "San Jose",
         "state": "CA"
     },
@@ -40742,7 +40742,7 @@ const STORES = {
         "name": "Encinitas Supercenter",
         "type": "Supercenter",
         "address": "1550 LEUCADIA BLVD, Encinitas, CA 92024-2371",
-        "phone": "",
+        "phone": "760-704-0243",
         "city": "Encinitas",
         "state": "CA"
     },
@@ -40769,7 +40769,7 @@ const STORES = {
         "name": "Atwater Supercenter",
         "type": "Supercenter",
         "address": "800 COMMERCE AVE, Atwater, CA 95301-5217",
-        "phone": "",
+        "phone": "209-676-3087",
         "city": "Atwater",
         "state": "CA"
     },
@@ -40796,7 +40796,7 @@ const STORES = {
         "name": "Oviedo Supercenter",
         "type": "Supercenter",
         "address": "5511 DEEP LAKE RD, Oviedo, FL 32765-5239",
-        "phone": "",
+        "phone": "407-618-5013",
         "city": "Oviedo",
         "state": "FL"
     },
@@ -40841,7 +40841,7 @@ const STORES = {
         "name": "Boynton Beach Supercenter",
         "type": "Supercenter",
         "address": "3625 S FEDERAL HWY, Boynton Beach, FL 33435-8656",
-        "phone": "",
+        "phone": "561-600-3088",
         "city": "Boynton Beach",
         "state": "FL"
     },
@@ -40850,7 +40850,7 @@ const STORES = {
         "name": "Miami Supercenter",
         "type": "Supercenter",
         "address": "21151 S DIXIE HWY, Miami, FL 33189-2724",
-        "phone": "",
+        "phone": "305-964-4206",
         "city": "Miami",
         "state": "FL"
     },
@@ -40904,7 +40904,7 @@ const STORES = {
         "name": "Anaheim Supercenter",
         "type": "Supercenter",
         "address": "88 E ORANGETHORPE AVE, Anaheim, CA 92801-1206",
-        "phone": "",
+        "phone": "714-447-6751",
         "city": "Anaheim",
         "state": "CA"
     },
@@ -40913,7 +40913,7 @@ const STORES = {
         "name": "Pembroke Pines Supercenter",
         "type": "Supercenter",
         "address": "12800 PINES BLVD, Pembroke Pines, FL 33027-1708",
-        "phone": "",
+        "phone": "954-378-1542",
         "city": "Pembroke Pines",
         "state": "FL"
     },
@@ -40940,7 +40940,7 @@ const STORES = {
         "name": "San Diego Supercenter",
         "type": "Supercenter",
         "address": "575 SATURN BLVD, San Diego, CA 92154-4731",
-        "phone": "",
+        "phone": "619-205-6140",
         "city": "San Diego",
         "state": "CA"
     },
@@ -40958,7 +40958,7 @@ const STORES = {
         "name": "Hialeah Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "400 W 49TH ST, Hialeah, FL 33012-3603",
-        "phone": "",
+        "phone": "305-507-2044",
         "city": "Hialeah",
         "state": "FL"
     },
@@ -40976,7 +40976,7 @@ const STORES = {
         "name": "Visalia Supercenter",
         "type": "Supercenter",
         "address": "3750 S MOONEY BLVD, Visalia, CA 93277-8021",
-        "phone": "",
+        "phone": "559-802-4429",
         "city": "Visalia",
         "state": "CA"
     },
@@ -40985,7 +40985,7 @@ const STORES = {
         "name": "Lakeside Supercenter",
         "type": "Supercenter",
         "address": "5957 W 44TH AVE, Lakeside, CO 80212-7410",
-        "phone": "",
+        "phone": "303-222-4455",
         "city": "Lakeside",
         "state": "CO"
     },
@@ -41048,7 +41048,7 @@ const STORES = {
         "name": "Washington Supercenter",
         "type": "Supercenter",
         "address": "5929 GEORGIA AVE NW, Washington, DC 20011-5101",
-        "phone": "",
+        "phone": "202-719-3770",
         "city": "Washington",
         "state": "DC"
     },
@@ -41084,7 +41084,7 @@ const STORES = {
         "name": "Lincoln Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "255 LINCOLN BLVD, Lincoln, CA 95648-1880",
-        "phone": "",
+        "phone": "916-209-5129",
         "city": "Lincoln",
         "state": "CA"
     },
@@ -41093,7 +41093,7 @@ const STORES = {
         "name": "Carmichael Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "6005 MADISON AVE, Carmichael, CA 95608-0521",
-        "phone": "",
+        "phone": "916-534-1157",
         "city": "Carmichael",
         "state": "CA"
     },
@@ -41102,7 +41102,7 @@ const STORES = {
         "name": "Sacramento Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2700 MARCONI AVE, Sacramento, CA 95821-4914",
-        "phone": "",
+        "phone": "916-576-6657",
         "city": "Sacramento",
         "state": "CA"
     },
@@ -41120,7 +41120,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2271 N SEMORAN BLVD, Orlando, FL 32807-3707",
-        "phone": "",
+        "phone": "407-551-5160",
         "city": "Orlando",
         "state": "FL"
     },
@@ -41174,7 +41174,7 @@ const STORES = {
         "name": "Escondido Supercenter",
         "type": "Supercenter",
         "address": "1330 E GRAND AVE, Escondido, CA 92027-3019",
-        "phone": "",
+        "phone": "760-871-6622",
         "city": "Escondido",
         "state": "CA"
     },
@@ -41183,7 +41183,7 @@ const STORES = {
         "name": "Orlando Supercenter",
         "type": "Supercenter",
         "address": "9600 PARKSOUTH COURT, Orlando, FL 32837-0000",
-        "phone": "",
+        "phone": "407-826-6951",
         "city": "Orlando",
         "state": "FL"
     },
@@ -41210,7 +41210,7 @@ const STORES = {
         "name": "Orlando Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "13801 LANDSTAR BLVD, Orlando, FL 32824-5525",
-        "phone": "",
+        "phone": "407-723-4435",
         "city": "Orlando",
         "state": "FL"
     },
@@ -41318,7 +41318,7 @@ const STORES = {
         "name": "Labelle Supercenter",
         "type": "Supercenter",
         "address": "1951 W HICKPOCHEE AVE, Labelle, FL 33935-0000",
-        "phone": "",
+        "phone": "863-302-6012",
         "city": "Labelle",
         "state": "FL"
     },
@@ -42506,7 +42506,7 @@ const STORES = {
         "name": "Miami Supercenter",
         "type": "Supercenter",
         "address": "15601 SW 127TH AVE, Miami, FL 33177-1406",
-        "phone": "",
+        "phone": "305-964-3765",
         "city": "Miami",
         "state": "FL"
     },
@@ -42515,7 +42515,7 @@ const STORES = {
         "name": "Deltona Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1569 SAXON BLVD, Deltona, FL 32725-5833",
-        "phone": "",
+        "phone": "386-457-6185",
         "city": "Deltona",
         "state": "FL"
     },
@@ -43100,7 +43100,7 @@ const STORES = {
         "name": "Phoenix Supercenter",
         "type": "Supercenter",
         "address": "9600 N METRO PKWY W, Phoenix, AZ 85051-1402",
-        "phone": "",
+        "phone": "480-337-0171",
         "city": "Phoenix",
         "state": "AZ"
     },
@@ -43118,7 +43118,7 @@ const STORES = {
         "name": "Chandler Supercenter",
         "type": "Supercenter",
         "address": "3460 W CHANDLER BLVD, Chandler, AZ 85226-5065",
-        "phone": "",
+        "phone": "480-333-2654",
         "city": "Chandler",
         "state": "AZ"
     },
@@ -43334,7 +43334,7 @@ const STORES = {
         "name": "Pensacola Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "9301 PINE FOREST RD, Pensacola, FL 32534-9349",
-        "phone": "",
+        "phone": "850-483-6007",
         "city": "Pensacola",
         "state": "FL"
     },
@@ -44342,7 +44342,7 @@ const STORES = {
         "name": "Jonesboro Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "3319 HARRISBURG ROAD, Jonesboro, AR 72404-0000",
-        "phone": "",
+        "phone": "870-203-7018",
         "city": "Jonesboro",
         "state": "AR"
     },
@@ -44378,7 +44378,7 @@ const STORES = {
         "name": "Apopka Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "820 BALMY BEACH DR, Apopka, FL 32703-5937",
-        "phone": "",
+        "phone": "407-457-6291",
         "city": "Apopka",
         "state": "FL"
     },
@@ -44432,7 +44432,7 @@ const STORES = {
         "name": "Port Charlotte Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2150 TAMIAMI TRL, Port Charlotte, FL 33948-2136",
-        "phone": "",
+        "phone": "941-249-6124",
         "city": "Port Charlotte",
         "state": "FL"
     },
@@ -44441,7 +44441,7 @@ const STORES = {
         "name": "Cape Coral Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2020 NE PINE ISLAND RD, Cape Coral, FL 33909-1766",
-        "phone": "",
+        "phone": "239-800-6068",
         "city": "Cape Coral",
         "state": "FL"
     },
@@ -44459,7 +44459,7 @@ const STORES = {
         "name": "Jonesboro Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2811 CREEK DR, Jonesboro, AR 72401-5377",
-        "phone": "",
+        "phone": "870-203-7009",
         "city": "Jonesboro",
         "state": "AR"
     },
@@ -44486,7 +44486,7 @@ const STORES = {
         "name": "Centerton Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1800 E CENTERTON BLVD, Centerton, AR 72712-9376",
-        "phone": "",
+        "phone": "479-795-4100",
         "city": "Centerton",
         "state": "AR"
     },
@@ -44504,7 +44504,7 @@ const STORES = {
         "name": "Siloam Springs Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "935 S HOLLY ST, Siloam Springs, AR 72761-3802",
-        "phone": "",
+        "phone": "479-549-9060",
         "city": "Siloam Springs",
         "state": "AR"
     },
@@ -44549,7 +44549,7 @@ const STORES = {
         "name": "Lake Worth Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4105 S STATE ROAD 7, Lake Worth, FL 33449-8145",
-        "phone": "",
+        "phone": "561-207-3474",
         "city": "Lake Worth",
         "state": "FL"
     },
@@ -44558,7 +44558,7 @@ const STORES = {
         "name": "Riverview Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "10327 BIG BEND RD, Riverview, FL 33578-7414",
-        "phone": "",
+        "phone": "813-498-4099",
         "city": "Riverview",
         "state": "FL"
     },
@@ -44567,7 +44567,7 @@ const STORES = {
         "name": "Pea Ridge Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "240 SLACK STREET, Pea Ridge, AR 72751-0000",
-        "phone": "",
+        "phone": "479-451-9002",
         "city": "Pea Ridge",
         "state": "AR"
     },
@@ -44576,7 +44576,7 @@ const STORES = {
         "name": "Cabot Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1203 S PINE ST, Cabot, AR 72023-3809",
-        "phone": "",
+        "phone": "501-628-9200",
         "city": "Cabot",
         "state": "AR"
     },
@@ -44594,7 +44594,7 @@ const STORES = {
         "name": "Jacksonville Supercenter",
         "type": "Supercenter",
         "address": "7075 COLLINS RD, Jacksonville, FL 32244-5041",
-        "phone": "",
+        "phone": "904-365-2555",
         "city": "Jacksonville",
         "state": "FL"
     },
@@ -44945,7 +44945,7 @@ const STORES = {
         "name": "North Port Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "1100 S MAIN ST, North Port, FL 34287-3500",
-        "phone": "",
+        "phone": "941-240-3079",
         "city": "North Port",
         "state": "FL"
     },
@@ -45035,7 +45035,7 @@ const STORES = {
         "name": "Farmington Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "367 W MAIN ST, Farmington, AR 72730-0000",
-        "phone": "",
+        "phone": "479-267-0040",
         "city": "Farmington",
         "state": "AR"
     },
@@ -45215,7 +45215,7 @@ const STORES = {
         "name": "Sarasota Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "5401 PALMER CROSSING CIR, Sarasota, FL 34233-3208",
-        "phone": "",
+        "phone": "941-554-2353",
         "city": "Sarasota",
         "state": "FL"
     },
@@ -45224,7 +45224,7 @@ const STORES = {
         "name": "Port St Lucie Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "902 SW SAINT LUCIE WEST BLVD, Port St Lucie, FL 34986-1766",
-        "phone": "",
+        "phone": "772-446-8740",
         "city": "Port St Lucie",
         "state": "FL"
     },
@@ -45251,7 +45251,7 @@ const STORES = {
         "name": "Bradenton Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "4536 53RD AVE E, Bradenton, FL 34203-4112",
-        "phone": "",
+        "phone": "941-213-6911",
         "city": "Bradenton",
         "state": "FL"
     },
@@ -45296,7 +45296,7 @@ const STORES = {
         "name": "Greenbrier Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "75 SOUTH BROADVIEW, Greenbrier, AR 72058-0000",
-        "phone": "",
+        "phone": "501-287-6001",
         "city": "Greenbrier",
         "state": "AR"
     },
@@ -45305,7 +45305,7 @@ const STORES = {
         "name": "Yuma Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "2675 W 8TH ST, Yuma, AZ 85364-3098",
-        "phone": "",
+        "phone": "928-261-4120",
         "city": "Yuma",
         "state": "AZ"
     },
@@ -45431,7 +45431,7 @@ const STORES = {
         "name": "Bentonville Supercenter",
         "type": "Supercenter",
         "address": "1300 S WALTON BLVD, Bentonville, AR 72712-0000",
-        "phone": "",
+        "phone": "479-271-2209",
         "city": "Bentonville",
         "state": "AR"
     },
@@ -46862,7 +46862,7 @@ const STORES = {
         "name": "Indio Neighborhood Market",
         "type": "Neighborhood Market",
         "address": "44100 JEFFERSON ST STE F, Indio, CA 92201-2715",
-        "phone": "",
+        "phone": "760-895-6030",
         "city": "Indio",
         "state": "CA"
     },
@@ -46880,7 +46880,7 @@ const STORES = {
         "name": "Bentonville Supercenter",
         "type": "Supercenter",
         "address": "2608 SE J ST, Bentonville, AR 72716-5561",
-        "phone": "",
+        "phone": "479-273-4000",
         "city": "Bentonville",
         "state": "AR"
     }
